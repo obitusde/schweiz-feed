@@ -2,11 +2,32 @@
 <rss version="2.0">
   <channel>
     <title>Schweiz</title>
-    <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
+    <link>https://script.google.com/macros/s/AKfycby5GS5hDGp0mvqFkxJqYnn2GKuxIabm7bJ4fEW_WCpo/dev</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 06:03:54 GMT</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>[SRF Wissen] Q&amp;A zu Schulen – Welche Fragen haben Sie zur Schule und Bildung?</title>
+      <link>https://www.srf.ch/news/srf-news-chats/q-a-zu-schulen-welche-fragen-haben-sie-zur-schule-und-bildung</link>
+      <guid isPermaLink="false">urn:srf:article:01a0a95d-75d3-e0b5-6481-93567f74bf5d</guid>
+      <description><![CDATA[Eine Fachrunde beantwortet von 10:00 bis 12:30 Uhr Ihre Fragen rund um den Schulunterricht. Schreiben Sie uns!]]></description>
+      <pubDate>Thu, 17 Sep 2026 05:43:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Marktbericht: Anleger nehmen US-Zinserhöhung gelassen auf</title>
+      <link>https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html</link>
+      <guid isPermaLink="false">bd35a58f-82a8-454d-983b-b566a115c182</guid>
+      <description><![CDATA[Der DAX dürfte heute trotz der Zinserhöhung in den USA zum Handelsstart zulegen. Die Anleger sehen die Unabhängigkeit der US-Notenbank bestätigt. Auch das Mehr an Klarheit über den künftigen Zinskurs kommt an.]]></description>
+      <pubDate>Thu, 17 Sep 2026 05:36:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Steuerprivileg Hotellerie – Warum die Boom-Branche Tourismus seit 1996 Krisenhilfe erhält</title>
+      <link>https://www.srf.ch/news/wirtschaft/steuerprivileg-hotellerie-warum-die-boom-branche-tourismus-seit-1996-krisenhilfe-erhaelt</link>
+      <guid isPermaLink="false">urn:srf:article:01a0a96c-e747-5137-f85e-5916c2dfb820</guid>
+      <description><![CDATA[1996 führte das Parlament eine reduzierte Mehrwertsteuer für die serbelnde Hotellerie ein. Heute boomt die Branche.]]></description>
+      <pubDate>Thu, 17 Sep 2026 05:35:17 GMT</pubDate>
+    </item>
     <item>
       <title>[Tagesschau Europa] Wie stellt Kanada sich die "einzigartige Allianz" vor?</title>
       <link>https://www.tagesschau.de/ausland/europa/kanada-eu-carney-rede-100.html</link>
@@ -146,13 +167,6 @@
       <guid isPermaLink="false">urn:srf:article:01a0a89c-17e4-1e31-6d07-7a5bc7e3729d</guid>
       <description><![CDATA[Eine Crew in einem TV-Helikopter wollte einen Verkehrsunfall filmen und stürzte ab – mindestens drei Todesopfer.]]></description>
       <pubDate>Wed, 16 Sep 2026 17:49:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Herbstsession 2026 – Debatte über Gleichstellung von Menschen mit Behinderung</title>
-      <link>https://www.srf.ch/news/schweiz/herbstsession-2026-debatte-ueber-gleichstellung-von-menschen-mit-behinderung-1</link>
-      <guid isPermaLink="false">urn:srf:article:01a08b40-a109-7d23-f94b-a8ae199d6f13</guid>
-      <description><![CDATA[In Bern läuft die Herbstsession der Eidgenössischen Räte. Die wichtigsten Debatten und Entscheide im Ticker.]]></description>
-      <pubDate>Wed, 16 Sep 2026 17:30:30 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Herausforderungen der SBB – SBB-Chef Vincent Ducrot: «Erste Priorität hat der Gleisunterhalt»</title>
@@ -496,34 +510,6 @@
       <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-plus-d-un-lausannois-vit-dans-une-zone-manquant-d-arbres-103634077</guid>
       <description><![CDATA[Fast 66'000 Einwohner leben in einem Sektor, der weniger als 20 % Baumkronenabdeckung bietet.]]></description>
       <pubDate>Wed, 16 Sep 2026 06:17:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Grippe-Impfung – Zu wenig Impfstoff aktuell verfügbar</title>
-      <link>https://www.srf.ch/news/schweiz/grippe-impfung-zu-wenig-impfstoff-aktuell-verfuegbar</link>
-      <guid isPermaLink="false">urn:srf:article:01a0a54d-8ea3-fb57-81d6-ec77fc414517</guid>
-      <description><![CDATA[Das BAG geht aktuell davon aus, dass lediglich 60 Prozent des Grippe-Impfstoffes rechtzeitig geliefert wird.]]></description>
-      <pubDate>Wed, 16 Sep 2026 06:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Strasse von Hormus – «Wird das Öl verschluckt, ist es für die Tiere akut toxisch»</title>
-      <link>https://www.srf.ch/news/international/nahost/strasse-von-hormus-wird-das-oel-verschluckt-ist-es-fuer-die-tiere-akut-toxisch</link>
-      <guid isPermaLink="false">urn:srf:article:01a0a88d-80c5-1676-da2d-e374d2296a5e</guid>
-      <description><![CDATA[Mitten im Kriegsgebiet breiten sich Ölteppiche aus. Für eine wirksame Bekämpfung fehlen Sicherheit und Zuständigkeit.]]></description>
-      <pubDate>Wed, 16 Sep 2026 05:57:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] ÖV und Sharing-Velos – Machen Leihvelos den ÖV attraktiver? Basel testet Abo-Kombination</title>
-      <link>https://www.srf.ch/news/schweiz/oev-und-sharing-velos-machen-leihvelos-den-oev-attraktiver-basel-testet-abo-kombination</link>
-      <guid isPermaLink="false">urn:srf:article:01a0a479-1343-77ea-33e8-8bc81af91d97</guid>
-      <description><![CDATA[Die Fachhochschule Nordwestschweiz testet bis November, ob die Kombination von Abonnementen das Verhalten verändert.]]></description>
-      <pubDate>Wed, 16 Sep 2026 05:45:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] Hirn statt Moral – Die versteckten Vorurteile in unseren Gehirnen</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/hirn-statt-moral-die-versteckten-vorurteile-in-unseren-gehirnen</link>
-      <guid isPermaLink="false">urn:srf:article:01a09f7d-d90e-1fdf-d803-22fc7908c014</guid>
-      <description><![CDATA[Liya Yu erforscht, wie unser Gehirn Politik prägt – und was Hirnforschung für die Demokratie leisten kann.]]></description>
-      <pubDate>Wed, 16 Sep 2026 04:55:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
