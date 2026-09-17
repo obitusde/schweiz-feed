@@ -2,17 +2,80 @@
 <rss version="2.0">
   <channel>
     <title>Schweiz</title>
-    <link>https://script.google.com/macros/s/AKfycby5GS5hDGp0mvqFkxJqYnn2GKuxIabm7bJ4fEW_WCpo/dev</link>
+    <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:30:36 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Wirtschaft] Zinssitzung der Fed – US-Notenbank hebt Leitzinsen um 0.25 Prozentpunkte an</title>
-      <link>https://www.srf.ch/news/international/zinssitzung-der-fed-us-notenbank-hebt-leitzinsen-um-0-25-prozentpunkte-an</link>
+      <title>[Tagesschau Europa] Wie stellt Kanada sich die "einzigartige Allianz" vor?</title>
+      <link>https://www.tagesschau.de/ausland/europa/kanada-eu-carney-rede-100.html</link>
+      <guid isPermaLink="false">7291aa5a-a175-483d-9f92-7e14bce97607</guid>
+      <description><![CDATA[Kanada und die EU wollen noch mehr zusammenarbeiten. Wie genau das aussehen könnte, ist noch unklar. In seiner Rede vor dem EU-Parlament könnte Premier Carney heute ein paar der offenen Fragen beantworten. Von Giselle Ucar.]]></description>
+      <pubDate>Thu, 17 Sep 2026 04:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Wenn das Girokonto mehr als 100 Euro kostet: Wie der Wechsel gelingt</title>
+      <link>https://www.tagesschau.de/wirtschaft/finanzen/girokonto-kontofuehrungsgebuehr-wechsel-100.html</link>
+      <guid isPermaLink="false">72bfa3b2-def2-40e8-a564-d6a7648d62ab</guid>
+      <description><![CDATA[Das Girokonto ist praktisch unverzichtbar. Doch vor allem bei vielen Filialbanken fällt mittlerweile eine Kontoführungsgebühr an - Kosten, die sich oft vermeiden lassen. Von L.-M. Hiltscher und L. Sallamon.]]></description>
+      <pubDate>Thu, 17 Sep 2026 04:28:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] «Too big to fail»-Regulierung – «Lex UBS» – Jetzt kommt es zum Showdown im Ständerat</title>
+      <link>https://www.srf.ch/news/schweiz/too-big-to-fail-regulierung-lex-ubs-jetzt-kommt-es-zum-showdown-im-staenderat</link>
+      <guid isPermaLink="false">urn:srf:article:01a0aa4b-2860-221e-642c-17551598d457</guid>
+      <description><![CDATA[Der Ständerat entscheidet, wie die UBS ihre ausländischen Tochtergesellschaften besser absichern soll. Die Ausgangslage.]]></description>
+      <pubDate>Thu, 17 Sep 2026 04:18:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Unternehmungen an der Rue Centrale: Der «Albtraum» der Gewerbetreibenden</title>
+      <link>https://www.20min.ch/fr/story/lausanne-incivilites-a-la-rue-centrale-le-cauchemar-des-commercants-103632912</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/lausanne-incivilites-a-la-rue-centrale-le-cauchemar-des-commercants-103632912</guid>
+      <description><![CDATA[Müll, Diebstähle und eingeschlagene Schaufenster: In dieser Passage der Innenstadt sind die Akteure des Viertels am Ende ihrer Kräfte. Die Polizei versichert, diesem Problem «besondere Aufmerksamkeit» zu schenken.]]></description>
+      <pubDate>Thu, 17 Sep 2026 04:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Offset-Geschäft zum Kampfjet – Warum der F-35 der ETH einen Quantencomputer beschert</title>
+      <link>https://www.srf.ch/news/schweiz/offset-geschaeft-zum-kampfjet-warum-der-f-35-der-eth-einen-quantencomputer-beschert</link>
+      <guid isPermaLink="false">urn:srf:article:01a0aa0f-57d4-5850-d3ab-0d0b3393381d</guid>
+      <description><![CDATA[Der F-35-Kauf geht weit über Kampfjets hinaus. Nun verhilft die Beschaffung der ETH zu einem Quantencomputer von IBM.]]></description>
+      <pubDate>Thu, 17 Sep 2026 03:54:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Ein Sturmjäger erzählt – Im Auge des Hagelsturms – warum macht er das freiwillig?</title>
+      <link>https://www.srf.ch/wissen/natur-tiere/ein-sturmjaeger-erzaehlt-im-auge-des-hagelsturms-warum-macht-er-das-freiwillig</link>
+      <guid isPermaLink="false">urn:srf:article:01a066a6-eb90-b4b5-8e1d-984476673a6e</guid>
+      <description><![CDATA[Während andere Schutz suchen, fährt er direkt in die schwarze Wolkenwand hinein.]]></description>
+      <pubDate>Thu, 17 Sep 2026 03:52:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Klimawandel in den Alpen – Für Bergführer wird die Anpassung zur Pflicht</title>
+      <link>https://www.srf.ch/news/schweiz/klimawandel-in-den-alpen-fuer-bergfuehrer-wird-die-anpassung-zur-pflicht</link>
+      <guid isPermaLink="false">urn:srf:article:01a09f15-6b54-61cd-bde0-33a31fb13d34</guid>
+      <description><![CDATA[Die Alpen verändern sich wegen des Klimawandels rasant. Bergführer müssen daher weit mehr können als nur klettern.]]></description>
+      <pubDate>Thu, 17 Sep 2026 03:51:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] US-Kongress stimmt für schärfere Sanktionen gegen Russland</title>
+      <link>https://www.tagesschau.de/ausland/europa/usa-russland-sanktionen-136.html</link>
+      <guid isPermaLink="false">dc60c814-34a2-4930-b804-578d9bef5de4</guid>
+      <description><![CDATA[Es ist der wohl bedeutendste Vorstoß der USA zur Unterstützung der Ukraine, seit Trump zurück im Amt ist: Nach dem Senat hat nun auch das Repräsentantenhaus neuen Sanktionen zugestimmt. Nun fehlt nur noch die Unterschrift des Präsidenten.]]></description>
+      <pubDate>Thu, 17 Sep 2026 00:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Höhere Zinsen in den USA – US-Notenbank hebt Leitzinsen um 0.25 Prozentpunkte an</title>
+      <link>https://www.srf.ch/news/international/hoehere-zinsen-in-den-usa-us-notenbank-hebt-leitzinsen-um-0-25-prozentpunkte-an</link>
       <guid isPermaLink="false">urn:srf:article:01a0a93b-5f1b-09a1-752e-05d972db559a</guid>
       <description><![CDATA[Die Zinsspanne der Federal Reserve liegt damit bei 3.75 bis 4.00 Prozent. US-Präsident Trump dürfte das nicht gefallen.]]></description>
-      <pubDate>Wed, 16 Sep 2026 20:23:28 GMT</pubDate>
+      <pubDate>Wed, 16 Sep 2026 22:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] Die Mitte Waadt lanciert offiziell ihren Präsidenten Giancarlo Sergi für den Staatsrat</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/conseil-d-etat-vaudois-le-centre-lance-giancarlo-sergi-29359466.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29359466</guid>
+      <description><![CDATA[<div><a href="https://www.rts.ch/info/regions/vaud/2026/article/conseil-d-etat-vaudois-le-centre-lance-giancarlo-sergi-29359466.html?rts_source=rss_t" alt="Le Centre Vaud lance officiellement son président Giancarlo Sergi pour le Conseil d'Etat"></a>Die Mitte Waadt hat die Kandidatur von Giancarlo Sergi für die Wahl in den Staatsrat im kommenden Februar abgesegnet. Als einziger Bewerber innerhalb seiner Partei]]></description>
+      <pubDate>Wed, 16 Sep 2026 21:35:44 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Wirtschaft] Kampf gegen Inflation – US-Notenbank Fed geht auf Distanz zu Trump</title>
@@ -461,62 +524,6 @@
       <guid isPermaLink="false">urn:srf:article:01a09f7d-d90e-1fdf-d803-22fc7908c014</guid>
       <description><![CDATA[Liya Yu erforscht, wie unser Gehirn Politik prägt – und was Hirnforschung für die Demokratie leisten kann.]]></description>
       <pubDate>Wed, 16 Sep 2026 04:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Streit über Wahlrechtsreform: Melonis Zitterpartie</title>
-      <link>https://www.tagesschau.de/ausland/europa/meloni-wahlrecht-reform-100.html</link>
-      <guid isPermaLink="false">74637178-7cc2-45c3-b5d1-3ebfcf188ce2</guid>
-      <description><![CDATA[Das Kabinett Meloni regiert Italien inzwischen länger als jeder seiner Vorgänger in der Nachkriegszeit. Und doch sitzt Meloni längst nicht mehr so fest im Sattel. Ein Streit über eine Wahlrechtsreform belastet ihre Koalition schwer. Von A. Giordano.]]></description>
-      <pubDate>Wed, 16 Sep 2026 04:29:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Ehemaliges „Flussmaskottchen“, der Otter ist zurück</title>
-      <link>https://www.20min.ch/fr/story/geneve-ancienne-mascotte-des-rivieres-la-loutre-est-de-retour-103633639</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-ancienne-mascotte-des-rivieres-la-loutre-est-de-retour-103633639</guid>
-      <description><![CDATA[Zum ersten Mal seit Jahrzehnten wurde ein Otter im Kanton beobachtet. Die Art könnte eine Rückeroberung ihrer alten Territorien beginnen.]]></description>
-      <pubDate>Wed, 16 Sep 2026 04:18:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Risiko Cyberangriffe – Sicherheitsexperten: Blackout-Risiko wegen Solaranlagen</title>
-      <link>https://www.srf.ch/news/schweiz/risiko-cyberangriffe-sicherheitsexperten-blackout-risiko-wegen-solaranlagen</link>
-      <guid isPermaLink="false">urn:srf:article:01a09f17-ed8b-e1b4-65e6-f9dbe2bab5ad</guid>
-      <description><![CDATA[Zehntausende Solaranlagen in der Schweiz seien leicht angreifbar, warnt eine Studie – mit fatalen Folgen fürs Stromnetz.]]></description>
-      <pubDate>Wed, 16 Sep 2026 04:04:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] 2. SRG-Umfrage auf einen Blick – Komfortable Nein-Trends bei beiden Volksinitiativen</title>
-      <link>https://www.srf.ch/news/schweiz/2-srg-umfrage-auf-einen-blick-komfortable-nein-trends-bei-beiden-volksinitiativen</link>
-      <guid isPermaLink="false">urn:srf:article:01a0a448-2322-eac4-dc1e-de52ddc65e9d</guid>
-      <description><![CDATA[Anfang September wären die Neutralitätsinitiative wie auch die Ernährungsinitiative relativ deutlich abgelehnt worden.]]></description>
-      <pubDate>Wed, 16 Sep 2026 03:59:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Flutwelle in Nepal – Kritik am Krisenmanagement der Regierung</title>
-      <link>https://www.srf.ch/news/international/flutwelle-in-nepal-kritik-am-krisenmanagement-der-regierung</link>
-      <guid isPermaLink="false">urn:srf:article:01a09aa8-ea56-289a-a814-a5a3dbe05da3</guid>
-      <description><![CDATA[Der Regierung Nepals wird vorgeworfen, nach der Flutwelle zu spät das Ausland um Hilfe gebeten zu haben.]]></description>
-      <pubDate>Wed, 16 Sep 2026 03:51:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Prozess gegen Thaci: Wird Kosovos Ex-Präsident verurteilt?</title>
-      <link>https://www.tagesschau.de/ausland/europa/kosovo-sondergericht-urteil-thaci-100.html</link>
-      <guid isPermaLink="false">0bbde723-703e-4bb7-a52b-1dc2c0f50a2f</guid>
-      <description><![CDATA[Hashim Thaci hat den Kosovo mit der Kosovarischen Befreiungsarmee in die Unabhängigkeit geführt. Hat der Ex-Präsident dabei Kriegsverbrechen begangen? Ein Sondertribunal in Den Haag fällt heute sein Urteil. Von Andreas Herz.]]></description>
-      <pubDate>Wed, 16 Sep 2026 03:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Streit um Umbenennung: Trump kündigt Schließung des Kennedy Centers an</title>
-      <link>https://www.tagesschau.de/ausland/europa/trump-usa-kennedy-center-100.html</link>
-      <guid isPermaLink="false">1ac92995-a798-49ad-bc97-190c4b8ffbe2</guid>
-      <description><![CDATA[US-Präsident Trump will seinen Namen am berühmten Kennedy Center anbringen. Nachdem ein Gericht dies erneut untersagte, kündigte er die sofortige Schließung an. Das begründete er unter anderem mit nötigen Renovierungsarbeiten.]]></description>
-      <pubDate>Wed, 16 Sep 2026 00:17:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Russland und Dänemark beschuldigen sich nach Leuchtraketen -Beschuss</title>
-      <link>https://www.tagesschau.de/ausland/europa/daenemark-russland-fregatte-100.html</link>
-      <guid isPermaLink="false">5a6f26eb-70e8-49c2-b9cc-1befba2c3935</guid>
-      <description><![CDATA[Eine russische Fregatte hat einen dänischen Helikopter auf der Ostsee mit Leuchtraketen beschossen. Dänemark und die EU kritisierten den Vorfall scharf. Russlands Botschafter in Kopenhagen warf Dänemark Provokation vor. Von C. Stichler.]]></description>
-      <pubDate>Tue, 15 Sep 2026 23:13:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
