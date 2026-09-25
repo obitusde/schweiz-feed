@@ -5,11 +5,291 @@
     <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Thu, 24 Sep 2026 10:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:30:36 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Ausland] Angriffskrieg auf die Ukraine – Nun nimmt Putin Kiew ins Visier</title>
-      <link>https://www.srf.ch/news/international/ukraine/angriffskrieg-auf-die-ukraine-nun-nimmt-putin-kiew-ins-visier</link>
+      <title>[RTS Vaud] Mit 12 Jahren landete er nach monatelanger Schulgewalt in der Notaufnahme</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/harcelement-scolaire-a-12-ans-un-eleve-finit-aux-urgences-29366698.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29366698</guid>
+      <description><![CDATA[<div><a href="https://www.rts.ch/info/regions/vaud/2026/article/harcelement-scolaire-a-12-ans-un-eleve-finit-aux-urgences-29366698.html?rts_source=rss_t" alt="A 12 ans, il finit aux urgences après des mois de violence à l'école"></a>Als Opfer von Mobbing an der Schule im Kanton Waadt wurde der 12-jährige Thomas nach suizidalen Gedanken im CHUV hospitalisiert. Seine Aussagen berühren]]></description>
+      <pubDate>Fri, 25 Sep 2026 04:09:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Künstliche Intelligenz – Wo KI auf der Baustelle bereits mitmischt</title>
+      <link>https://www.srf.ch/radio-srf-1/kuenstliche-intelligenz-wo-ki-auf-der-baustelle-bereits-mitmischt</link>
+      <guid isPermaLink="false">urn:srf:article:01a0ce3d-ab81-8fba-b0fc-f7c34fc2e461</guid>
+      <description><![CDATA[Die Baubranche setzt auf KI. Sie soll nicht nur die Arbeit erleichtern, sondern auch Nachwuchs für den Bau begeistern.]]></description>
+      <pubDate>Fri, 25 Sep 2026 03:55:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Aktion «Keine 50-Grad-Sommer» – Die Klimabewegung nimmt einen neuen Anlauf</title>
+      <link>https://www.srf.ch/news/schweiz/aktion-keine-50-grad-sommer-die-klimabewegung-nimmt-einen-neuen-anlauf</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d2a5-03a8-54da-964b-6dc31d65146c</guid>
+      <description><![CDATA[Mit Demonstrationen in Schweizer Städten meldet sich die Klimabewegung zurück. Die Pläne reichen bis ins Wahljahr 2027.]]></description>
+      <pubDate>Fri, 25 Sep 2026 03:54:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Aus für Eigenmietwert – Neue Bündner Steuer auf Zweitwohnungen soll Finanzloch stopfen</title>
+      <link>https://www.srf.ch/news/schweiz/aus-fuer-eigenmietwert-neue-buendner-steuer-auf-zweitwohnungen-soll-finanzloch-stopfen</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d344-fffc-f20b-2ae4-797c01753863</guid>
+      <description><![CDATA[Der Tourismuskanton will den Steuerausfall in Millionenhöhe abfedern. Graubünden hätte damit eine Vorreiterrolle.]]></description>
+      <pubDate>Fri, 25 Sep 2026 03:51:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Treffen im Weissen Haus – Trump empfängt Xi zum prunkvollen Staatsbankett</title>
+      <link>https://www.srf.ch/news/international/treffen-im-weissen-haus-trump-empfaengt-xi-zum-prunkvollen-staatsbankett</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d650-e702-a00f-a8a4-0f1a5cbb09f9</guid>
+      <description><![CDATA[Beim Treffen der Staatschefs bleiben Durchbrüche aus. Gespräche über Taiwan, KI und den Iran zeigen die Differenzen.]]></description>
+      <pubDate>Fri, 25 Sep 2026 03:47:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Macron will Ölhafen in Saudi-Arabien militärisch schützen</title>
+      <link>https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html</link>
+      <guid isPermaLink="false">35d467dd-4e7b-4b7b-bfec-7be0b114133c</guid>
+      <description><![CDATA[Um die Ölinfrastruktur Saudi-Arabiens zu schützen, kündigt Frankreich an, Militärgerät und Truppen ans Rote Meer zu schicken. Direkt in den Konflikt mit der Huthi-Miliz wolle er aber nicht einsteigen, sagte Präsident Macron.]]></description>
+      <pubDate>Fri, 25 Sep 2026 03:44:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Manipulationsskandal an der türkischen Börse</title>
+      <link>https://www.tagesschau.de/wirtschaft/boerse/manipulation-skandal-boerse-istanbul-100.html</link>
+      <guid isPermaLink="false">af06a588-6fe5-436a-9723-d6a8ddea1621</guid>
+      <description><![CDATA[Die türkische Börse wird von einem Manipulationsskandal erschüttert. Mehrere Investmentfirmen sollen einzelne Aktienkurse künstlich in die Höhe getrieben haben. Hunderttausende Anleger könnten betroffen sein. Von Pia Masurczak.]]></description>
+      <pubDate>Fri, 25 Sep 2026 03:22:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Ägäis: Spannungen zwischen Griechenland und der Türkei nehmen zu</title>
+      <link>https://www.tagesschau.de/ausland/europa/griechenland-tuerkei-spannungen-100.html</link>
+      <guid isPermaLink="false">345e2ef6-6bf5-4ad2-8d6a-7784a2e8f590</guid>
+      <description><![CDATA[Griechenland und die Türkei beschuldigen sich gegenseitig, für zunehmende Spannungen zwischen beiden Ländern verantwortlich zu sein. Es geht um Hoheitsgewässer, Besitzansprüche und Einfluss im Mittelmeerraum. Von Jasper Riemann.]]></description>
+      <pubDate>Fri, 25 Sep 2026 02:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges Actualitiés] Wassereinschränkungen bis auf Weiteres aufrechterhalten</title>
+      <link>https://www.morges.ch/actualites/restrictions-sur-l-eau-maintenues-jusqu-a-nouvel-avis-213887</link>
+      <guid isPermaLink="false">https://www.morges.ch/actualites/restrictions-sur-l-eau-maintenues-jusqu-a-nouvel-avis-213887</guid>
+      <description><![CDATA[Aktuelle Nachrichten - 24.09.2026]]></description>
+      <pubDate>Fri, 25 Sep 2026 02:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges Actualitiés] Die Eisbahn bald wieder geöffnet</title>
+      <link>https://www.morges.ch/actualites/la-patinoire-bientot-rouverte-213886</link>
+      <guid isPermaLink="false">https://www.morges.ch/actualites/la-patinoire-bientot-rouverte-213886</guid>
+      <description><![CDATA[Aktuelle Nachrichten - 23.09.2026]]></description>
+      <pubDate>Fri, 25 Sep 2026 02:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] Keine besorgniserregende Verschmutzung nach dem Brand bei Thévenaz-Leduc</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/incendie-a-ecublens-pas-de-pollution-chez-thevenaz-leduc-29366802.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29366802</guid>
+      <description><![CDATA[<div><a href="https://www.rts.ch/info/regions/vaud/2026/article/incendie-a-ecublens-pas-de-pollution-chez-thevenaz-leduc-29366802.html?rts_source=rss_t" alt="Pas de pollution inquiétante après l'incendie chez Thévenaz-Leduc"></a>Die nach dem Grossbrand Ende August bei Thévenaz-Leduc in Ecublens (VD) durchgeführten Analysen haben keine nennenswerte Boden- oder Wasserverschmutzung ergeben.]]></description>
+      <pubDate>Thu, 24 Sep 2026 21:10:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Russland-Sanktionen – EU streicht zwei Oligarchen von der Sanktionsliste – darum geht's</title>
+      <link>https://www.srf.ch/news/international/russland-sanktionen-eu-streicht-zwei-oligarchen-von-der-sanktionsliste-darum-geht-s</link>
+      <guid isPermaLink="false">urn:srf:article:01a0c9fc-16ae-7197-8e52-5f19cd1b9be3</guid>
+      <description><![CDATA[Die EU-Mitglieder haben lange um eine Verlängerung der Russland-Sanktionen gerungen. Jetzt setzt sich Frankreich durch.]]></description>
+      <pubDate>Thu, 24 Sep 2026 19:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] 2.5 Milliarden in 6 Monaten – Sind Gaza-Wiederaufbaupläne mehr als ein leeres Versprechen?</title>
+      <link>https://www.srf.ch/news/international/2-5-milliarden-in-6-monaten-sind-gaza-wiederaufbauplaene-mehr-als-ein-leeres-versprechen</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d3f8-c215-23b0-a589-162230d21193</guid>
+      <description><![CDATA[Trumps «Friedensrat» will einen Teil des Gazastreifens wiederaufbauen – mit Geld, das erst noch gespendet werden muss.]]></description>
+      <pubDate>Thu, 24 Sep 2026 19:01:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Super-El-Niño – Forschende warnen: Klimaphänomen könnte mehr Hitzetote fordern</title>
+      <link>https://www.srf.ch/news/super-el-nino-forschende-warnen-klimaphaenomen-koennte-mehr-hitzetote-fordern</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d27f-6ffc-bf8b-b05d-558a31370079</guid>
+      <description><![CDATA[Ein neuer Forschungsbericht warnt, dass der aktuelle Super-El-Niño tödliche Folgen haben könnte.]]></description>
+      <pubDate>Thu, 24 Sep 2026 18:13:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] «Heisssporne» machen Stunts mitten im Verkehr</title>
+      <link>https://www.20min.ch/fr/story/lausanne-des-fous-du-guidon-font-des-figures-au-milieu-du-trafic-103638393</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/lausanne-des-fous-du-guidon-font-des-figures-au-milieu-du-trafic-103638393</guid>
+      <description><![CDATA[In Lausanne beunruhigt das «Bike Life» Fussgänger und Autofahrer. Ein junger Anhänger erzählt von dieser Praxis, die die Stadt stärker regulieren möchte.]]></description>
+      <pubDate>Thu, 24 Sep 2026 18:04:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] «Raumfahrtnation Schweiz» – Nationalrat ebnet den Weg für erstes Schweizer Raumfahrtgesetz</title>
+      <link>https://www.srf.ch/news/schweiz/raumfahrtnation-schweiz-nationalrat-ebnet-den-weg-fuer-erstes-schweizer-raumfahrtgesetz</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d3c9-b4c2-7547-3714-ec5acd4319c4</guid>
+      <description><![CDATA[Die grosse Kammer nimmt das neue Gesetz klar an. Zu reden gab der Zwist: Selbstdeklaration oder Bewilligungsverfahren?]]></description>
+      <pubDate>Thu, 24 Sep 2026 17:58:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen</title>
+      <link>https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html</link>
+      <guid isPermaLink="false">2840e188-e7ec-4637-881e-c687b63d14c1</guid>
+      <description><![CDATA[Gelingt es der Ukraine, den russischen Vorsprung bei schnellen, mit Jetantrieb ausgestatteten Drohnen aufzuholen? Die Antwort entscheidet über Leben und Tod vieler Menschen. Von Kai Küstner und Stefan Niemann.]]></description>
+      <pubDate>Thu, 24 Sep 2026 17:50:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] KI ausser Kontrolle? – Cyberangriffe 2026: Kontrollverlust bei führenden KI-Technologien</title>
+      <link>https://www.srf.ch/news/international/ki-ausser-kontrolle-cyberangriffe-2026-kontrollverlust-bei-fuehrenden-ki-technologien</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d2c1-0ecc-0df8-6f1d-8accfd3c8352</guid>
+      <description><![CDATA[Hacker-Angriffe und Kontrollverlust: Jüngste Vorfälle mit autonomen Agenten verschärfen die Debatte um KI-Risiken.]]></description>
+      <pubDate>Thu, 24 Sep 2026 17:39:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] US-Medienhäuser – Erst abgewiesen, dann zugelassen: Medien zurück im Weissen Haus</title>
+      <link>https://www.srf.ch/news/international/usa/us-medienhaeuser-erst-abgewiesen-dann-zugelassen-medien-zurueck-im-weissen-haus</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d1d2-0ee9-d381-8987-315517c1a4df</guid>
+      <description><![CDATA[Nach anfänglicher Missachtung eines Gerichtsurteils hat das Weisse Haus Reporter von CNN und Politico wieder zugelassen.]]></description>
+      <pubDate>Thu, 24 Sep 2026 17:18:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Wechsel zum IWF: EZB-Direktorin Schnabel tritt vorzeitig ab</title>
+      <link>https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-schnabel-ezb-100.html</link>
+      <guid isPermaLink="false">81a23c04-5117-4a63-ac6e-45ba83fea9cd</guid>
+      <description><![CDATA[Die deutsche Top-Ökonomin zieht es für eine neue Rolle nach Washington zum Internationalen Währungsfonds. Die Neubesetzung könnte interessant werden - denn auch die EZB-Präsidentin könnte ihren Posten vorzeitig räumen.]]></description>
+      <pubDate>Thu, 24 Sep 2026 16:35:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Marktbericht: Hohe Ölpreise fachen Inflations- und Zinsängste an</title>
+      <link>https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html</link>
+      <guid isPermaLink="false">fabc04b3-106c-4560-b1c0-97e3d2cd635f</guid>
+      <description><![CDATA[Die Zinssorgen lassen die DAX-Anleger nicht los. Höhere Ölpreise und steigende Bond-Renditen haben den deutschen Leitindex heute belastet. Dagegen konnten auch gute Konjunkturdaten nichts ausrichten.]]></description>
+      <pubDate>Thu, 24 Sep 2026 16:18:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] In Marcelin, ein experimenteller Obstgarten im Dienste der Obstbauern</title>
+      <link>https://journaldemorges.ch/actualite/a-marcelin-un-verger-experimental-au-service-des-arboriculteurs/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/a-marcelin-un-verger-experimental-au-service-des-arboriculteurs/</guid>
+      <description><![CDATA[In Marcelin verwaltet die Union fruitière lémanique seit 2018 einen einzigartigen Obstgarten. Befreit von jeglichem wirtschaftlichen Druck lautet ihr Motto: experimentieren.]]></description>
+      <pubDate>Thu, 24 Sep 2026 16:00:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Tesla macht einen Rückzieher und kommt nicht nach Tolochenaz</title>
+      <link>https://journaldemorges.ch/actualite/societe/tesla-fait-marche-arriere-et-ne-viendra-pas-a-tolochenaz/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/tesla-fait-marche-arriere-et-ne-viendra-pas-a-tolochenaz/</guid>
+      <description><![CDATA[Das Elektroauto-Unternehmen wird sich nicht in einer Halle niederlassen, die den MBC gehört. Ein offensichtlicher Einnahmeverlust für das öffentliche Verkehrsunternehmen.]]></description>
+      <pubDate>Thu, 24 Sep 2026 16:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Auf den Spuren der Lebensmittelkontrolleure, die unsere Teller überwachen</title>
+      <link>https://journaldemorges.ch/actualite/societe/sur-les-traces-des-inspecteurs-des-denrees-alimentaires-qui-surveillent-nos-assiettes/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/sur-les-traces-des-inspecteurs-des-denrees-alimentaires-qui-surveillent-nos-assiettes/</guid>
+      <description><![CDATA[Wir haben Lebensmittelproben verfolgt, die in den Küchen eines Restaurants entnommen und im Labor analysiert wurden, um das Risiko für die Gesundheit der Verbraucher zu bestimmen.]]></description>
+      <pubDate>Thu, 24 Sep 2026 16:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Nach den Schüssen auf die Klinik, neue Schießerei in Annemasse</title>
+      <link>https://www.20min.ch/fr/story/guerre-des-dealers-f-apres-les-tirs-sur-la-clinique-nouvelle-fusillade-a-annemasse-103638387</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/guerre-des-dealers-f-apres-les-tirs-sur-la-clinique-nouvelle-fusillade-a-annemasse-103638387</guid>
+      <description><![CDATA[Mehrere Kalaschnikow-Schüsse wurden in der Nacht von Mittwoch auf Donnerstag am Le Perrier auf ein Gebäude und Fahrzeuge abgefeuert – die x-te Episode eines Gewaltkreislaufs.]]></description>
+      <pubDate>Thu, 24 Sep 2026 15:53:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Q&amp;A zu Pflege und Gesundheit – Pflege unter Druck: Antworten auf die wichtigsten Fragen</title>
+      <link>https://www.srf.ch/news/srf-news-chats/q-a-zu-pflege-und-gesundheit-pflege-unter-druck-antworten-auf-die-wichtigsten-fragen</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d39c-a257-856f-7ce8-f5ef7c188dda</guid>
+      <description><![CDATA[Im Live-Q&A haben Fachpersonen Ihre Fragen zur Schweizer Pflegesituation beantwortet. Die wichtigsten Erkenntnisse.]]></description>
+      <pubDate>Thu, 24 Sep 2026 15:52:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Nächster Streitpunkt – Lebensmittel-Abkommen wird zum Stolperstein im EU-Paket</title>
+      <link>https://www.srf.ch/news/schweiz/naechster-streitpunkt-lebensmittel-abkommen-wird-zum-stolperstein-im-eu-paket</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d3b4-0553-d41e-76b9-c37db15ff1af</guid>
+      <description><![CDATA[Nach dem Stromabkommen könnte auch das Lebensmittelabkommen vom EU-Paket abgekoppelt werden.]]></description>
+      <pubDate>Thu, 24 Sep 2026 15:21:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Chinas Hersteller holen auf – Elektroautos überflügeln in Europa reine Verbrenner</title>
+      <link>https://www.srf.ch/news/wirtschaft/chinas-hersteller-holen-auf-elektroautos-ueberfluegeln-in-europa-reine-verbrenner</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d2d6-4779-a9ad-5143-de69a1c659f9</guid>
+      <description><![CDATA[Im August steigt der Anteil an E-Autos deutlich. Doch ohne Subventionen könnte der Boom schnell nachlassen.]]></description>
+      <pubDate>Thu, 24 Sep 2026 15:06:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Wie Wien erfolgreich gegen Wohnungsnot und hohe Mieten vorgeht</title>
+      <link>https://www.tagesschau.de/ausland/europa/wie-der-wiener-wohnungsbau-gelingt-100.html</link>
+      <guid isPermaLink="false">3a780392-fa8e-437d-8a32-d8158b7a95fc</guid>
+      <description><![CDATA[In vielen europäischen Hauptstädten herrscht Wohnungsnot. Österreich geht seit mehr als 100 Jahren in seiner Hauptstadt mit Gemeindebauten dagegen vor. Die Mieten dort sind vergleichsweise günstig. Wie geht das? Von Silke Hahne.]]></description>
+      <pubDate>Thu, 24 Sep 2026 14:58:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Nach Terroranschlag in Zürich – Räte wollen maximale Freiheitsstrafe im Jugendstrafrecht erhöhen</title>
+      <link>https://www.srf.ch/news/schweiz/nach-terroranschlag-in-zuerich-raete-wollen-maximale-freiheitsstrafe-im-jugendstrafrecht-erhoehen</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d348-8435-343d-86d3-be51c2fb1f39</guid>
+      <description><![CDATA[Jugendliche sollen bei schweren Gewaltdelikten härter bestraft werden. Der Bundesrat muss nun ein Gesetz ausarbeiten.]]></description>
+      <pubDate>Thu, 24 Sep 2026 14:50:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Rücktritt im Baselbiet – Anton Lauber tritt ab – Baselbiet sucht neuen Finanzdirektor</title>
+      <link>https://www.srf.ch/news/schweiz/ruecktritt-im-baselbiet-anton-lauber-tritt-ab-baselbiet-sucht-neuen-finanzdirektor</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d31a-955c-94b1-705d-5806f093f3f5</guid>
+      <description><![CDATA[Der Finanzdirektor hat die Politik im Baselbiet geprägt. Nun will Anton Lauber nicht mehr zur Wahl antreten.]]></description>
+      <pubDate>Thu, 24 Sep 2026 14:47:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Banken in Deutschland bewähren sich im Stresstest - mit Ausnahmen</title>
+      <link>https://www.tagesschau.de/wirtschaft/finanzen/banken-stresstest-bafin-bundesbank-100.html</link>
+      <guid isPermaLink="false">11e7bff5-0fa9-4352-8c6c-7f10f56dfdfa</guid>
+      <description><![CDATA[Der deutsche Bankenmarkt zeigt sich weitgehend krisenfest - das ist das Ergebnis des neuen Stresstests von Bundesbank und Finanzaufsicht. Dabei werden bestimmte Schocks und Verwerfungen simuliert. Von Ursula Mayer.]]></description>
+      <pubDate>Thu, 24 Sep 2026 14:29:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Handhabe gegen Gewalt – «Geht nicht mehr»: Demo-Veranstalter sollen Polizeikosten zahlen</title>
+      <link>https://www.srf.ch/news/schweiz/handhabe-gegen-gewalt-geht-nicht-mehr-demo-veranstalter-sollen-polizeikosten-zahlen</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d2c0-1615-9c76-a4bd-219f4fbcc719</guid>
+      <description><![CDATA[Die eskalierte Palästina-Kundgebung letzten Oktober war eine Zäsur. Der Bundesrat muss nun ein Gesetz ausarbeiten.]]></description>
+      <pubDate>Thu, 24 Sep 2026 14:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Insolvenz und ausstehende Gehälter: Leclanché in der Krise</title>
+      <link>https://www.20min.ch/fr/story/yverdon-les-bains-vd-insolvabilite-et-salaires-en-suspens-leclanche-en-crise-103638277</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/yverdon-les-bains-vd-insolvabilite-et-salaires-en-suspens-leclanche-en-crise-103638277</guid>
+      <description><![CDATA[Das Waadtländer Unternehmen hat die Eröffnung von Insolvenzverfahren für seine deutschen Tochtergesellschaften beantragt. In Yverdon haben die Mitarbeiter ihren Augustlohn nicht erhalten.]]></description>
+      <pubDate>Thu, 24 Sep 2026 13:56:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Premiere in 25 Jahren – USA laden keine Wahlbeobachter der OSZE ein – das steckt dahinter</title>
+      <link>https://www.srf.ch/news/international/premiere-in-25-jahren-usa-laden-keine-wahlbeobachter-der-osze-ein-das-steckt-dahinter</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d2d8-b1d7-afc9-a405-e0ba491aa27c</guid>
+      <description><![CDATA[Die USA haben keine OSZE-Beobachter für die Zwischenwahlen eingeladen. Ein Vorgehen, das sonst aus Russland bekannt ist.]]></description>
+      <pubDate>Thu, 24 Sep 2026 13:45:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Macht- und Gewinnstreben gefährden KI-Sicherheit</title>
+      <link>https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-regulierung-100.html</link>
+      <guid isPermaLink="false">a218fec8-98e2-46d9-a65c-365c51213827</guid>
+      <description><![CDATA[Seit Monaten warnen Experten: KI ohne Kontrolle schadet, könnte letztlich die Menschheit gefährden. Doch die Idee globaler Regeln für mehr Sicherheit droht an Macht- und Gewinnstreben zu scheitern. Von Heidi Radvilas.]]></description>
+      <pubDate>Thu, 24 Sep 2026 12:42:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] Die neue Partei von Valérie Dittli enthüllt ihr Programm</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/valerie-dittli-le-mouvement-liberal-devoile-son-programme-29366222.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29366222</guid>
+      <description><![CDATA[<div><a href="https://www.rts.ch/info/regions/vaud/2026/article/valerie-dittli-le-mouvement-liberal-devoile-son-programme-29366222.html?rts_source=rss_t" alt="Le nouveau parti de Valérie Dittli dévoile son programme"></a>Fünf Monate vor den Wahlen hat die neue Partei von Valérie Dittli, die Mouvement libéral vaudois, am Donnerstag ihr Programm vorgestellt. Sie ist fest im rechten Lager verankert und setzt sich für...]]></description>
+      <pubDate>Thu, 24 Sep 2026 12:22:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Bohnen-Gel mit Biss – Neues Verfahren gibt Bohnen eine fleischähnliche Struktur</title>
+      <link>https://www.srf.ch/wissen/forschung/bohnen-gel-mit-biss-neues-verfahren-gibt-bohnen-eine-fleischaehnliche-struktur</link>
+      <guid isPermaLink="false">urn:srf:article:01a06cb0-978c-56b6-ba87-11394155fea0</guid>
+      <description><![CDATA[Hülsenfrüchte mit Biss wie Fleisch oder Fisch. Ein neues Verfahren der ETH Zürich – mit Anleitung zum Selbermachen.]]></description>
+      <pubDate>Thu, 24 Sep 2026 12:16:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Preisgekrönter Schriftsteller soll mit KI geschrieben haben</title>
+      <link>https://www.tagesschau.de/ausland/europa/prix-goncourt-ki-100.html</link>
+      <guid isPermaLink="false">907c84aa-554d-4bdc-ab63-3d9bdddee0b5</guid>
+      <description><![CDATA[Sein Debütroman gilt als "Phänomen des Literaturjahres". Doch nun wird der Schriftsteller Thélyson Orélien beschuldigt, diesen mit KI geschrieben zu haben. Die Vorwürfe stellen Frankreichs Literaturbetrieb vor Herausforderungen. Von J. Borutta.]]></description>
+      <pubDate>Thu, 24 Sep 2026 12:08:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Deutlich höheres Wirtschaftswachstum erwartet als bisher</title>
+      <link>https://www.tagesschau.de/wirtschaft/konjunktur/herbstprognose-konjunktur-aufschwung-100.html</link>
+      <guid isPermaLink="false">2aee4a61-f920-4be8-a3df-2d79bd91f7d6</guid>
+      <description><![CDATA[Die deutsche Wirtschaft könnte 2026 viel stärker wachsen als im Frühjahr angenommen. Führende Forschungsinstitute gehen in ihrer Herbstprognose von 1,3 Prozent aus. Dennoch schrumpft der Arbeitsmarkt.]]></description>
+      <pubDate>Thu, 24 Sep 2026 11:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Angriffskrieg auf die Ukraine – So geht man in Kiew mit dem Dauerbeschuss um</title>
+      <link>https://www.srf.ch/news/international/ukraine/angriffskrieg-auf-die-ukraine-so-geht-man-in-kiew-mit-dem-dauerbeschuss-um</link>
       <guid isPermaLink="false">urn:srf:article:01a0d25b-7883-4bb8-100e-33a3e1bf5884</guid>
       <description><![CDATA[An der Front kommen die Russen nicht voran. Dafür greifen sie nun verstärkt Kiew an.]]></description>
       <pubDate>Thu, 24 Sep 2026 10:35:50 GMT</pubDate>
@@ -27,20 +307,6 @@
       <guid isPermaLink="false">urn:srf:article:01a0d290-693f-a6f2-50ea-e7e981187f41</guid>
       <description><![CDATA[Stressbälle sind bei Kindern beliebt. Nach einem Vorfall in Frankreich lässt Coop nun bestimmte Modelle überprüfen.]]></description>
       <pubDate>Thu, 24 Sep 2026 10:20:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Deutlich höheres Wirtschaftswachstum erwartet als bisher angenommen</title>
-      <link>https://www.tagesschau.de/wirtschaft/konjunktur/herbstprognose-konjunktur-aufschwung-100.html</link>
-      <guid isPermaLink="false">2aee4a61-f920-4be8-a3df-2d79bd91f7d6</guid>
-      <description><![CDATA[Die deutsche Wirtschaft könnte 2026 viel stärker wachsen als im Frühjahr angenommen. Führende Forschungsinstitute gehen in ihrer Herbstprognose von 1,3 Prozent aus. Aber der Aufschwung habe ein "schmales Fundament".]]></description>
-      <pubDate>Thu, 24 Sep 2026 09:55:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Gipfeltreffen in Washington – Xi bei Trump: die Kunst der Schadensbegrenzung</title>
-      <link>https://www.srf.ch/news/international/gipfeltreffen-in-washington-xi-bei-trump-die-kunst-der-schadensbegrenzung</link>
-      <guid isPermaLink="false">urn:srf:article:01a0d1ad-0428-c24c-fbe4-a597e1752340</guid>
-      <description><![CDATA[Xi Jinping reist zu Trump, um Zeit und Stabilität zu kaufen. Die Ziele sind bescheiden und doch ambitioniert.]]></description>
-      <pubDate>Thu, 24 Sep 2026 09:40:26 GMT</pubDate>
     </item>
     <item>
       <title>[Tagesschau Europa] Wieder Tote bei russischen Angriffen auf die Ukraine</title>
@@ -62,13 +328,6 @@
       <guid isPermaLink="false">168e70d8-7b8f-43c0-a1f9-2dada0a5da26</guid>
       <description><![CDATA[Die Preise für Häuser und Wohnungen in Deutschland steigen weiter - allerdings deutlich langsamer als zuvor. Vor allem in den größten Städten gingen die Preise für Eigentumswohnungen zuletzt zurück.]]></description>
       <pubDate>Thu, 24 Sep 2026 08:59:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Marktbericht: DAX startet mit Verlusten</title>
-      <link>https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html</link>
-      <guid isPermaLink="false">fabc04b3-106c-4560-b1c0-97e3d2cd635f</guid>
-      <description><![CDATA[Der DAX startet schwächer in den Handel. Nach den Verlusten vom Vortag bleiben die Anleger vorsichtig. Der Ölpreis ist trotz Hoffnungen auf eine diplomatische Lösung des Iran-Kriegs weiter ein Unsicherheitsfaktor.]]></description>
-      <pubDate>Thu, 24 Sep 2026 08:58:38 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Geldpolitische Lage – SNB belässt Leitzins bei null Prozent</title>
@@ -106,11 +365,11 @@
       <pubDate>Thu, 24 Sep 2026 08:09:53 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] US-Medienhäuser – Richter pfeift Trump zurück – Ausschluss von Medien aufgehoben</title>
-      <link>https://www.srf.ch/news/international/usa/us-medienhaeuser-richter-pfeift-trump-zurueck-ausschluss-von-medien-aufgehoben</link>
-      <guid isPermaLink="false">urn:srf:article:01a0d1d2-0ee9-d381-8987-315517c1a4df</guid>
-      <description><![CDATA[Trump wollte Medienhäuser aus dem Weissen Haus verbannen. Dies sei verfassungswidrig, urteilt nun ein US-Bundesrichter.]]></description>
-      <pubDate>Thu, 24 Sep 2026 08:03:28 GMT</pubDate>
+      <title>[Journal de Morges] Zwei zusätzliche Wohnungen werden in Yens entstehen</title>
+      <link>https://journaldemorges.ch/actualite/societe/deux-logements-en-plus-verront-le-jour-a-yens/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/deux-logements-en-plus-verront-le-jour-a-yens/</guid>
+      <description><![CDATA[Während des letzten Gemeindetats haben die gewählten Vertreter zwei Millionen Franken freigegeben, um ein Gebäude zu renovieren und Wohnungen zu schaffen.]]></description>
+      <pubDate>Thu, 24 Sep 2026 07:59:47 GMT</pubDate>
     </item>
     <item>
       <title>[20 Min Romandie] Ein 3-cm-Loch in seinem Handschuh hindert ihn daran, die Motorradprüfung zu bestehen</title>
@@ -162,11 +421,18 @@
       <pubDate>Thu, 24 Sep 2026 06:02:16 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Laufende Untersuchung – Open-AI-Agent hackt australisches Regierungsportal Medicare</title>
+      <title>[SRF Wissen] Laufende Untersuchung – Open-AI-Agent hackt australisches Regierungsportal Medicare</title>
       <link>https://www.srf.ch/news/international/laufende-untersuchung-open-ai-agent-hackt-australisches-regierungsportal-medicare</link>
       <guid isPermaLink="false">urn:srf:article:01a0d1b9-bf05-c17c-c061-5c5079dc9666</guid>
       <description><![CDATA[Ein KI-Agent hat sich unbefugt Zugang zu einer staatlichen Webseite verschafft. Der Regierungschef kritisiert Open-AI.]]></description>
       <pubDate>Thu, 24 Sep 2026 05:54:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Das doppelte Glück des Präsidenten und des besten Junioren</title>
+      <link>https://journaldemorges.ch/actualite/le-double-bonheur-du-president-et-du-meilleur-junior/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/le-double-bonheur-du-president-et-du-meilleur-junior/</guid>
+      <description><![CDATA[Mit 17 Jahren gewann der Jugendkönig auch die begehrte versteckte Scheibe. Eine weitere Glanzleistung prägte diesen sehr gelungenen Event zum Thema Brasilien.]]></description>
+      <pubDate>Thu, 24 Sep 2026 05:34:06 GMT</pubDate>
     </item>
     <item>
       <title>[20 Min Romandie] Mit 12 Jahren von zwei Pitbulls attackiert: 8 Stunden Operation in Genf</title>
@@ -181,223 +447,6 @@
       <guid isPermaLink="false">urn:srf:article:01a0d0cf-960d-ab98-8025-6b33bb7c75d6</guid>
       <description><![CDATA[Ein Gericht in Sri Lanka hat 15 Männer wegen den Osteranschlägen 2019 verurteilt. Die Hintergründe sind weiter unklar.]]></description>
       <pubDate>Thu, 24 Sep 2026 04:58:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Stimmen erheben sich gegen das Kommen von Palantir auf den Campus</title>
-      <link>https://www.20min.ch/fr/story/epfl-des-voix-s-elevent-contre-la-venue-de-palantir-sur-le-campus-103637278</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/epfl-des-voix-s-elevent-contre-la-venue-de-palantir-sur-le-campus-103637278</guid>
-      <description><![CDATA[Wie 2018 wird der amerikanische Überwachungsspezialist beim Forum EPFL rekrutieren kommen. Ein Teil der Studierendenschaft ist empört.]]></description>
-      <pubDate>Thu, 24 Sep 2026 04:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] UNO-Generalversammlung – Lässt die Weltgemeinschaft die Ukraine fallen?</title>
-      <link>https://www.srf.ch/news/international/uno-generalversammlung-laesst-die-weltgemeinschaft-die-ukraine-fallen</link>
-      <guid isPermaLink="false">urn:srf:article:01a0d11a-ebdc-35af-90a7-3b3416aacce5</guid>
-      <description><![CDATA[51 Länder bekräftigten ihre Unterstützung für die Ukraine an einer UNO-Sondersitzung – die USA gehörten nicht dazu.]]></description>
-      <pubDate>Thu, 24 Sep 2026 03:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Flughafenmalaria in Frankfurt – Warum treten Malaria-Fälle an Flughäfen in Europa auf?</title>
-      <link>https://www.srf.ch/wissen/gesundheit/flughafenmalaria-in-frankfurt-warum-treten-malaria-faelle-an-flughaefen-in-europa-auf</link>
-      <guid isPermaLink="false">urn:srf:article:01a0c978-2fbc-3a8c-e6ee-3aa5e2f89183</guid>
-      <description><![CDATA[Drei Todesfälle und weitere Malaria-Fälle bei Frankfurt werfen Fragen auf. Droht dieses Risiko auch in der Schweiz?]]></description>
-      <pubDate>Thu, 24 Sep 2026 03:48:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Hohe Treibstoffpreise – Wie historisch sind die aktuellen Diesel-Preise wirklich?</title>
-      <link>https://www.srf.ch/radio-srf-1/hohe-treibstoffpreise-wie-historisch-sind-die-aktuellen-diesel-preise-wirklich</link>
-      <guid isPermaLink="false">urn:srf:article:01a0ce66-2db2-8318-2788-0bb7c23b93de</guid>
-      <description><![CDATA[Die Treibstoffpreise sind in der Schweiz massiv gestiegen. SRF-Wirtschaftsredaktor Matthias Heim über die Hintergründe.]]></description>
-      <pubDate>Thu, 24 Sep 2026 03:45:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Rüstungsindustrie präsentiert ihre Produkte auf Verteidigungsmesse</title>
-      <link>https://www.tagesschau.de/wirtschaft/ruestungsindustrie-drohnen-eudex-verteigungsmesse-100.html</link>
-      <guid isPermaLink="false">bb538dfa-b13d-49a5-b40b-2a96cd2cee0a</guid>
-      <description><![CDATA[Drohnen, die andere Drohnen einfangen, KI-gesteuerte Abfangsysteme und Sensoren, die den Luftraum überwachen: Auf der neuen Verteidigungsmesse Euro Defence Expo zeigt die Branche, wie sie auf veränderte Bedrohungen reagieren will. Von Jens Eberl.]]></description>
-      <pubDate>Thu, 24 Sep 2026 03:32:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges Actualitiés] Schwieriger Verkehr am Samstag für den Großen Herbstmarkt</title>
-      <link>https://www.morges.ch/actualites/circulation-difficile-samedi-pour-le-grand-marche-d-automne-213874</link>
-      <guid isPermaLink="false">https://www.morges.ch/actualites/circulation-difficile-samedi-pour-le-grand-marche-d-automne-213874</guid>
-      <description><![CDATA[Aktuelles - 23.09.2026]]></description>
-      <pubDate>Thu, 24 Sep 2026 02:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Techbosse warnen UN-Sicherheitsrat vor KI</title>
-      <link>https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html</link>
-      <guid isPermaLink="false">5031d8df-b5f4-4260-acb6-6f5e14e1795a</guid>
-      <description><![CDATA[Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, an stärkerer Regulierung mitzuwirken. Von Giselle Ucar.]]></description>
-      <pubDate>Wed, 23 Sep 2026 23:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Trockenheit und Hagel – Sommerhitze verursachte schwere Schäden in der Landwirtschaft</title>
-      <link>https://www.srf.ch/news/schweiz/trockenheit-und-hagel-sommerhitze-verursachte-schwere-schaeden-in-der-landwirtschaft</link>
-      <guid isPermaLink="false">urn:srf:article:01a0cfd6-2e3b-96a0-e5b1-b25fe42b1486</guid>
-      <description><![CDATA[Der Agrarversicherer Schweizer Hagel schätzt die Schäden an landwirtschaftlichen Kulturen auf fast 60 Millionen Franken.]]></description>
-      <pubDate>Wed, 23 Sep 2026 21:12:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Russischer Oligarch – Warum Alischer Usmanow von der EU-Sanktionsliste verschwindet</title>
-      <link>https://www.srf.ch/news/international/russischer-oligarch-warum-alischer-usmanow-von-der-eu-sanktionsliste-verschwindet</link>
-      <guid isPermaLink="false">urn:srf:article:01a0ceba-8025-01bc-39e5-b2d2f969fd92</guid>
-      <description><![CDATA[Die EU streicht den schwerreichen Oligarchen von ihrer Sanktionsliste. SRF-Korrespondent Calum MacKenzie ordnet ein.]]></description>
-      <pubDate>Wed, 23 Sep 2026 20:54:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Schweizer Hilfsorganisation – 125 Jahre Caritas: Vom Suppenteller zur Systemkritik</title>
-      <link>https://www.srf.ch/news/schweiz/schweizer-hilfsorganisation-125-jahre-caritas-vom-suppenteller-zur-systemkritik</link>
-      <guid isPermaLink="false">urn:srf:article:01a0cfc2-07a4-e8da-9a0f-0c32c7556a07</guid>
-      <description><![CDATA[Das einst katholische Hilfswerk hat sich zur politischen Stimme gegen die Armut gewandelt.]]></description>
-      <pubDate>Wed, 23 Sep 2026 20:22:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] «Er liebte es, Leute zum Lachen zu bringen»: In Cugy blüht die Erinnerung an Admir bereits auf</title>
-      <link>https://www.20min.ch/fr/story/accident-mortel-a-renens-il-adorait-faire-rire-a-cugy-le-souvenir-d-admir-fleurit-deja-103637180</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/accident-mortel-a-renens-il-adorait-faire-rire-a-cugy-le-souvenir-d-admir-fleurit-deja-103637180</guid>
-      <description><![CDATA[Der 23-jährige junge Mann ist am Samstagabend bei einem Rollerunfall in Renens gestorben. Seine Freunde haben darauf bestanden, sein Andenken durch Blumensträuße und ein paar Worte zu ehren.]]></description>
-      <pubDate>Wed, 23 Sep 2026 19:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Ständerat zur UBS-Regulierung – Caroni: «Das grösste Risiko ist die Krise, nicht die Prävention»</title>
-      <link>https://www.srf.ch/news/schweiz/staenderat-zur-ubs-regulierung-caroni-das-groesste-risiko-ist-die-krise-nicht-die-praevention</link>
-      <guid isPermaLink="false">urn:srf:article:01a0ce72-232c-263e-e328-e4076015b3ae</guid>
-      <description><![CDATA[Ständerat und FDP-Vizepräsident Caroni widerspricht der Kritik, die vorgesehene Bankenregulierung schade der Wirtschaft.]]></description>
-      <pubDate>Wed, 23 Sep 2026 18:36:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Medizinische Versorgung – Medikamentenversorgung: Nationalrat ist skeptisch bei Initiative</title>
-      <link>https://www.srf.ch/news/schweiz/medizinische-versorgung-medikamentenversorgung-nationalrat-ist-skeptisch-bei-initiative</link>
-      <guid isPermaLink="false">urn:srf:article:01a0cd92-08f7-e432-adef-539ca45ff59a</guid>
-      <description><![CDATA[Der Nationalrat empfiehlt ein Nein zur Initiative und unterstützt den Gegenvorschlag des Bundesrats.]]></description>
-      <pubDate>Wed, 23 Sep 2026 17:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Weniger Einnahmen beim Print – Ringier streicht 14 Stellen in der Romandie</title>
-      <link>https://www.srf.ch/news/schweiz/weniger-einnahmen-beim-print-ringier-streicht-14-stellen-in-der-romandie</link>
-      <guid isPermaLink="false">urn:srf:article:01a0cdd1-214b-adf7-5cf7-d7b2a5f6c920</guid>
-      <description><![CDATA[Stellen werden beim Onlineportal blick.ch (Romandie) sowie bei den Magazinen «L’Illustré» und «PME» gestrichen.]]></description>
-      <pubDate>Wed, 23 Sep 2026 17:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] Tradwife-Trend – Das traditionelle Frauenbild kommt zurück – auch in der Schweiz?</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/tradwife-trend-das-traditionelle-frauenbild-kommt-zurueck-auch-in-der-schweiz</link>
-      <guid isPermaLink="false">urn:srf:article:01a0be26-3f9e-fd90-44e6-78eee8353730</guid>
-      <description><![CDATA[Der Tradwife-Trend kommt aus den USA und erreicht über Social Media auch die Schweiz.]]></description>
-      <pubDate>Wed, 23 Sep 2026 17:05:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Wegen Sexualverbrechens – US-Medien: Gegen Harvey Weinstein werden 15 Jahre Haft verhängt</title>
-      <link>https://www.srf.ch/news/international/wegen-sexualverbrechens-us-medien-gegen-harvey-weinstein-werden-15-jahre-haft-verhaengt</link>
-      <guid isPermaLink="false">urn:srf:article:01a0cefc-97b4-594c-bf9e-b49d55b34563</guid>
-      <description><![CDATA[Der frühere Hollywood-Filmmogul sitzt bereits seit Jahren im Gefängnis. Nun berichten Medien von einem neuen Strafmass.]]></description>
-      <pubDate>Wed, 23 Sep 2026 16:33:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Neuer Sender übernimmt: Niederlande nehmen wieder am ESC teil</title>
-      <link>https://www.tagesschau.de/ausland/europa/esc-niederlande-boykott-102.html</link>
-      <guid isPermaLink="false">73b0cca2-b07d-4caf-a5f6-10fb6ed5b2cb</guid>
-      <description><![CDATA[Nach einem Jahr Abwesenheit wollen die Niederlande 2027 wieder beim Eurovision Song Contest mit dabei sein. Der öffentlich-rechtliche Rundfunk übernimmt vom bisherigen Sender. Ein erneuter Boykott wegen der Teilnahme Israels ist damit vom Tisch.]]></description>
-      <pubDate>Wed, 23 Sep 2026 15:44:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Nach Nationalratsentscheid – Swiss Olympic will an Geschlechterquoten festhalten</title>
-      <link>https://www.srf.ch/news/schweiz/nach-nationalratsentscheid-swiss-olympic-will-an-geschlechterquoten-festhalten</link>
-      <guid isPermaLink="false">urn:srf:article:01a0cd8f-20e1-7857-96c4-fc91b281a5fa</guid>
-      <description><![CDATA[Der Nationalrat will diese Quote nicht mehr. Der Dachverband des Schweizer Sports, Swiss Olympic, dagegen sehr wohl.]]></description>
-      <pubDate>Wed, 23 Sep 2026 15:30:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Hitze im Klassenzimmer – Zürcher Stadtrat Glättli will Klimaanlagen für heisse Schulzimmer</title>
-      <link>https://www.srf.ch/news/schweiz/hitze-im-klassenzimmer-zuercher-stadtrat-glaettli-will-klimaanlagen-fuer-heisse-schulzimmer</link>
-      <guid isPermaLink="false">urn:srf:article:01a0ce5b-803f-293d-03a7-cc0ac5d3a756</guid>
-      <description><![CDATA[Mindestens 20 Prozent der heissesten Orte sollen gekühlt werden. Wo es nicht anders geht, brauche es Klimaanlagen.]]></description>
-      <pubDate>Wed, 23 Sep 2026 15:17:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Genf startet Lösung zur Eindämmung des Prämienanstiegs</title>
-      <link>https://www.20min.ch/fr/story/sante-geneve-lance-sa-solution-pour-juguler-la-hausse-des-primes-103637860</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/sante-geneve-lance-sa-solution-pour-juguler-la-hausse-des-primes-103637860</guid>
-      <description><![CDATA[Der Staatsrat will eine neue Krankenkasse, angegliedert an ein neues Gesundheitsnetz, schaffen, um den Kostenanstieg zu stoppen. Zwei Ausschreibungen wurden veröffentlicht.]]></description>
-      <pubDate>Wed, 23 Sep 2026 15:05:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Ein mysteriöses riesiges «HELP» ist an der Wand des Salève aufgetaucht</title>
-      <link>https://www.20min.ch/fr/story/geneve-un-mysterieux-help-geant-est-apparu-sur-la-paroi-du-saleve-103637723</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-un-mysterieux-help-geant-est-apparu-sur-la-paroi-du-saleve-103637723</guid>
-      <description><![CDATA[Einige Minuten lang war eine Lichtprojektion auf dem Berg zu sehen, der das Genfer Becken überragt. Ihr Ursprung ist weiterhin unklar.]]></description>
-      <pubDate>Wed, 23 Sep 2026 14:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Gefährliche Online-Netzwerke – Wie Täter Kinder manipulieren und was Eltern tun können</title>
-      <link>https://www.srf.ch/news/schweiz/gefaehrliche-online-netzwerke-wie-taeter-kinder-manipulieren-und-was-eltern-tun-koennen</link>
-      <guid isPermaLink="false">urn:srf:article:01a0ce5b-40bd-a983-2a30-ef4282059334</guid>
-      <description><![CDATA[Eine SRF-Recherche zeigt besorgniserregende Fälle von Sadismus auf Social Media. Die wichtigsten Fragen und Antworten.]]></description>
-      <pubDate>Wed, 23 Sep 2026 14:51:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] ISGH‑Urteil wegen Gräueltaten – Anführer aus der Zentralafrikanischen Republik verurteilt</title>
-      <link>https://www.srf.ch/news/international/isgh-urteil-wegen-graeueltaten-anfuehrer-aus-der-zentralafrikanischen-republik-verurteilt</link>
-      <guid isPermaLink="false">urn:srf:article:01a0ce0f-8d60-726b-b88f-89f949f0b238</guid>
-      <description><![CDATA[Mahamat Said Abdel Kani ist verantwortlich für Gräueltaten im Jahr 2013. Es ist ein wichtiges Urteil für das Land.]]></description>
-      <pubDate>Wed, 23 Sep 2026 14:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Wieder Tote bei russischen Angriffen auf zivile Infrastruktur in der Ukraine</title>
-      <link>https://www.tagesschau.de/ausland/europa/angriffe-auf-ukraine-100.html</link>
-      <guid isPermaLink="false">3903f4a7-0ad1-4cee-bee4-be8893d43aa7</guid>
-      <description><![CDATA[Russland hat die Ukraine in der Nacht mit neuen Angriffen überzogen. Landesweit starben mehrere Menschen. Polen meldete eine erneute Verletzung seines Luftraums durch einen russischen Militärhubschrauber.]]></description>
-      <pubDate>Wed, 23 Sep 2026 14:19:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] «Worldskills» in Schanghai – Schweizer Präzision gegen Chinas Medaillen-Maschine</title>
-      <link>https://www.srf.ch/news/international/worldskills-in-schanghai-schweizer-praezision-gegen-chinas-medaillen-maschine</link>
-      <guid isPermaLink="false">urn:srf:article:01a0cc8b-97e1-3cf4-7cd5-74747886671e</guid>
-      <description><![CDATA[Schweizer Berufsathleten kämpfen in Schanghai um Gold. Doch Gastgeber China ist eine Macht im Kampf um die Medaillen.]]></description>
-      <pubDate>Wed, 23 Sep 2026 14:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Versandapotheke der Drogeriemarktkette dm vor Gericht</title>
-      <link>https://www.tagesschau.de/wirtschaft/unternehmen/dm-med-apotheke-klage-100.html</link>
-      <guid isPermaLink="false">00845185-eb8e-4306-bd92-0fb7551c1aea</guid>
-      <description><![CDATA[Seit Dezember 2025 verkauft dm über ein Tochterunternehmen rezeptfreie Medikamente. Dagegen hat die Wettbewerbszentrale geklagt. Eine Vermischung von Drogerie- und Apothekenangebot sei unzulässig. Von Kolja Schwartz.]]></description>
-      <pubDate>Wed, 23 Sep 2026 13:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Neue Psychiatrie- und Kinderspitäler: Die Projekte kommen voran</title>
-      <link>https://www.20min.ch/fr/story/geneve-nouveaux-hopitaux-psy-et-pour-enfants-les-projets-avancent-103637801</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-nouveaux-hopitaux-psy-et-pour-enfants-les-projets-avancent-103637801</guid>
-      <description><![CDATA[Der Staatsrat beantragt 25 Millionen zur Finanzierung der Studienkredite für zwei Grossprojekte: das neue psychiatrische Krankenhaus für Erwachsene und das zukünftige Kinderspital.]]></description>
-      <pubDate>Wed, 23 Sep 2026 12:56:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Tierischer Wettbewerb – «Fat Bear Week»: Welcher Bär hat am meisten Winterspeck?</title>
-      <link>https://www.srf.ch/news/international/tierischer-wettbewerb-fat-bear-week-welcher-baer-hat-am-meisten-winterspeck</link>
-      <guid isPermaLink="false">urn:srf:article:01a0cd52-cc39-8139-ed45-c603f18d1aa8</guid>
-      <description><![CDATA[Im Herbst heisst es für Alaskas Braunbären: Zunehmen, was das Zeug hält. Der Bär mit dem grössten Polster wird gekürt.]]></description>
-      <pubDate>Wed, 23 Sep 2026 12:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Nach Mega-Börsengang: Neuer Öl-Boom in Nigeria?</title>
-      <link>https://www.tagesschau.de/wirtschaft/energie/oel-boom-nigeria-100.html</link>
-      <guid isPermaLink="false">446cb31d-9d8f-426c-9fd6-4eabab385863</guid>
-      <description><![CDATA[Mit einem gigantischen Börsengang können sich erstmals Kleinanleger an Afrikas größter Ölraffinerie beteiligen. Das Unternehmen des Multimillionärs Dangote profitiert von der globalen Energiekrise. Von G. Restle.]]></description>
-      <pubDate>Wed, 23 Sep 2026 12:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] 90 Prozent Eigenkapital – Was der Ständerats-Entscheid für die UBS bedeutet</title>
-      <link>https://www.srf.ch/news/wirtschaft/90-prozent-eigenkapital-was-der-staenderats-entscheid-fuer-die-ubs-bedeutet</link>
-      <guid isPermaLink="false">urn:srf:article:01a0cd2b-5916-4d88-a930-cbffcf71d379</guid>
-      <description><![CDATA[Der Erstrat hat heute beschlossen, wie die UBS sicherer werden soll. Eine wirtschaftliche Einordnung.]]></description>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] IG Metall fordert fünf Prozent mehr Geld</title>
-      <link>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/tarifforderungen-ig-metall-100.html</link>
-      <guid isPermaLink="false">5751049d-6119-4f00-b7fc-bad81d1d1e0a</guid>
-      <description><![CDATA[In der anstehenden Tarifrunde für die Beschäftigten in der Metall- und Elektroindustrie fordert die IG Metall fünf Prozent mehr Geld. Zudem soll es eine tarifliche Gewinnbeteiligung für "Boom-Unternehmen" geben.]]></description>
-      <pubDate>Wed, 23 Sep 2026 11:19:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
