@@ -5,21 +5,112 @@
     <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Sat, 26 Sep 2026 04:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:58:39 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Ausland] Einigung vor Prozessbeginn – Tiktok zahlt US-Bundesstaat Alabama 100 Mio. US-Dollar</title>
-      <link>https://www.srf.ch/news/international/einigung-vor-prozessbeginn-tiktok-zahlt-us-bundesstaat-alabama-100-mio-us-dollar</link>
-      <guid isPermaLink="false">urn:srf:article:01a0db45-564b-b89f-2e3d-068947b62c96</guid>
-      <description><![CDATA[Tiktok erzielt eine Einigung mit dem US-Bundesstaat Alabama. Nutzungsbeschränkungen sollen eingeführt werden.]]></description>
-      <pubDate>Sat, 26 Sep 2026 02:07:19 GMT</pubDate>
+      <title>[SRF Ausland] Trotz massiver US-Sanktionen – Warum das iranische Regime noch nicht kollabiert</title>
+      <link>https://www.srf.ch/news/international/trotz-massiver-us-sanktionen-warum-das-iranische-regime-noch-nicht-kollabiert</link>
+      <guid isPermaLink="false">urn:srf:article:01a0cee2-63b1-8f20-b27b-d719651992b8</guid>
+      <description><![CDATA[Die USA wollen den Iran mit massiven Sanktionen in die Knie zwingen. Der Kollaps des Regimes bleibt jedoch aus.]]></description>
+      <pubDate>Sat, 26 Sep 2026 10:29:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Nationalbank zur Lex UBS – Wie kommt die scharfe Kritik der UBS bei Ihnen an, Herr Schlegel?</title>
+      <link>https://www.srf.ch/news/wirtschaft/nationalbank-zur-lex-ubs-wie-kommt-die-scharfe-kritik-der-ubs-bei-ihnen-an-herr-schlegel</link>
+      <guid isPermaLink="false">urn:srf:article:01a0dc7d-311b-3e55-5a17-15e4292cab9d</guid>
+      <description><![CDATA[Der Nationalbank-Präsident reagiert gelassen auf die Kritik von UBS-Chef Sergio Ermotti und weist sie zurück.]]></description>
+      <pubDate>Sat, 26 Sep 2026 10:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Wenn das Gedächtnis nachlässt – Die Stadt Zürich schult ihr Personal im Umgang mit Demenz</title>
+      <link>https://www.srf.ch/news/schweiz/wenn-das-gedaechtnis-nachlaesst-die-stadt-zuerich-schult-ihr-personal-im-umgang-mit-demenz</link>
+      <guid isPermaLink="false">urn:srf:article:01a0cd00-59e1-9d8c-a556-8be5384c284d</guid>
+      <description><![CDATA[Am ÖV-Schalter oder beim Steueramt: Angestellte der Stadt Zürich üben den Umgang mit Demenzkranken in speziellen Kursen.]]></description>
+      <pubDate>Sat, 26 Sep 2026 09:47:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Elternschaft unter Druck – Kinderarzt: «Kinder brauchen keine perfekten Eltern»</title>
+      <link>https://www.srf.ch/news/schweiz/elternschaft-unter-druck-kinderarzt-kinder-brauchen-keine-perfekten-eltern</link>
+      <guid isPermaLink="false">urn:srf:article:01a0cea9-ee94-779d-e9de-58cb46b9e964</guid>
+      <description><![CDATA[Perfektionismus in der Erziehung schadet und soziale Wärme ist wichtiger als die Noten, sagt der Kinderarzt Oskar Jenni.]]></description>
+      <pubDate>Sat, 26 Sep 2026 09:13:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Versuchter Hackerangriff – KI greift eigenmächtig auf US-Regierungsseiten zu</title>
+      <link>https://www.srf.ch/news/international/versuchter-hackerangriff-ki-greift-eigenmaechtig-auf-us-regierungsseiten-zu</link>
+      <guid isPermaLink="false">urn:srf:article:01a0dbab-5662-f1df-42f0-fdc24d043cc4</guid>
+      <description><![CDATA[Programme drangen auf Seiten der Börsenaufsicht und wollten mutmasslich eine Website des US-Bildungsministeriums hacken.]]></description>
+      <pubDate>Sat, 26 Sep 2026 08:12:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Von 10 bis 1000 Franken – Warum Brillenfassungen so unterschiedlich viel kosten</title>
+      <link>https://www.srf.ch/news/dialog/von-10-bis-1000-franken-warum-brillenfassungen-so-unterschiedlich-viel-kosten</link>
+      <guid isPermaLink="false">urn:srf:article:01a0c86c-408b-bb58-5402-013980f7d09d</guid>
+      <description><![CDATA[Bei Brillenfassungen gehen die Preise weit auseinander. Die Gründe liegen auch in unterschiedlichen Geschäftsmodellen.]]></description>
+      <pubDate>Sat, 26 Sep 2026 08:05:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Bis zu 12 Tage bezahlter Urlaub für Waadtländer Beamte</title>
+      <link>https://www.20min.ch/fr/story/benevolat-sportif-jusqu-a-12-jours-de-conges-payes-pour-les-fonctionnaires-vaudois-103634342</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/benevolat-sportif-jusqu-a-12-jours-de-conges-payes-pour-les-fonctionnaires-vaudois-103634342</guid>
+      <description><![CDATA[Um grosse Sportveranstaltungen zu ermöglichen, können die Angestellten des Kantons Vaud bis zu 12 Tage bezahlten Urlaub erhalten. Eine Ausnahme im französischsprachigen Raum der Schweiz.]]></description>
+      <pubDate>Sat, 26 Sep 2026 07:58:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Neue Studie – Im Wallis leben viel weniger Luchse als angenommen</title>
+      <link>https://www.srf.ch/wissen/natur-tiere/neue-studie-im-wallis-leben-viel-weniger-luchse-als-angenommen</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d7c1-b060-07ec-11d2-592658ac34ff</guid>
+      <description><![CDATA[Berner Forscher korrigieren die Zahl der Walliser Luchse nach unten. Der Bestand müsse nicht reguliert werden.]]></description>
+      <pubDate>Sat, 26 Sep 2026 07:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Beschwerde des doppelten Mörders Claude D. von der Justiz abgewiesen</title>
+      <link>https://www.20min.ch/fr/story/cour-d-appel-penale-le-recours-du-double-assassin-claude-d-rejete-par-la-justice-103639309</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/cour-d-appel-penale-le-recours-du-double-assassin-claude-d-rejete-par-la-justice-103639309</guid>
+      <description><![CDATA[Der 50-jährige Freiburger Greyerzer hatte eine Haftstrafe gefordert. Die Richter sind der Ansicht, dass er die notwendige Behandlung in den Etablissements de la plaine de l’Orbe erhalten kann.]]></description>
+      <pubDate>Sat, 26 Sep 2026 07:18:31 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] «Arena» zu Armeeausgaben – SP-Politikerin warnt: «Der F-35 trocknet den Rest der Armee aus»</title>
       <link>https://www.srf.ch/news/schweiz/arena-zu-armeeausgaben-sp-politikerin-warnt-der-f-35-trocknet-den-rest-der-armee-aus</link>
       <guid isPermaLink="false">urn:srf:article:01a0d41a-e651-a5ca-f899-ed39580c1c04</guid>
       <description><![CDATA[Das Vertrauen in die Armee steht nach dem Fixpreis-Fiasko auf dem Prüfstand. Höhere Rüstungsausgaben sind umstritten.]]></description>
-      <pubDate>Fri, 25 Sep 2026 20:43:38 GMT</pubDate>
+      <pubDate>Sat, 26 Sep 2026 07:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Fachkräfte wetteifern auf der Weltmeisterschaft der Berufe</title>
+      <link>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/world-skills-shanghai-100.html</link>
+      <guid isPermaLink="false">21bbb0a7-cac5-4efa-aa10-3ed189224353</guid>
+      <description><![CDATA[In Shanghai laufen die Wettkämpfe der "WorldSkills". Die chinesische Metropole ist erstmals Austragungsort der der Weltmeisterschaft der Berufe, bei der auch deutsche Fachkräfte am Start sind. Von Christoph Kober.]]></description>
+      <pubDate>Sat, 26 Sep 2026 06:00:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Bauern-Direktor zu Hitzesommer – Martin Rufer: «Dieses Jahr herrscht Erntefrust statt Erntedank»</title>
+      <link>https://www.srf.ch/news/schweiz/bauern-direktor-zu-hitzesommer-martin-rufer-dieses-jahr-herrscht-erntefrust-statt-erntedank</link>
+      <guid isPermaLink="false">urn:srf:article:01a0c8d1-f7e7-70e2-47fb-26fb64b19b43</guid>
+      <description><![CDATA[Er spricht über Ernteausfälle, verzweifelte Landwirte und sagt, warum der Bauernberuf trotzdem eine goldene Zukunft hat.]]></description>
+      <pubDate>Sat, 26 Sep 2026 05:58:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Covid-Pandemie – Zertifikat-Betrug – warum die juristische Aufarbeitung zäh ist</title>
+      <link>https://www.srf.ch/news/schweiz/covid-pandemie-zertifikat-betrug-warum-die-juristische-aufarbeitung-zaeh-ist</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d8e1-a825-02be-06c3-0f359453f432</guid>
+      <description><![CDATA[Der Fall Granit Xhaka zeigt: Noch immer arbeitet die Justiz Betrugsfälle zu Covid-Zertifikaten auf.]]></description>
+      <pubDate>Sat, 26 Sep 2026 05:29:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Teure Naturkatastrophen – Versicherer lagern mit «Cat Bonds» Risiken an Anleger aus</title>
+      <link>https://www.srf.ch/news/wirtschaft/teure-naturkatastrophen-versicherer-lagern-mit-cat-bonds-risiken-an-anleger-aus</link>
+      <guid isPermaLink="false">urn:srf:article:019fd679-5a9e-45c9-a89d-f18d03f8da36</guid>
+      <description><![CDATA[Klimaschäden werden für Versicherer zum Hochrisikofaktor. Immer öfter lagern sie ihre Risiken an den Kapitalmarkt aus.]]></description>
+      <pubDate>Sat, 26 Sep 2026 05:05:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Einigung vor Prozessbeginn – Tiktok zahlt US-Bundesstaat Alabama 100 Millionen US-Dollar</title>
+      <link>https://www.srf.ch/news/international/einigung-vor-prozessbeginn-tiktok-zahlt-us-bundesstaat-alabama-100-millionen-us-dollar</link>
+      <guid isPermaLink="false">urn:srf:article:01a0db45-564b-b89f-2e3d-068947b62c96</guid>
+      <description><![CDATA[Tiktok erzielt eine Einigung mit dem US-Bundesstaat Alabama. Nutzungsbeschränkungen sollen eingeführt werden.]]></description>
+      <pubDate>Sat, 26 Sep 2026 02:07:19 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Ausland] Nach Wahlsieg – Berlin: Linke will mit Grünen und SPD sondieren</title>
@@ -272,139 +363,6 @@
       <guid isPermaLink="false">0b542f92-d46b-49d1-98bf-a6d9671dd3e2</guid>
       <description><![CDATA[Die Stimmung der Verbraucher in Deutschland ist so schlecht wie seit Monaten nicht. Hauptgrund sind die hohen Energiepreise. Diese stehen heute auch an der Börse einmal mehr im Fokus.]]></description>
       <pubDate>Fri, 25 Sep 2026 11:11:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Kommentar: Der "Tankrabatt" ist politisch richtig</title>
-      <link>https://www.tagesschau.de/kommentar/tankrabatt-kommentar-100.html</link>
-      <guid isPermaLink="false">c7e70f16-b894-4849-8148-5c4387bafaed</guid>
-      <description><![CDATA[Mit dem "Tankrabatt" hat die Bundesregierung zumindest politisch die richtige Maßnahme ergriffen, meint Benjamin Großkopff. Zwar mag es ökonomische Gründe geben, die dagegen sprechen, dennoch werden fast alle Bürger davon profitieren.]]></description>
-      <pubDate>Fri, 25 Sep 2026 10:42:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Staat steigt bei Condor aus - Finanzinvestor übernimmt Anteile</title>
-      <link>https://www.tagesschau.de/wirtschaft/unternehmen/condor-bund-100.html</link>
-      <guid isPermaLink="false">95aea596-a40b-499d-816e-15da5abf9052</guid>
-      <description><![CDATA[Staatshilfen aus der Corona-Krise hat Condor zurückgezahlt, nun folgt der nächste Schritt: Ein Finanzinvestor übernimmt bis Sommer 2027 alle Anteile an der Fluggesellschaft. Der Bund und das Land Hessen steigen aus.]]></description>
-      <pubDate>Fri, 25 Sep 2026 10:31:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] US-Sanktionen: Warum iranische Airlines weiter in die Türkei fliegen</title>
-      <link>https://www.tagesschau.de/ausland/europa/tuerkei-iran-sanktionen-flugverbot-usa-100.html</link>
-      <guid isPermaLink="false">3bc59d63-7ab0-4a49-b6d1-c92d4a9f8897</guid>
-      <description><![CDATA[Neue US-Sanktionen sollen den iranischen Luftverkehr treffen. Flugzeuge aus dem Land sollen weltweit nicht mehr abgefertigt werden. Doch in Istanbul landen weiterhin Jets aus Iran. Die Türkei nutzt offenbar ein Schlupfloch. Von Pia Masurczak.]]></description>
-      <pubDate>Fri, 25 Sep 2026 10:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] E-Banking und App – Zeitweilige Störungen bei Postfinance behoben</title>
-      <link>https://www.srf.ch/news/wirtschaft/e-banking-und-app-zeitweilige-stoerungen-bei-postfinance-behoben</link>
-      <guid isPermaLink="false">urn:srf:article:01a0d7d2-da86-f8e0-5e28-46251c104d83</guid>
-      <description><![CDATA[Die Postfinance-App hat am Morgen mit technischen Problemen gekämpft.]]></description>
-      <pubDate>Fri, 25 Sep 2026 10:07:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Hohe Mieten – Bundesrat lehnt Mietpreis-Initiative ab und plant Gegenvorschlag</title>
-      <link>https://www.srf.ch/news/schweiz/hohe-mieten-bundesrat-lehnt-mietpreis-initiative-ab-und-plant-gegenvorschlag</link>
-      <guid isPermaLink="false">urn:srf:article:01a0d7f0-35df-7f6f-858c-d871d8d327e5</guid>
-      <description><![CDATA[Die Mietpreis-Initiative lehnt er ab, doch er will einen indirekten Gegenvorschlag ausarbeiten lassen.]]></description>
-      <pubDate>Fri, 25 Sep 2026 10:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Angriffe auf Ölterminal – Was nützt Saudi-Arabien Frankreichs Hilfe gegen die Huthi?</title>
-      <link>https://www.srf.ch/news/international/angriffe-auf-oelterminal-was-nuetzt-saudi-arabien-frankreichs-hilfe-gegen-die-huthi</link>
-      <guid isPermaLink="false">urn:srf:article:01a0d76a-04ab-e869-00d1-c7dde491b98d</guid>
-      <description><![CDATA[Saudi-Arabien steht wegen Angriffen der Huthi-Miliz auf Ölinfrastruktur unter Druck. Nun will Frankreich unterstützen.]]></description>
-      <pubDate>Fri, 25 Sep 2026 09:59:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[RTS Vaud] Die POP geht mit einem Trio an den Start, um zu versuchen, einen Sitz im Waadtländer Staatsrat zu erringen</title>
-      <link>https://www.rts.ch/info/regions/vaud/2026/article/conseil-d-etat-vaudois-le-pop-lance-un-trio-de-candidats-29367248.html?rts_source=rss_t</link>
-      <guid isPermaLink="false">29367248</guid>
-      <description><![CDATA[Die Partei der Arbeit (POP) nominiert drei Kandidaten für die Wahl zum Waadtländer Staatsrat im kommenden Februar. Neben Céline Misiego, die...]]></description>
-      <pubDate>Fri, 25 Sep 2026 09:53:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Neues Schweizer Standardwerk – Woher Familiennamen stammen und wieso Frauen darin kaum vorkommen</title>
-      <link>https://www.srf.ch/radio-srf-1/mundart/neues-schweizer-standardwerk-woher-familiennamen-stammen-und-wieso-frauen-darin-kaum-vorkommen</link>
-      <guid isPermaLink="false">urn:srf:article:01a0d239-3c8b-a8c8-0d7c-f108d5c0c6b9</guid>
-      <description><![CDATA[Der Familiennamenatlas macht Unerwartetes sichtbar und verrät spannende Details über vergangene Schweizer Lebenswelten.]]></description>
-      <pubDate>Fri, 25 Sep 2026 09:51:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Immer mehr Haushalte beziehen Wohngeld</title>
-      <link>https://www.tagesschau.de/inland/wohngeld-statistik-100.html</link>
-      <guid isPermaLink="false">cfbd0fa9-4321-4b29-bb3a-df7530877686</guid>
-      <description><![CDATA[Die Bundesregierung will beim Wohngeld kürzen. Gleichzeitig steigt der Bedarf: Noch nie war die Zahl an Haushalten, die Wohngeld beziehen, so hoch wie Ende des vergangenen Jahres. Auch der Betrag stieg auf ein neues Hoch.]]></description>
-      <pubDate>Fri, 25 Sep 2026 09:39:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Tourismus – Schweiz unter den Top 10 im WEF-Tourismus-Index</title>
-      <link>https://www.srf.ch/news/wirtschaft/tourismus-schweiz-unter-den-top-10-im-wef-tourismus-index</link>
-      <guid isPermaLink="false">urn:srf:article:01a0d7b5-63ad-8e31-f272-4c5630cf5bea</guid>
-      <description><![CDATA[Die Schweiz gehört weltweit zu den am besten aufgestellten Ländern, wenn es um die Rahmenbedingungen im Tourismus geht.]]></description>
-      <pubDate>Fri, 25 Sep 2026 09:12:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] E-Voting für Auslandschweizer – Die verlorenen Stimmen der fünften Schweiz</title>
-      <link>https://www.srf.ch/news/schweiz/e-voting-fuer-auslandschweizer-die-verlorenen-stimmen-der-fuenften-schweiz</link>
-      <guid isPermaLink="false">urn:srf:article:01a0d31d-b95c-371d-4e48-b7f6e3fb9035</guid>
-      <description><![CDATA[Für Stimmberechtigte im Ausland gilt E-Voting als Hoffnungsträger, bleibt aber umstritten.]]></description>
-      <pubDate>Fri, 25 Sep 2026 09:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Löst Vergesellschaftung das Wohnungsproblem?</title>
-      <link>https://www.tagesschau.de/wirtschaft/verbraucher/vergesellschaftung-wohnungsproblem-berlin-mietmarkt-100.html</link>
-      <guid isPermaLink="false">b1ae6515-e87b-406c-857f-ef7bf099b686</guid>
-      <description><![CDATA[Die Linke will das Wohnungsproblem in Berlin mit einem nie eingesetzten Mittel angehen: der Vergesellschaftung privater Wohnbau-Konzerne. Ökonomen sprechen von Tabubruch. Von Heidi Radvilas.]]></description>
-      <pubDate>Fri, 25 Sep 2026 08:40:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Valérie Dittli stellt das Programm ihrer neuen Partei vor</title>
-      <link>https://www.20min.ch/fr/story/vaud-valerie-dittli-devoile-le-programme-de-son-nouveau-parti-103638635</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-valerie-dittli-devoile-le-programme-de-son-nouveau-parti-103638635</guid>
-      <description><![CDATA[Fünf Monate vor den Waadtländer Wahlen enthüllt die Liberale Bewegung von Valérie Dittli ihr Programm, das auf Steuern, Einsparungen und Landwirtschaft ausgerichtet ist.]]></description>
-      <pubDate>Fri, 25 Sep 2026 07:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Angriffskrieg auf die Ukraine – So geht man in Kiew mit dem Dauerbeschuss um</title>
-      <link>https://www.srf.ch/news/international/ukraine/angriffskrieg-auf-die-ukraine-so-geht-man-in-kiew-mit-dem-dauerbeschuss-um</link>
-      <guid isPermaLink="false">urn:srf:article:01a0d25b-7883-4bb8-100e-33a3e1bf5884</guid>
-      <description><![CDATA[An der Front kommen die Russen nicht voran. Dafür greifen sie nun verstärkt Kiew an.]]></description>
-      <pubDate>Fri, 25 Sep 2026 07:35:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Ärger im Strassenverkehr – Warum immer die anderen schuld sind auf der Strasse</title>
-      <link>https://www.srf.ch/news/schweiz/aerger-im-strassenverkehr-warum-immer-die-anderen-schuld-sind-auf-der-strasse</link>
-      <guid isPermaLink="false">urn:srf:article:01a0d701-be8f-df37-4f27-fb2ed7bfd085</guid>
-      <description><![CDATA[Menschen in der Schweiz regen sich mehrmals pro Woche über andere im Verkehr auf. Wieso eigentlich?]]></description>
-      <pubDate>Fri, 25 Sep 2026 07:04:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Sterben in den Exekutiven: Jedes fünfte Gemeinderatsmitglied tritt zurück</title>
-      <link>https://www.20min.ch/fr/story/canton-de-vaud-hecatombe-dans-les-executifs-un-municipal-sur-5-demissionne-103638633</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-vaud-hecatombe-dans-les-executifs-un-municipal-sur-5-demissionne-103638633</guid>
-      <description><![CDATA[In vier Jahren haben 346 gewählte Vertreter ihr Amt im Kanton Waadt aufgegeben. Eine Studie von Statistique Vaud zeigt ein massives Phänomen auf, das auch junge Mandatsträger betrifft.]]></description>
-      <pubDate>Fri, 25 Sep 2026 07:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Präsidentin des Gemeinderats von Morges, ihre Rolle ist es, die Debatten zu beruhigen</title>
-      <link>https://journaldemorges.ch/actualite/societe/presidente-du-conseil-communal-de-morges-son-role-est-dapaiser-les-debats/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/presidente-du-conseil-communal-de-morges-son-role-est-dapaiser-les-debats/</guid>
-      <description><![CDATA[Die SVP-Politikerin Patricia Da Rocha präsidiert zum zweiten Mal den Gemeinderat von Morges, nach 20 Jahren politischem Engagement in der Legislative. Ein Gespräch.]]></description>
-      <pubDate>Fri, 25 Sep 2026 07:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Brand in einer Fabrik in Lucens: Entwarnung gegeben</title>
-      <link>https://www.20min.ch/fr/story/vaud-incendie-dans-une-usine-a-lucens-l-alerte-est-levee-103638609</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-incendie-dans-une-usine-a-lucens-l-alerte-est-levee-103638609</guid>
-      <description><![CDATA[In der Nacht von Donnerstag auf Freitag brach in einer Fabrik zur Herstellung von Dämmstoffen in Lucens (VD) ein Feuer aus. Alertswiss empfahl, das Gebiet zu meiden.]]></description>
-      <pubDate>Fri, 25 Sep 2026 05:18:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Zwangsverwaltung in Russland – Der Fall Nestlé: Was Schweizer Firmen jetzt befürchten müssen</title>
-      <link>https://www.srf.ch/news/wirtschaft/zwangsverwaltung-in-russland-der-fall-nestle-was-schweizer-firmen-jetzt-befuerchten-muessen</link>
-      <guid isPermaLink="false">urn:srf:article:01a0cdac-b9f8-bdb5-432f-c920b19ecb29</guid>
-      <description><![CDATA[Nestlé ist unter Druck. Sechs Fabriken in Russland stehen unter russischer Zwangsverwaltung. Die wichtigsten Antworten.]]></description>
-      <pubDate>Fri, 25 Sep 2026 04:36:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
