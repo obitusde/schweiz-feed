@@ -5,11 +5,130 @@
     <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Sat, 03 Oct 2026 04:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 10:58:39 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Schweiz] «Arena» zu EU-Paket – Martullo-Blocher: «FPD, Mitte und SP verraten das Land»</title>
-      <link>https://www.srf.ch/news/schweiz/arena-zu-eu-paket-martullo-blocher-fpd-mitte-und-sp-verraten-das-land</link>
+      <title>[SRF Schweiz] Aargauer Regierungswahl – Vierer-Rennen mit Favoritin um freien Regierungssitz</title>
+      <link>https://www.srf.ch/news/schweiz/aargauer-regierungswahl-vierer-rennen-mit-favoritin-um-freien-regierungssitz</link>
+      <guid isPermaLink="false">urn:srf:article:01a0e6e2-457d-d8d2-388e-1b3bf2c93418</guid>
+      <description><![CDATA[Maja Riniker (FDP) scheint so gut wie in die Aargauer Regierung gewählt. Es gibt aber Konkurrenz.]]></description>
+      <pubDate>Sat, 03 Oct 2026 10:39:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Bern hilft mit, um die Belle-Époque-Schiffe über Wasser zu halten?</title>
+      <link>https://www.20min.ch/fr/story/suisse-romande-berne-a-l-aide-pour-maintenir-a-flot-les-bateaux-belle-epoque-103643444</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/suisse-romande-berne-a-l-aide-pour-maintenir-a-flot-les-bateaux-belle-epoque-103643444</guid>
+      <description><![CDATA[Der Nationalrat hat eine dauerhafte finanzielle Unterstützung des Bundes für die historischen Schiffe der CGN gefordert. Andere Flotten könnten davon profitieren.]]></description>
+      <pubDate>Sat, 03 Oct 2026 10:20:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Großbritanniens Zusammenarbeit mit der EU: Bye, bye, Brexit?</title>
+      <link>https://www.tagesschau.de/ausland/europa/grossbritannien-zusammenarbeit-eu-100.html</link>
+      <guid isPermaLink="false">7d3f7e27-860b-493a-b43c-fea24347e2d6</guid>
+      <description><![CDATA[Großbritanniens Premier Burnham nährt mit einer Aussage Diskussionen um einen Wiedereintritt seines Landes in die EU. Gründe zur Zusammenarbeit gäbe es genug. Aber wäre eine Rückkehr wirklich denkbar? Von Sabrina Fritz.]]></description>
+      <pubDate>Sat, 03 Oct 2026 09:54:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] «Falsche Priorität» – Grimseltunnel sorgt in der Romandie für Ärger</title>
+      <link>https://www.srf.ch/news/dialog/falsche-prioritaet-grimseltunnel-sorgt-in-der-romandie-fuer-aerger</link>
+      <guid isPermaLink="false">urn:srf:article:01a0f223-46fd-7c9d-4369-974b45ce347e</guid>
+      <description><![CDATA[Kritiker halten den geplanten Grimseltunnel für teuer und wenig rentabel. Beim Bund geniesst er dennoch Priorität.]]></description>
+      <pubDate>Sat, 03 Oct 2026 09:17:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Fall Widdecombe: Möglicherweise auch Anschlag auf Farage geplant</title>
+      <link>https://www.tagesschau.de/ausland/europa/mord-ann-widdecombe-100.html</link>
+      <guid isPermaLink="false">bad48b37-f0ae-4285-9720-23010a1fcd79</guid>
+      <description><![CDATA[Im Juli wurde ein 28-Jähriger im Fall der getöteten Brexit-Politikerin Widdecombe wegen Mordes angeklagt. Die Ermittler stellen nun eine Verbindung zu weiteren Anschlagspläne her - unter anderem gegen Rechtspopulist Farage.]]></description>
+      <pubDate>Sat, 03 Oct 2026 09:11:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Nach Parmelin-Rücktritt – SP-Co-Präsident erwartet Romandie-Kandidatur von SVP</title>
+      <link>https://www.srf.ch/news/schweiz/nach-parmelin-ruecktritt-sp-co-praesident-erwartet-romandie-kandidatur-von-svp</link>
+      <guid isPermaLink="false">urn:srf:article:01a0fd88-6b5d-24fd-70fa-b8c90ff00935</guid>
+      <description><![CDATA[Cédric Wermuth würde es als «halber» Romand «sehr treffen», wenn die Romandie nicht mehr im Bundesrat vertreten wäre.]]></description>
+      <pubDate>Sat, 03 Oct 2026 09:10:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Gesprächsverhalten untersucht – Wir sprechen immer weniger – was die Folgen sein könnten</title>
+      <link>https://www.srf.ch/news/dialog/gespraechsverhalten-untersucht-wir-sprechen-immer-weniger-was-die-folgen-sein-koennten</link>
+      <guid isPermaLink="false">urn:srf:article:01a0edbb-7264-e688-3d7b-c6e1c779e3c7</guid>
+      <description><![CDATA[Laut einer US-Studie geht die Zahl der täglich gesprochenen Wörter zurück. Vor allem bei Jungen unter 25 Jahren.]]></description>
+      <pubDate>Sat, 03 Oct 2026 08:51:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Schweizer KI-Sprachmodell – Warum hinkt Apertus der kommerziellen Konkurrenz hinterher?</title>
+      <link>https://www.srf.ch/news/schweizer-ki-sprachmodell-warum-hinkt-apertus-der-kommerziellen-konkurrenz-hinterher</link>
+      <guid isPermaLink="false">urn:srf:article:01a0fc6d-c233-ccf9-a3de-15f8eb91972b</guid>
+      <description><![CDATA[Apertus soll digitale Souveränität ermöglichen. Doch im Alltag kommt die Schweizer KI bisher kaum zum Einsatz.]]></description>
+      <pubDate>Sat, 03 Oct 2026 08:24:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Angriff auf Flydubai-Flug – Flydubai-Pilot: «Konnte nicht so viele Menschen sterben lassen»</title>
+      <link>https://www.srf.ch/news/international/angriff-auf-flydubai-flug-flydubai-pilot-konnte-nicht-so-viele-menschen-sterben-lassen</link>
+      <guid isPermaLink="false">urn:srf:article:01a0fc90-6624-3caf-b786-26f9cca3904e</guid>
+      <description><![CDATA[Erstmals hat sich der verletzte Pilot zur Beinahe-Katastrophe auf dem Flydubai-Flug geäussert.]]></description>
+      <pubDate>Sat, 03 Oct 2026 07:57:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Nachfolge von Parmelin – Das sind mögliche Kandidierende für den Bundesrat</title>
+      <link>https://www.srf.ch/news/schweiz/nachfolge-von-parmelin-das-sind-moegliche-kandidierende-fuer-den-bundesrat</link>
+      <guid isPermaLink="false">urn:srf:article:01a0fbfd-791e-6bec-750c-4b6ca68f42be</guid>
+      <description><![CDATA[Rickli, Friedli, Grüter: Kaum hat Guy Parmelin seinen Abgang angekündigt, dreht das Nachfolgekarussell. Ein Überblick.]]></description>
+      <pubDate>Sat, 03 Oct 2026 07:38:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Lausanne-Morges: Verkehr auf der A1 normalisiert sich wieder</title>
+      <link>https://www.20min.ch/fr/story/vaud-trafic-paralyse-sur-l-a1-entre-lausanne-et-morges-103643411</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-trafic-paralyse-sur-l-a1-entre-lausanne-et-morges-103643411</guid>
+      <description><![CDATA[In der Nacht von Freitag auf Samstag hat sich auf Höhe von Morges-Ost ein Unfall ereignet. Am Morgen wurde noch ein 5 km langer Stau gemeldet.]]></description>
+      <pubDate>Sat, 03 Oct 2026 07:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Mysteriöse Einbruchserie bei Abgeordneten in Finnland</title>
+      <link>https://www.tagesschau.de/ausland/europa/finnland-einbrueche-abgeordnete-100.html</link>
+      <guid isPermaLink="false">5b71325c-86dc-4073-b07a-b657517e5d26</guid>
+      <description><![CDATA[Eine mysteriöse Einbruchserie bei Abgeordneten beschäftigt Finnland. Die Hausbesuche, bei denen nie etwas entwendet wird, erinnern an Spitzelmethoden aus Sowjetzeiten. Die Polizei ermittelt, die Politik ist alarmiert. Von C. Stichler.]]></description>
+      <pubDate>Sat, 03 Oct 2026 06:39:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Gesicht des Widerstands – Indiens bekanntester politischer Häftling bleibt hinter Gitter</title>
+      <link>https://www.srf.ch/news/international/gesicht-des-widerstands-indiens-bekanntester-politischer-haeftling-bleibt-hinter-gitter</link>
+      <guid isPermaLink="false">urn:srf:article:01a0f32f-0eba-2df3-0b98-168391eb7536</guid>
+      <description><![CDATA[Umar Khalid wurde unter dem Anti-Terror-Gesetz verhaftet. Auch nach sechs Jahren hat sein Prozess noch nicht begonnen.]]></description>
+      <pubDate>Sat, 03 Oct 2026 06:29:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Urteil zum Familiennachzug – Tochter darf in die Schweiz, weil der Vater nichts von ihr wusste</title>
+      <link>https://www.srf.ch/news/schweiz/urteil-zum-familiennachzug-tochter-darf-in-die-schweiz-weil-der-vater-nichts-von-ihr-wusste</link>
+      <guid isPermaLink="false">urn:srf:article:01a0fb37-d614-aedd-7bf4-3b9897437e0b</guid>
+      <description><![CDATA[Ein eingebürgerter Schweizer darf laut Bundesgericht seine aussereheliche Tochter aus Gambia zu sich holen.]]></description>
+      <pubDate>Sat, 03 Oct 2026 05:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Die Ergänzungsleistungen von 300 Familien werden sinken</title>
+      <link>https://www.20min.ch/fr/story/vaud-les-prestations-complementaires-de-300-familles-vont-baisser-103643061</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-les-prestations-complementaires-de-300-familles-vont-baisser-103643061</guid>
+      <description><![CDATA[Ab 2027 gilt für die staatlichen Finanzhilfen zugunsten von Familien eine neue Mietzinstabelle. Bestimmte Haushalte könnten bis zu 300 Franken pro Monat verlieren.]]></description>
+      <pubDate>Sat, 03 Oct 2026 05:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Nach Rücktritt von Parmelin – Von Wohnungsnot bis KI – das wartet auf Parmelins Nachfolge</title>
+      <link>https://www.srf.ch/news/wirtschaft/nach-ruecktritt-von-parmelin-von-wohnungsnot-bis-ki-das-wartet-auf-parmelins-nachfolge</link>
+      <guid isPermaLink="false">urn:srf:article:01a0fc8a-2e51-fba3-ae62-68c13634dcc0</guid>
+      <description><![CDATA[Das Departement für Wirtschaft, Bildung und Forschung (WBF) bekommt eine neue Leitung – die wichtigsten Aufgaben.]]></description>
+      <pubDate>Sat, 03 Oct 2026 04:59:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Lettland: Zwischen Russland-Sorge und hohen Lebenshaltungskosten</title>
+      <link>https://www.tagesschau.de/ausland/europa/lettland-parlamentswahlen-104.html</link>
+      <guid isPermaLink="false">f66ad5c0-ceeb-44de-ba39-46b90e11e4e6</guid>
+      <description><![CDATA[Lettland wählt ein neues Parlament. Die hohen Lebenshaltungskosten und das Gesundheitssystem bestimmten den Wahlkampf. Aber auch die Sorge vor Russland. Ministerpräsident Kulbergs will seinen klaren Westkurs fortsetzen. Von Arne Bartram.]]></description>
+      <pubDate>Sat, 03 Oct 2026 04:32:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] «Arena» zu EU-Paket – Martullo-Blocher: «FDP, Mitte und SP verraten das Land»</title>
+      <link>https://www.srf.ch/news/schweiz/arena-zu-eu-paket-martullo-blocher-fdp-mitte-und-sp-verraten-das-land</link>
       <guid isPermaLink="false">urn:srf:article:01a0fba9-6b18-e4c0-0eb3-66dcc45bcb56</guid>
       <description><![CDATA[In den vergangenen Wochen wurde intensiv über das Vertragspaket mit der EU diskutiert.]]></description>
       <pubDate>Fri, 02 Oct 2026 21:00:23 GMT</pubDate>
@@ -169,13 +288,6 @@
       <pubDate>Fri, 02 Oct 2026 13:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Angriff auf Flydubai-Flug – Flydubai-Pilot: «Konnte nicht so viele Menschen sterben lassen»</title>
-      <link>https://www.srf.ch/news/international/angriff-auf-flydubai-flug-flydubai-pilot-konnte-nicht-so-viele-menschen-sterben-lassen</link>
-      <guid isPermaLink="false">urn:srf:article:01a0fc90-6624-3caf-b786-26f9cca3904e</guid>
-      <description><![CDATA[Erstmals hat sich der verletzte Pilot zur Beinahe-Katastrophe auf dem Flydubai-Flug geäussert.]]></description>
-      <pubDate>Fri, 02 Oct 2026 13:49:12 GMT</pubDate>
-    </item>
-    <item>
       <title>[20 Min Romandie] Ein neues Stadion in Sion im Luna-Park-Stil</title>
       <link>https://www.20min.ch/fr/story/valais-un-nouveau-stade-de-sion-aux-allures-de-luna-park-103643038</link>
       <guid isPermaLink="false">https://www.20min.ch/fr/story/valais-un-nouveau-stade-de-sion-aux-allures-de-luna-park-103643038</guid>
@@ -279,146 +391,6 @@
       <guid isPermaLink="false">f2b402cf-f1f4-4764-b609-34e86a70b94b</guid>
       <description><![CDATA[Deutschlands letzte große Warenhauskette Galeria hat erneut Insolvenz angemeldet - es ist bereits die vierte innerhalb von sechs Jahren. Wie es mit den etwa 12.000 Mitarbeitenden in den 83 Warenhäusern weitergeht, ist unklar.]]></description>
       <pubDate>Fri, 02 Oct 2026 11:18:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Die Zukunft der Glasbläserei von Saint-Prex gibt weiterhin zu reden</title>
-      <link>https://journaldemorges.ch/actualite/societe/lavenir-de-la-verrerie-de-saint-prex-fait-toujours-parler/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/lavenir-de-la-verrerie-de-saint-prex-fait-toujours-parler/</guid>
-      <description><![CDATA[Während des Gemeindarats vom Mittwoch stand die Zukunft des Vetropack-Geländes im Mittelpunkt von Diskussionen und einer Präsentation.]]></description>
-      <pubDate>Fri, 02 Oct 2026 10:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Les Vaudoiseries: Das Treffen zwischen Künstlern und Handwerkern</title>
-      <link>https://www.20min.ch/fr/story/lausanne-les-vaudoiseries-le-rendez-vous-entre-artistes-et-artisans-103642701</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/lausanne-les-vaudoiseries-le-rendez-vous-entre-artistes-et-artisans-103642701</guid>
-      <description><![CDATA[Am 2. und 3. Oktober verwandeln mehr als 40 Kooperationen zwischen Waadtländer Geschäften und Talenten die Innenstadt in einen kreativen, genussvollen und überraschungsreichen Parcours.]]></description>
-      <pubDate>Fri, 02 Oct 2026 10:52:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Inflation im Euroraum steigt stärker als erwartet - auf 3,8 Prozent</title>
-      <link>https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-anstieg-102.html</link>
-      <guid isPermaLink="false">3cc54b30-159e-41b8-abed-8831d3265475</guid>
-      <description><![CDATA[Die Inflationsrate in der Eurozone ist im September auf 3,8 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Der Grund sind die hohen Energiepreise.]]></description>
-      <pubDate>Fri, 02 Oct 2026 10:52:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Geopolitischer Hotspot – Lettland wählt – im Schatten des grossen Nachbarn Russland</title>
-      <link>https://www.srf.ch/news/international/geopolitischer-hotspot-lettland-waehlt-im-schatten-des-grossen-nachbarn-russland</link>
-      <guid isPermaLink="false">urn:srf:article:01a0f6a4-15a8-fded-c99e-af60c8b6e569</guid>
-      <description><![CDATA[Lettland wählt am Samstag ein neues Parlament. SRF-Auslandredaktor Peter Voegeli erklärt, warum die Welt hinschaut.]]></description>
-      <pubDate>Fri, 02 Oct 2026 10:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Nach elf Jahren – Bundesrat Guy Parmelin tritt per Ende 2026 zurück</title>
-      <link>https://www.srf.ch/news/schweiz/nach-elf-jahren-bundesrat-guy-parmelin-tritt-per-ende-2026-zurueck</link>
-      <guid isPermaLink="false">urn:srf:article:21051749</guid>
-      <description><![CDATA[Der 66-jährige SVP-Politiker aus Bursins VD ist seit 2016 Mitglied der Landesregierung.]]></description>
-      <pubDate>Fri, 02 Oct 2026 10:06:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Der Puppenspieler hinter dem Grand Marché de Morges</title>
-      <link>https://journaldemorges.ch/actualite/reportages/le-marionnettiste-derriere-le-grand-marche-de-morges/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/reportages/le-marionnettiste-derriere-le-grand-marche-de-morges/</guid>
-      <description><![CDATA[Am vergangenen Samstag, beim Herbst-Grand-Marché, begleiteten wir Gérald Théraulaz, den Leiter der Gewerbepolizei, um die Kulissen zu entdecken.]]></description>
-      <pubDate>Fri, 02 Oct 2026 09:42:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Eine Tavolata und Feierlichkeiten</title>
-      <link>https://journaldemorges.ch/actualite/terroir/une-tavolata-et-des-rejouissances/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/terroir/une-tavolata-et-des-rejouissances/</guid>
-      <description><![CDATA[Am Samstag versammelten sich die Winzer von Vins de Morges um ein Fondue, um das Ende der Weinlese zu feiern.]]></description>
-      <pubDate>Fri, 02 Oct 2026 09:41:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Wuchtig frontal erfasst, stirbt eine Motorradfahrerin auf der Strasse</title>
-      <link>https://www.20min.ch/fr/story/vaud-percutee-de-plein-fouet-une-motocycliste-meurt-sur-la-route-103642916</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-percutee-de-plein-fouet-une-motocycliste-meurt-sur-la-route-103642916</guid>
-      <description><![CDATA[Eine 48-jährige Frau ist am Donnerstag im Lavaux nach einer Kollision mit einem Auto gestorben, das gerade ein Lieferfahrzeug überholte.]]></description>
-      <pubDate>Fri, 02 Oct 2026 09:29:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Tankrabatt für Autofahrer, aber kein Nachlass beim Heizen: ungerecht?</title>
-      <link>https://www.tagesschau.de/wirtschaft/verbraucher/heizen-tankrabatt-debatte-100.html</link>
-      <guid isPermaLink="false">117bf572-e788-49e9-b7f0-51fc88453c44</guid>
-      <description><![CDATA[Autofahrer profitieren seit dem 1. Oktober vom "Tankrabatt". Hausbesitzer mit Ölheizung gehen leer aus. Fachleute sehen darin ein Gerechtigkeitsproblem - warnen aber vor neuen, teuren Steuernachlässen. Von O. Bemelmann und S. Groß.]]></description>
-      <pubDate>Fri, 02 Oct 2026 09:22:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Nach BGH-Urteil - Amazon senkt Preis für langjährige Prime-Kunden</title>
-      <link>https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-102.html</link>
-      <guid isPermaLink="false">bfd7ba81-9ad2-47ef-8df7-10a6d7828ba7</guid>
-      <description><![CDATA[Der Bundesgerichtshof hatte eine Preiserhöhung von Amazon Prime für rechtswidrig erklärt. Der Konzern hat nun reagiert: Für langjährige Prime-Kunden gilt vorübergehend wieder der alte Preis. Betroffene können zudem Geld zurückfordern.]]></description>
-      <pubDate>Fri, 02 Oct 2026 09:08:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Hinrichtung in Tennessee – Wie kann ein Mensch nach zwei Giftspritzen noch leben?</title>
-      <link>https://www.srf.ch/news/international/hinrichtung-in-tennessee-wie-kann-ein-mensch-nach-zwei-giftspritzen-noch-leben</link>
-      <guid isPermaLink="false">urn:srf:article:01a0fb74-512e-afb3-3652-4d251e34a568</guid>
-      <description><![CDATA[Die zum Tode verurteilte Christa Pike überlebte in den USA zwei Giftspritzen und liegt nun im Spital. Die Hintergründe.]]></description>
-      <pubDate>Fri, 02 Oct 2026 08:36:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] Gedanken zum Gedankenstrich – Da macht sich einer breit – und das scheint kein Zufall</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/gedanken-zum-gedankenstrich-da-macht-sich-einer-breit-und-das-scheint-kein-zufall</link>
-      <guid isPermaLink="false">urn:srf:article:01a0aa36-4fef-0d03-e6eb-b81225eea77e</guid>
-      <description><![CDATA[Machen wir uns gerade schlauer als nötig? Ein paar Gedanken zu einem Satzzeichen, das – verdächtig – viel zu sagen hat.]]></description>
-      <pubDate>Fri, 02 Oct 2026 08:04:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Commerzbank: Braucht Deutschland schärferes Übernahmerecht?</title>
-      <link>https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-uebernahmerecht-deutschland-100.html</link>
-      <guid isPermaLink="false">7903afd1-46f8-47cb-9357-7c8c25cdf679</guid>
-      <description><![CDATA[Die Fälle Commerzbank, Hugo Boss und ProSiebenSat.1 zeigen, wie leicht Investoren in Deutschland ihre Kontrolle ausbauen können. Andere Länder setzen beim Aktionärsschutz strengere Grenzen. Von Angela Göpfert.]]></description>
-      <pubDate>Fri, 02 Oct 2026 07:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Algorithmen im HR – KI sortiert vor: So verändert sich die Jobsuche</title>
-      <link>https://www.srf.ch/news/dialog/algorithmen-im-hr-ki-sortiert-vor-so-veraendert-sich-die-jobsuche</link>
-      <guid isPermaLink="false">urn:srf:article:01a0ec58-cb74-ecae-d855-d46b9489fac7</guid>
-      <description><![CDATA[KI verändert die Personalsuche auf beiden Seiten. Gleichzeitig wächst die Sorge vor unfairen algorithmischen Filtern.]]></description>
-      <pubDate>Fri, 02 Oct 2026 07:07:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] In Apples bereitet sich die Fondation Baud auf ihren Wandel vor</title>
-      <link>https://journaldemorges.ch/actualite/societe/a-apples-la-fondation-baud-prepare-sa-mue/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/a-apples-la-fondation-baud-prepare-sa-mue/</guid>
-      <description><![CDATA[Das Alters- und Pflegeheim plant, seine Infrastruktur umzubauen und zu erweitern, um seine Kapazität zu verdoppeln und gleichzeitig seine Dienstleistungen stärker mit dem Dorf zu vernetzen.]]></description>
-      <pubDate>Fri, 02 Oct 2026 07:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Von Wespen angegriffen, stirbt ein Arbeiter wenige Tage später</title>
-      <link>https://www.20min.ch/fr/story/vaud-attaque-par-des-guepes-un-ouvrier-decede-quelques-jours-apres-103642785</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-attaque-par-des-guepes-un-ouvrier-decede-quelques-jours-apres-103642785</guid>
-      <description><![CDATA[Das Opfer wurde gestochen, nachdem es ein Wespennest auf einer Baustelle ausgegraben hatte. Der ins Krankenhaus eingelieferte Mann erlag vermutlich einer heftigen allergischen Reaktion.]]></description>
-      <pubDate>Fri, 02 Oct 2026 06:40:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Detailhandel – Verführung am Regal – darum verkaufen sich Lebensmittel gut</title>
-      <link>https://www.srf.ch/news/wirtschaft/detailhandel-verfuehrung-am-regal-darum-verkaufen-sich-lebensmittel-gut</link>
-      <guid isPermaLink="false">urn:srf:article:01a0f73c-5ac0-1dc9-6bb8-ea2b935840c9</guid>
-      <description><![CDATA[Coop hat in Emmen den 1000. Laden eröffnet. In der Zahl und dem Konzept mit viel Frischem spiegeln sich Trends.]]></description>
-      <pubDate>Fri, 02 Oct 2026 05:32:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Walfangverbot geplant – Walfang in Island: Ende einer vermeintlichen Tradition?</title>
-      <link>https://www.srf.ch/news/international/walfangverbot-geplant-walfang-in-island-ende-einer-vermeintlichen-tradition</link>
-      <guid isPermaLink="false">urn:srf:article:01a0f75a-102f-d64c-0130-21ae8e13524b</guid>
-      <description><![CDATA[Island ist eines von nur drei Ländern, in denen Wale noch gejagt werden. Nun plant die Regierung ein Verbot.]]></description>
-      <pubDate>Fri, 02 Oct 2026 05:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Verschärfte Politik – Abschreckung in Dänemark: Was das Asylsystem ausmacht – und taugt</title>
-      <link>https://www.srf.ch/news/international/verschaerfte-politik-abschreckung-in-daenemark-was-das-asylsystem-ausmacht-und-taugt</link>
-      <guid isPermaLink="false">urn:srf:article:01a0f1c8-f6ff-d37b-6555-f9e626348126</guid>
-      <description><![CDATA[Dänemark wird als Vorbild für Verschärfungen des Asylsystems gehandelt. Die wichtigsten Massnahmen und ihre Wirkung.]]></description>
-      <pubDate>Fri, 02 Oct 2026 04:46:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Die Lokalzeitung geht jeden an!</title>
-      <link>https://journaldemorges.ch/opinions/le-journal-local-est-laffaire-de-tous/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/opinions/le-journal-local-est-laffaire-de-tous/</guid>
-      <description><![CDATA[Unser Chefredakteur Cédric Jotterand blickt diese Woche auf die Bedeutung einer Lokalzeitung in den Regionen zurück, während im Kanton mehrere Medien erneut Schwierigkeiten haben.]]></description>
-      <pubDate>Fri, 02 Oct 2026 04:31:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
