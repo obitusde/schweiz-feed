@@ -5,13 +5,146 @@
     <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Sun, 04 Oct 2026 04:30:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 10:58:38 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Wirtschaft] Hunderte Millionen Verlust – Swiss Steel nimmt Stellenabbau in Deutschland vor</title>
-      <link>https://www.srf.ch/news/wirtschaft/hunderte-millionen-verlust-swiss-steel-nimmt-stellenabbau-in-deutschland-vor</link>
+      <title>[20 Min Romandie] Menschliche «Eichhörnchen» in den Bäumen gegen die Autobahn A412</title>
+      <link>https://www.20min.ch/fr/story/france-voisine-ecureuils-humains-dans-les-arbres-contre-l-autoroute-a412-103644020</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/france-voisine-ecureuils-humains-dans-les-arbres-contre-l-autoroute-a412-103644020</guid>
+      <description><![CDATA[Gegner haben sich in Laubbäumen eingenistet, um das Autobahnprojekt und die damit verbundene Zerstörung von Wäldern anzuprangern. Eine weitere Demo fand in Thonon statt.]]></description>
+      <pubDate>Sun, 04 Oct 2026 10:37:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Influencer werden für ethische Jagd zum Problem</title>
+      <link>https://www.tagesschau.de/wirtschaft/verbraucher/jagd-hobby-lifestyle-100.html</link>
+      <guid isPermaLink="false">394aecba-cc88-4427-95c0-48b1d88f2d0b</guid>
+      <description><![CDATA[Für die Reichweite in sozialen Medien bringt Action oft mehr als Jagdethik. Einen verantwortungsvollen Umgang mit Waffen gibt es dabei bisweilen nicht. Jagdausstatter distanzieren sich deshalb von einigen Influencern. Von B. Augustin.]]></description>
+      <pubDate>Sun, 04 Oct 2026 10:16:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Parlamentswahlen Kanton Zug – FDP und SVP wollen die Mitte vom Thron stossen</title>
+      <link>https://www.srf.ch/news/schweiz/parlamentswahlen-kanton-zug-fdp-und-svp-wollen-die-mitte-vom-thron-stossen</link>
+      <guid isPermaLink="false">urn:srf:article:01a0eda2-c8bb-0cbc-536c-5ecab125e72d</guid>
+      <description><![CDATA[FDP und SVP wollen stärkste Kraft werden im Zuger Kantonsrat. Derzeit ist es die Mitte – aber nur ganz knapp.]]></description>
+      <pubDate>Sun, 04 Oct 2026 10:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Letzte Klappe für Roger – Federer-Aus bei Schweiz Tourismus: Die besten Clips im Rückblick</title>
+      <link>https://www.srf.ch/news/dialog/letzte-klappe-fuer-roger-federer-aus-bei-schweiz-tourismus-die-besten-clips-im-rueckblick</link>
+      <guid isPermaLink="false">urn:srf:article:01a0f16d-1b55-6a27-4323-086a7d3ebbcc</guid>
+      <description><![CDATA[Fünf Jahre lang war Federer das Gesicht von Schweiz Tourismus. Nun ist Schluss. Ein Rückblick auf die Höhepunkte.]]></description>
+      <pubDate>Sun, 04 Oct 2026 10:01:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Krieg gegen die Ukraine: Merz besucht Kiew - Russland greift Brücke an</title>
+      <link>https://www.tagesschau.de/ausland/europa/merz-kiew-drohnen-100.html</link>
+      <guid isPermaLink="false">2979c3c2-455c-4c4d-b714-da22799de7e0</guid>
+      <description><![CDATA[Während Kanzler Merz Kiew besucht, hat ein russischer Angriff auf eine Brücke dort Alarm ausgelöst. Merz sagte dem Land Unterstützung zu und trifft sich mit Präsident Selenskyj. Russland begehe "tägliche Kriegsverbrechen".]]></description>
+      <pubDate>Sun, 04 Oct 2026 09:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Erinnerungsstücke – Teddybär, Bierdose und eine Schachtel voll Haare</title>
+      <link>https://www.srf.ch/news/schweiz/erinnerungsstuecke-teddybaer-bierdose-und-eine-schachtel-voll-haare</link>
+      <guid isPermaLink="false">urn:srf:article:01a0c868-28f4-99b2-4747-6abd120eb08b</guid>
+      <description><![CDATA[«Leben & Lassen. Spuren des Menschseins»: Eine Ausstellung im Historischen Museum Thurgau thematisiert Hinterlassenes.]]></description>
+      <pubDate>Sun, 04 Oct 2026 09:26:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Tory-Parteitag: Wie Kemi Badenoch die Tories retten will</title>
+      <link>https://www.tagesschau.de/ausland/europa/tories-parteitag-badenoch-100.html</link>
+      <guid isPermaLink="false">5d06c2d0-5b74-4d54-aa1b-08760fb4ba7f</guid>
+      <description><![CDATA[Die britischen Konservativen sind in den Umfragen seit Langem abgeschlagen. Bei dem Parteitag in Birmingham will Kemi Badenoch ihren Tories neuen Mut einflößen. Kann die Parteichefin das? Von Lisa-Marie Röhling.]]></description>
+      <pubDate>Sun, 04 Oct 2026 09:12:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Umstrittene Hinrichtung – «Eine humane Todesstrafe gibt es nicht»</title>
+      <link>https://www.srf.ch/news/international/umstrittene-hinrichtung-eine-humane-todesstrafe-gibt-es-nicht</link>
+      <guid isPermaLink="false">urn:srf:article:01a1028f-7580-98ae-7810-e0e5dda0a56f</guid>
+      <description><![CDATA[Was rechtfertigt es, dass ein Staat einen Menschen tötet? Für den Autor Helmut Ortner lautet die Antwort: nichts.]]></description>
+      <pubDate>Sun, 04 Oct 2026 09:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Regierungswahlen Kanton Zug – Schaffen alle sieben Bisherigen die Wiederwahl?</title>
+      <link>https://www.srf.ch/news/schweiz/regierungswahlen-kanton-zug-schaffen-alle-sieben-bisherigen-die-wiederwahl</link>
+      <guid isPermaLink="false">urn:srf:article:01a0ecf0-b657-0525-47b1-109e0c946d8e</guid>
+      <description><![CDATA[Die Zuger Kantonsregierung ist bürgerlich dominiert. Alternative – die Grünen, SP und Grünliberale greifen an.]]></description>
+      <pubDate>Sun, 04 Oct 2026 08:32:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Geldwäsche und Drogen: Barbershops in den Schlagzeilen</title>
+      <link>https://www.20min.ch/fr/story/genevelausanne-blanchiment-d-argent-et-drogue-des-barbershops-dans-la-tourmente-103643962</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/genevelausanne-blanchiment-d-argent-et-drogue-des-barbershops-dans-la-tourmente-103643962</guid>
+      <description><![CDATA[Zwei Betriebe in Genf und Lausanne stehen unter dem Verdacht der Geldwäsche im Zusammenhang mit Drogenhandel. Die Betreiber der Barbershops wurden festgenommen.]]></description>
+      <pubDate>Sun, 04 Oct 2026 08:29:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Langes Ringen um Atomendlager – Stadel statt Wellenberg: Wie Nidwalden sein Tiefenlager bekämpfte</title>
+      <link>https://www.srf.ch/news/schweiz/langes-ringen-um-atomendlager-stadel-statt-wellenberg-wie-nidwalden-sein-tiefenlager-bekaempfte</link>
+      <guid isPermaLink="false">urn:srf:article:01a0e729-dee5-319b-a962-bf3d8dd53823</guid>
+      <description><![CDATA[Von Nidwalden nach Zürich: Der lange Weg zum Schweizer Tiefenlager für radioaktive Abfälle.]]></description>
+      <pubDate>Sun, 04 Oct 2026 08:16:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Job-Einstieg mit Problemen: Wie KI den Arbeitsmarkt verändert</title>
+      <link>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/kuenstliche-intelligenz-job-einstieg-100.html</link>
+      <guid isPermaLink="false">d5b5b366-f830-4f62-a2f5-c68f944e9c68</guid>
+      <description><![CDATA[Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz übernimmt immer mehr Tätigkeiten für Unternehmen. Nur wie soll dann der Karrierestart gelingen? Von Joscha Bartlitz.]]></description>
+      <pubDate>Sun, 04 Oct 2026 08:13:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Gesellschaft] Wirbel um einen Heiligen – Franz von Assisi: Radikal und populär – und immer in Sandalen</title>
+      <link>https://www.srf.ch/kultur/gesellschaft-religion/wirbel-um-einen-heiligen-franz-von-assisi-radikal-und-populaer-und-immer-in-sandalen</link>
+      <guid isPermaLink="false">urn:srf:article:01a0fbd4-e12f-a9a7-ad97-8dc1161e33eb</guid>
+      <description><![CDATA[Er ist allseits beliebt. In seinem 800. Todesjahr pilgerten über fünf Millionen ins umbrische Assisi. Woran liegt das?]]></description>
+      <pubDate>Sun, 04 Oct 2026 08:00:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Wahl im Baltikum – Regierungsbündnis in Lettland gewinnt überraschend deutlich</title>
+      <link>https://www.srf.ch/news/international/wahl-im-baltikum-regierungsbuendnis-in-lettland-gewinnt-ueberraschend-deutlich</link>
+      <guid isPermaLink="false">urn:srf:article:01a10562-c6f1-90c7-1f19-581064ca9a10</guid>
+      <description><![CDATA[Das Bündnis von Ministerpräsident Andris Kulbergs holt 35.4 Prozent der Stimmen. Auch populistische Parteien legen zu.]]></description>
+      <pubDate>Sun, 04 Oct 2026 07:40:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Kooperation China–Schweiz – Diese Solarpaneele produzieren auch unter Wasser Strom</title>
+      <link>https://www.srf.ch/news/dialog/kooperation-china-schweiz-diese-solarpaneele-produzieren-auch-unter-wasser-strom</link>
+      <guid isPermaLink="false">urn:srf:article:01a0f2f9-e7d2-63b2-e752-b3758ea69410</guid>
+      <description><![CDATA[Forschende aus China und der Schweiz haben Solarpaneele entwickelt, die in zehn Metern Tiefe Strom produzieren können.]]></description>
+      <pubDate>Sun, 04 Oct 2026 07:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Bosnien-Herzegowina – Wahlen in Bosnien: Warum viele Junge die Hoffnung verlieren</title>
+      <link>https://www.srf.ch/news/international/bosnien-herzegowina-wahlen-in-bosnien-warum-viele-junge-die-hoffnung-verlieren</link>
+      <guid isPermaLink="false">urn:srf:article:01a0f71c-2eb8-e877-2304-f8b2197882b6</guid>
+      <description><![CDATA[Im Land grassieren Korruption und Vetternwirtschaft. Viele junge Menschen wollen das Land verlassen.]]></description>
+      <pubDate>Sun, 04 Oct 2026 07:16:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Gesellschaft] «Boomerang Kids» – Mit Mitte 30 zurück im Kinderzimmer – geht das gut?</title>
+      <link>https://www.srf.ch/kultur/gesellschaft-religion/boomerang-kids-mit-mitte-30-zurueck-im-kinderzimmer-geht-das-gut</link>
+      <guid isPermaLink="false">urn:srf:article:01a0ab70-b2a5-ba05-f369-7c67d1c9a47a</guid>
+      <description><![CDATA[Marut und Vanessa wohnen wieder bei ihren Eltern. Für sie ist es ein Ringen um Freiraum, für ihn bedeutet es Freiheit.]]></description>
+      <pubDate>Sun, 04 Oct 2026 06:38:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Lula gegen Bolsonaro – Welche Zukunft wählt Brasilien?</title>
+      <link>https://www.srf.ch/news/international/lula-gegen-bolsonaro-welche-zukunft-waehlt-brasilien</link>
+      <guid isPermaLink="false">urn:srf:article:01a0fa35-44c9-706d-7c18-bebf344cf0f8</guid>
+      <description><![CDATA[Zwei politische Projekte stehen sich gegenüber – mit Folgen für Demokratie und Souveränität, sagt ein Politikprofessor.]]></description>
+      <pubDate>Sun, 04 Oct 2026 06:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Bilder der Woche – Kampf-Chihuahua Comando und weitere Eindrücke der Woche</title>
+      <link>https://www.srf.ch/news/schweiz/bilder-der-woche-kampf-chihuahua-comando-und-weitere-eindruecke-der-woche</link>
+      <guid isPermaLink="false">urn:srf:article:01a0f776-b5cc-0a53-d2e0-e35d9727d6d3</guid>
+      <description><![CDATA[Kläffer, Kanal-Hai und Kicker: Das sind die Bilder der Woche.]]></description>
+      <pubDate>Sun, 04 Oct 2026 05:01:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Hunderte Millionen Verlust – Swiss Steel baut in Deutschland Stellen ab</title>
+      <link>https://www.srf.ch/news/wirtschaft/hunderte-millionen-verlust-swiss-steel-baut-in-deutschland-stellen-ab</link>
       <guid isPermaLink="false">urn:srf:article:01a104ab-7fd6-53e9-1c56-248cf3c3b243</guid>
-      <description><![CDATA[Einen Verlust von 310 Mio. Euro verzeichnete Swiss Steel im Jahr 2025. Eine weitere Sanierung wurde nun angekündigt.]]></description>
+      <description><![CDATA[Einen Verlust von 310 Millionen Euro verzeichnete Swiss Steel 2025. Eine weitere Sanierung wurde nun angekündigt.]]></description>
       <pubDate>Sun, 04 Oct 2026 03:08:27 GMT</pubDate>
     </item>
     <item>
@@ -48,13 +181,6 @@
       <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/les-defis-du-kiwi-made-in-suisse/</guid>
       <description><![CDATA[Das Domaine de la Pêcherie deckt nahezu die gesamte nationale Kiwiproduktion ab. Zwischen Frühlingsfrösten, Wasserbedarf und Lageranforderungen erfordert dieser Anbau extreme Sorgfalt.]]></description>
       <pubDate>Sat, 03 Oct 2026 17:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] Wirbel um einen Heiligen – Franz von Assisi: Radikal und populär – und immer in Sandalen</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/wirbel-um-einen-heiligen-franz-von-assisi-radikal-und-populaer-und-immer-in-sandalen</link>
-      <guid isPermaLink="false">urn:srf:article:01a0fbd4-e12f-a9a7-ad97-8dc1161e33eb</guid>
-      <description><![CDATA[Er ist allseits beliebt. In seinem 800. Todesjahr pilgerten über fünf Millionen ins umbrische Assisi. Woran liegt das?]]></description>
-      <pubDate>Sat, 03 Oct 2026 16:59:57 GMT</pubDate>
     </item>
     <item>
       <title>[Tagesschau Wirtschaft] Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland</title>
@@ -202,139 +328,6 @@
       <guid isPermaLink="false">https://www.20min.ch/fr/story/suisse-casier-judicaire-devoile-pour-les-moniteurs-de-camps-d-enfants-103643471</guid>
       <description><![CDATA[Um das Risiko von Missbrauchen an Minderjährigen zu verringern, will ein Vorstoss Betreuer verpflichten, einen Sonderauszug aus ihrem Strafregister vorzulegen.]]></description>
       <pubDate>Sat, 03 Oct 2026 11:40:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Aargauer Regierungswahl – Vierer-Rennen mit Favoritin um freien Regierungssitz</title>
-      <link>https://www.srf.ch/news/schweiz/aargauer-regierungswahl-vierer-rennen-mit-favoritin-um-freien-regierungssitz</link>
-      <guid isPermaLink="false">urn:srf:article:01a0e6e2-457d-d8d2-388e-1b3bf2c93418</guid>
-      <description><![CDATA[Maja Riniker (FDP) scheint so gut wie in die Aargauer Regierung gewählt. Es gibt aber Konkurrenz.]]></description>
-      <pubDate>Sat, 03 Oct 2026 10:39:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Bern hilft mit, um die Belle-Époque-Schiffe über Wasser zu halten?</title>
-      <link>https://www.20min.ch/fr/story/suisse-romande-berne-a-l-aide-pour-maintenir-a-flot-les-bateaux-belle-epoque-103643444</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/suisse-romande-berne-a-l-aide-pour-maintenir-a-flot-les-bateaux-belle-epoque-103643444</guid>
-      <description><![CDATA[Der Nationalrat hat eine dauerhafte finanzielle Unterstützung des Bundes für die historischen Schiffe der CGN gefordert. Andere Flotten könnten davon profitieren.]]></description>
-      <pubDate>Sat, 03 Oct 2026 10:20:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] In der 2. Liga gebeutelt, bewegt sich Forward auf Minenfeld</title>
-      <link>https://journaldemorges.ch/sports/football/malmene-en-2e-ligue-forward-evolue-en-terrain-mine/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/sports/football/malmene-en-2e-ligue-forward-evolue-en-terrain-mine/</guid>
-      <description><![CDATA[Als Tabellenletzter nach sechs Spieltagen erlebt der FC Forward einen alptraumhaften Saisonstart. Eine Bestandsaufnahme mit dem Trainer und dem Präsidenten des Vereins aus Morges.]]></description>
-      <pubDate>Sat, 03 Oct 2026 10:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Großbritanniens Zusammenarbeit mit der EU: Bye-bye, Brexit?</title>
-      <link>https://www.tagesschau.de/ausland/europa/grossbritannien-zusammenarbeit-eu-100.html</link>
-      <guid isPermaLink="false">7d3f7e27-860b-493a-b43c-fea24347e2d6</guid>
-      <description><![CDATA[Großbritanniens Premier Burnham nährt mit einer Aussage Diskussionen um einen Wiedereintritt seines Landes in die EU. Gründe zur Zusammenarbeit gäbe es genug. Aber wäre eine Rückkehr wirklich denkbar? Von Sabrina Fritz.]]></description>
-      <pubDate>Sat, 03 Oct 2026 09:54:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] «Falsche Priorität» – Grimseltunnel sorgt in der Romandie für Ärger</title>
-      <link>https://www.srf.ch/news/dialog/falsche-prioritaet-grimseltunnel-sorgt-in-der-romandie-fuer-aerger</link>
-      <guid isPermaLink="false">urn:srf:article:01a0f223-46fd-7c9d-4369-974b45ce347e</guid>
-      <description><![CDATA[Kritiker halten den geplanten Grimseltunnel für teuer und wenig rentabel. Beim Bund geniesst er dennoch Priorität.]]></description>
-      <pubDate>Sat, 03 Oct 2026 09:17:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Fall Widdecombe: Möglicherweise auch Anschlag auf Farage geplant</title>
-      <link>https://www.tagesschau.de/ausland/europa/mord-ann-widdecombe-100.html</link>
-      <guid isPermaLink="false">bad48b37-f0ae-4285-9720-23010a1fcd79</guid>
-      <description><![CDATA[Im Juli wurde ein 28-Jähriger im Fall der getöteten Brexit-Politikerin Widdecombe wegen Mordes angeklagt. Die Ermittler stellen nun eine Verbindung zu weiteren Anschlagspläne her - unter anderem gegen Rechtspopulist Farage.]]></description>
-      <pubDate>Sat, 03 Oct 2026 09:11:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Nach Parmelin-Rücktritt – SP-Co-Präsident erwartet Romandie-Kandidatur von SVP</title>
-      <link>https://www.srf.ch/news/schweiz/nach-parmelin-ruecktritt-sp-co-praesident-erwartet-romandie-kandidatur-von-svp</link>
-      <guid isPermaLink="false">urn:srf:article:01a0fd88-6b5d-24fd-70fa-b8c90ff00935</guid>
-      <description><![CDATA[Cédric Wermuth würde es als «halber» Romand «sehr treffen», wenn die Romandie nicht mehr im Bundesrat vertreten wäre.]]></description>
-      <pubDate>Sat, 03 Oct 2026 09:10:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Gesprächsverhalten untersucht – Wir sprechen immer weniger – was die Folgen sein könnten</title>
-      <link>https://www.srf.ch/news/dialog/gespraechsverhalten-untersucht-wir-sprechen-immer-weniger-was-die-folgen-sein-koennten</link>
-      <guid isPermaLink="false">urn:srf:article:01a0edbb-7264-e688-3d7b-c6e1c779e3c7</guid>
-      <description><![CDATA[Laut einer US-Studie geht die Zahl der täglich gesprochenen Wörter zurück. Vor allem bei Jungen unter 25 Jahren.]]></description>
-      <pubDate>Sat, 03 Oct 2026 08:51:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Schweizer KI-Sprachmodell – Warum hinkt Apertus der kommerziellen Konkurrenz hinterher?</title>
-      <link>https://www.srf.ch/news/schweizer-ki-sprachmodell-warum-hinkt-apertus-der-kommerziellen-konkurrenz-hinterher</link>
-      <guid isPermaLink="false">urn:srf:article:01a0fc6d-c233-ccf9-a3de-15f8eb91972b</guid>
-      <description><![CDATA[Apertus soll digitale Souveränität ermöglichen. Doch im Alltag kommt die Schweizer KI bisher kaum zum Einsatz.]]></description>
-      <pubDate>Sat, 03 Oct 2026 08:24:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Angriff auf Flydubai-Flug – Flydubai-Pilot: «Konnte nicht so viele Menschen sterben lassen»</title>
-      <link>https://www.srf.ch/news/international/angriff-auf-flydubai-flug-flydubai-pilot-konnte-nicht-so-viele-menschen-sterben-lassen</link>
-      <guid isPermaLink="false">urn:srf:article:01a0fc90-6624-3caf-b786-26f9cca3904e</guid>
-      <description><![CDATA[Erstmals hat sich der verletzte Pilot zur Beinahe-Katastrophe auf dem Flydubai-Flug geäussert.]]></description>
-      <pubDate>Sat, 03 Oct 2026 07:57:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Nachfolge von Parmelin – Das sind mögliche Kandidierende für den Bundesrat</title>
-      <link>https://www.srf.ch/news/schweiz/nachfolge-von-parmelin-das-sind-moegliche-kandidierende-fuer-den-bundesrat</link>
-      <guid isPermaLink="false">urn:srf:article:01a0fbfd-791e-6bec-750c-4b6ca68f42be</guid>
-      <description><![CDATA[Rickli, Friedli, Grüter: Kaum hat Guy Parmelin seinen Abgang angekündigt, dreht das Nachfolgekarussell. Ein Überblick.]]></description>
-      <pubDate>Sat, 03 Oct 2026 07:38:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Lausanne-Morges: Verkehr auf der A1 normalisiert sich wieder</title>
-      <link>https://www.20min.ch/fr/story/vaud-trafic-paralyse-sur-l-a1-entre-lausanne-et-morges-103643411</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-trafic-paralyse-sur-l-a1-entre-lausanne-et-morges-103643411</guid>
-      <description><![CDATA[In der Nacht von Freitag auf Samstag hat sich auf Höhe von Morges-Ost ein Unfall ereignet. Am Morgen wurde noch ein 5 km langer Stau gemeldet.]]></description>
-      <pubDate>Sat, 03 Oct 2026 07:06:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Mysteriöse Einbruchserie bei Abgeordneten in Finnland</title>
-      <link>https://www.tagesschau.de/ausland/europa/finnland-einbrueche-abgeordnete-100.html</link>
-      <guid isPermaLink="false">5b71325c-86dc-4073-b07a-b657517e5d26</guid>
-      <description><![CDATA[Eine mysteriöse Einbruchserie bei Abgeordneten beschäftigt Finnland. Die Hausbesuche, bei denen nie etwas entwendet wird, erinnern an Spitzelmethoden aus Sowjetzeiten. Die Polizei ermittelt, die Politik ist alarmiert. Von C. Stichler.]]></description>
-      <pubDate>Sat, 03 Oct 2026 06:39:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Gesicht des Widerstands – Indiens bekanntester politischer Häftling bleibt hinter Gitter</title>
-      <link>https://www.srf.ch/news/international/gesicht-des-widerstands-indiens-bekanntester-politischer-haeftling-bleibt-hinter-gitter</link>
-      <guid isPermaLink="false">urn:srf:article:01a0f32f-0eba-2df3-0b98-168391eb7536</guid>
-      <description><![CDATA[Umar Khalid wurde unter dem Anti-Terror-Gesetz verhaftet. Auch nach sechs Jahren hat sein Prozess noch nicht begonnen.]]></description>
-      <pubDate>Sat, 03 Oct 2026 06:29:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Jakobsweg, der Weg, der verbindet</title>
-      <link>https://journaldemorges.ch/actualite/societe/compostelle-le-chemin-qui-rassemble/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/compostelle-le-chemin-qui-rassemble/</guid>
-      <description><![CDATA[Ein überzeugter Katholik, eine ehemalige protestantische Diakonin und ein Agnostiker – sie alle sind durch eine gemeinsame Erfahrung verbunden: die des Jakobswegs.]]></description>
-      <pubDate>Sat, 03 Oct 2026 06:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Urteil zum Familiennachzug – Tochter darf in die Schweiz, weil der Vater nichts von ihr wusste</title>
-      <link>https://www.srf.ch/news/schweiz/urteil-zum-familiennachzug-tochter-darf-in-die-schweiz-weil-der-vater-nichts-von-ihr-wusste</link>
-      <guid isPermaLink="false">urn:srf:article:01a0fb37-d614-aedd-7bf4-3b9897437e0b</guid>
-      <description><![CDATA[Ein eingebürgerter Schweizer darf laut Bundesgericht seine aussereheliche Tochter aus Gambia zu sich holen.]]></description>
-      <pubDate>Sat, 03 Oct 2026 05:04:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Die Ergänzungsleistungen von 300 Familien werden sinken</title>
-      <link>https://www.20min.ch/fr/story/vaud-les-prestations-complementaires-de-300-familles-vont-baisser-103643061</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-les-prestations-complementaires-de-300-familles-vont-baisser-103643061</guid>
-      <description><![CDATA[Ab 2027 gilt für die staatlichen Finanzhilfen zugunsten von Familien eine neue Mietzinstabelle. Bestimmte Haushalte könnten bis zu 300 Franken pro Monat verlieren.]]></description>
-      <pubDate>Sat, 03 Oct 2026 05:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Nach Rücktritt von Parmelin – Von Wohnungsnot bis KI – das wartet auf Parmelins Nachfolge</title>
-      <link>https://www.srf.ch/news/wirtschaft/nach-ruecktritt-von-parmelin-von-wohnungsnot-bis-ki-das-wartet-auf-parmelins-nachfolge</link>
-      <guid isPermaLink="false">urn:srf:article:01a0fc8a-2e51-fba3-ae62-68c13634dcc0</guid>
-      <description><![CDATA[Das Departement für Wirtschaft, Bildung und Forschung (WBF) bekommt eine neue Leitung – die wichtigsten Aufgaben.]]></description>
-      <pubDate>Sat, 03 Oct 2026 04:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Lettland: Zwischen Russland-Sorge und hohen Lebenshaltungskosten</title>
-      <link>https://www.tagesschau.de/ausland/europa/lettland-parlamentswahlen-104.html</link>
-      <guid isPermaLink="false">f66ad5c0-ceeb-44de-ba39-46b90e11e4e6</guid>
-      <description><![CDATA[Lettland wählt ein neues Parlament. Die hohen Lebenshaltungskosten und das Gesundheitssystem bestimmten den Wahlkampf. Aber auch die Sorge vor Russland. Ministerpräsident Kulbergs will seinen klaren Westkurs fortsetzen. Von Arne Bartram.]]></description>
-      <pubDate>Sat, 03 Oct 2026 04:32:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
