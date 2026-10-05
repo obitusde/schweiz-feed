@@ -5,28 +5,210 @@
     <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Mon, 05 Oct 2026 04:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:58:39 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Ausland] Neuer UNO-Bericht zum Wasser – Mit dem Klimawandel wird das Süsswasser immer knapper</title>
-      <link>https://www.srf.ch/news/dialog/neuer-uno-bericht-zum-wasser-mit-dem-klimawandel-wird-das-suesswasser-immer-knapper</link>
-      <guid isPermaLink="false">urn:srf:article:01a0f752-1669-2f77-de8b-e3a2f93a2d3d</guid>
-      <description><![CDATA[Noch vor dem Rekordsommer 2026 sank der Pegel von Flüssen und Seen laut UNO auf den niedrigsten Stand seit 30 Jahren.]]></description>
-      <pubDate>Mon, 05 Oct 2026 04:18:06 GMT</pubDate>
+      <title>[SRF Wissen] Nobelpreis 2026 – Der Nobelpreis für Medizin geht an Optogenetik-Forscher</title>
+      <link>https://www.srf.ch/wissen/nobelpreise/nobelpreis-2026-der-nobelpreis-fuer-medizin-geht-an-optogenetik-forscher</link>
+      <guid isPermaLink="false">urn:srf:article:01a0ee20-1533-55b1-f688-91aad180ee45</guid>
+      <description><![CDATA[Die drei werden für ihre Entdeckungen im Bereich lichtgesteuerter Ionenkanäle und Optogenetik ausgezeichnet.]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:41:01 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Zwei Vorschläge des Bundesrats – Frühfranzösisch-Pflicht: So reagieren Verbände und Parteien</title>
-      <link>https://www.srf.ch/news/schweiz/zwei-vorschlaege-des-bundesrats-fruehfranzoesisch-pflicht-so-reagieren-verbaende-und-parteien</link>
-      <guid isPermaLink="false">urn:srf:article:01a108a0-7f0a-887b-7505-059681e0fede</guid>
-      <description><![CDATA[SVP und FDP lehnen diese ab. SP, Grüne, Mitte sowie der Lehrpersonenverband sind für einen der beiden Vorschläge.]]></description>
-      <pubDate>Mon, 05 Oct 2026 04:13:49 GMT</pubDate>
+      <title>[SRF Ausland] Massenproteste in Indien – Die «Kakerlaken» sind wieder da – jetzt gegen die Wahlkommission</title>
+      <link>https://www.srf.ch/news/international/massenproteste-in-indien-die-kakerlaken-sind-wieder-da-jetzt-gegen-die-wahlkommission</link>
+      <guid isPermaLink="false">urn:srf:article:01a0fd6b-2300-07ae-4529-5d49066aa977</guid>
+      <description><![CDATA[Millionen Wähler sollen von Listen gestrichen worden sein. Der Chef der Wahlkommission gerät unter Druck.]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:35:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Seit Mai: E-Auto-Prämie an 100.000 Antragsteller ausgezahlt</title>
+      <link>https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-praemie-126.html</link>
+      <guid isPermaLink="false">a732e8bf-01c8-47b0-9684-1f2f4bbe46a2</guid>
+      <description><![CDATA[Die neue Prämie zur Förderung von E-Autos hat laut Umweltminister Schneider die Erwartungen übertroffen. Geld sei bereits an 100.000 Antragsteller geflossen - viele von ihnen mit geringerem Einkommen.]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] AHV-Abstimmung – Baume-Schneider verteidigt Erhöhung der Mehrwertsteuer</title>
+      <link>https://www.srf.ch/news/schweiz/ahv-abstimmung-baume-schneider-verteidigt-erhoehung-der-mehrwertsteuer</link>
+      <guid isPermaLink="false">urn:srf:article:01a10b15-9afb-4891-142a-cda328431df3</guid>
+      <description><![CDATA[Die Bundesrätin hat auf einer Medienkonferenz den Bundesbeschluss über die Zusatzfinanzierung vorgestellt.]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:23:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Grossbritannien – Nach Vorfall bei US-Militärbasis: US-Bomber zurückbeordert</title>
+      <link>https://www.srf.ch/news/international/grossbritannien-nach-vorfall-bei-us-militaerbasis-us-bomber-zurueckbeordert</link>
+      <guid isPermaLink="false">urn:srf:article:01a10b38-1281-379b-7f1c-92783fd80809</guid>
+      <description><![CDATA[Die USA ziehen nach einem Sicherheitsvorfall ihre Bomber vom Stützpunkt Fairford in Grossbritannien ab.]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] E-Autos boomen bei deutschen Käufern</title>
+      <link>https://www.tagesschau.de/wirtschaft/verbraucher/neuzulassungen-pkw-kba-100.html</link>
+      <guid isPermaLink="false">b5cb8940-64f9-4b4d-a707-7d444b02eefe</guid>
+      <description><![CDATA[Die hohen Spritpreise lassen offenbar viele Menschen umdenken: Mehr als jedes dritte neu zugelassene Auto war zuletzt ein Elektroauto. Die Zulassungen von Benzin- und Dieselautos brachen dagegen ein.]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:01:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Mutmasslicher Extremist – Die wichtigsten Fragen zur Sicherheit nach der Flydubai-Attacke</title>
+      <link>https://www.srf.ch/news/international/mutmasslicher-extremist-die-wichtigsten-fragen-zur-sicherheit-nach-der-flydubai-attacke</link>
+      <guid isPermaLink="false">urn:srf:article:01a10ae7-c221-7bd6-8d63-39e5be6fb63e</guid>
+      <description><![CDATA[Wer kontrolliert ausländische Crews auf Flügen nach Israel? Nach der Flydubai-Attacke ist die Zuständigkeit umstritten.]]></description>
+      <pubDate>Mon, 05 Oct 2026 09:19:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Epstein-Skandal – Ex-Prinz Andrew klagt gegen Polizei-Razzien</title>
+      <link>https://www.srf.ch/news/international/epstein-skandal-ex-prinz-andrew-klagt-gegen-polizei-razzien</link>
+      <guid isPermaLink="false">urn:srf:article:01a10b37-6ec0-8698-8ae2-5216b0119a85</guid>
+      <description><![CDATA[Andrew Mountbatten-Windsor will die Durchsuchungsbefehle vom Februar vor Gericht für unrechtmässig erklären lassen.]]></description>
+      <pubDate>Mon, 05 Oct 2026 09:17:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Streckensanierung Berlin-Hannover wird aufwendiger - und teurer</title>
+      <link>https://www.tagesschau.de/wirtschaft/verbraucher/bahn-hannover-berlin-102.html</link>
+      <guid isPermaLink="false">3f855bd2-68ec-473c-8906-f111382d618d</guid>
+      <description><![CDATA[Fast 1,5 Stunden länger brauchen nun Züge zwischen Hannover und Berlin. Und die Generalsanierung soll mehr als ein Jahr dauern - wesentlich länger als noch vor kurzem angekündigt. Das führt zu Protesten. Von Andre Kartschall.]]></description>
+      <pubDate>Mon, 05 Oct 2026 09:15:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Dänisches Melderegister mit Daten von 8,8 Millionen Menschen gehackt</title>
+      <link>https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html</link>
+      <guid isPermaLink="false">b302a64f-c84a-4a0e-9aed-da56f469c3a4</guid>
+      <description><![CDATA[Unbekannte haben sich Zugriff zum dänischen Melderegister verschafft. Die zuständige Ministerin spricht von einem äußerst schwerwiegenden Vorfall. Daten von 8,8 Millionen Menschen sind betroffen.]]></description>
+      <pubDate>Mon, 05 Oct 2026 09:14:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Die Stadt entschließt sich zum Fällen von 35 gefährlichen Bäumen</title>
+      <link>https://www.20min.ch/fr/story/geneve-la-ville-se-resout-a-couper-35-arbres-dangereux-103644537</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-la-ville-se-resout-a-couper-35-arbres-dangereux-103644537</guid>
+      <description><![CDATA[Die Pflanzen waren in zu schlechtem Zustand, als dass die öffentliche Sicherheit hätte garantiert werden können. Die meisten werden im Winter 2027-2028 ersetzt.]]></description>
+      <pubDate>Mon, 05 Oct 2026 09:10:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Schweizer Bergbahnen – Deutliches Gästeplus dank Hitzesommer und goldenem Herbst</title>
+      <link>https://www.srf.ch/news/schweiz/schweizer-bergbahnen-deutliches-gaesteplus-dank-hitzesommer-und-goldenem-herbst</link>
+      <guid isPermaLink="false">urn:srf:article:01a10adf-d85c-0bdd-0f47-fcad858b02c6</guid>
+      <description><![CDATA[Die Schweizer Bergbahnen zählten diesen Sommer mehr Gäste als im Vorjahr. Besonders gefragt waren Höhenlagen.]]></description>
+      <pubDate>Mon, 05 Oct 2026 08:22:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Kritik an Palmöl-Import – Referendum gegen Malaysia-Deal: 85'000 Unterschriften eingereicht</title>
+      <link>https://www.srf.ch/news/schweiz/kritik-an-palmoel-import-referendum-gegen-malaysia-deal-85-000-unterschriften-eingereicht</link>
+      <guid isPermaLink="false">urn:srf:article:01a10b05-8d5f-36a3-bb4f-b6530e731eee</guid>
+      <description><![CDATA[Die Allianz warnt vor den Folgen des Palmöl-Anbaus wie Abholzung oder Landvertreibung.]]></description>
+      <pubDate>Mon, 05 Oct 2026 08:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Ein Schweizer Schwimmtalent droht ausgewiesen zu werden</title>
+      <link>https://www.20min.ch/fr/story/valais-un-espoir-de-la-natation-suisse-risque-d-etre-expulse-103644481</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/valais-un-espoir-de-la-natation-suisse-risque-d-etre-expulse-103644481</guid>
+      <description><![CDATA[Der 16-jährige Rückenschwimmer Roberts Fridrihsons und seine lettische Familie müssen das Land verlassen. Ihre Aufenthaltsbewilligung B wurde nicht verlängert. Der Staatsrat ist mit einer Beschwerde befasst.]]></description>
+      <pubDate>Mon, 05 Oct 2026 08:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] 29. November – Spaniens Ministerpräsident kündigt Neuwahlen an</title>
+      <link>https://www.srf.ch/news/international/29-november-spaniens-ministerpraesident-kuendigt-neuwahlen-an</link>
+      <guid isPermaLink="false">urn:srf:article:01a10ae7-953e-2019-de37-c4f8a73eea34</guid>
+      <description><![CDATA[In den letzten Wochen haben die Spanier Lösungen für das Problem der erschwinglichen Wohnverhältnisse gefordert.]]></description>
+      <pubDate>Mon, 05 Oct 2026 07:53:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Marktbericht: DAX mit angezogener Handbremse</title>
+      <link>https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html</link>
+      <guid isPermaLink="false">2a3dec04-ca6b-4922-9bfe-615fba66833d</guid>
+      <description><![CDATA[Der DAX ist kaum verändert in die neue Woche gestartet. Für gedämpfte Stimmung sorgt am Morgen ein erneuter Rückgang beim Euro. Auch weiterhin hohe Ölpreise bleiben eine Belastung.]]></description>
+      <pubDate>Mon, 05 Oct 2026 07:51:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Q&amp;A Fragen und Antworten – Chat zum Thema «Muskelsucht»</title>
+      <link>https://www.srf.ch/wissen/wissens-chats/q-a-fragen-und-antworten-chat-zum-thema-muskelsucht</link>
+      <guid isPermaLink="false">urn:srf:article:01a0f0dd-9a79-9b95-e4c9-a060530b40b3</guid>
+      <description><![CDATA[Die Fachrunde beantwortet von 21:00 bis 23:00 Ihre Fragen im Chat zur «Puls»-Sendung. Schreiben Sie uns schon jetzt!]]></description>
+      <pubDate>Mon, 05 Oct 2026 07:45:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Der der Spionage zugunsten der Türkei beschuldigte Pizzabäcker</title>
+      <link>https://www.20min.ch/fr/story/bernefribourg-pizzaiolo-accuse-d-espionnage-au-profit-de-la-turquie-103644465</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/bernefribourg-pizzaiolo-accuse-d-espionnage-au-profit-de-la-turquie-103644465</guid>
+      <description><![CDATA[Das Bundesstrafgericht verhandelt ab Mittwoch einen Mann, der beschuldigt wird, der Erdogan-Regierung Informationen über kurdische Sympathisanten übermittelt zu haben.]]></description>
+      <pubDate>Mon, 05 Oct 2026 07:35:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Professor Carl Hart – Der Drogenforscher, der Heroin und Kokain konsumiert</title>
+      <link>https://www.srf.ch/kultur/gesellschaft-religion/professor-carl-hart-der-drogenforscher-der-heroin-und-kokain-konsumiert</link>
+      <guid isPermaLink="false">urn:srf:article:01a0d347-e175-3cd5-8ce4-662a0dcaf2cc</guid>
+      <description><![CDATA[Carl Hart erforscht an der Columbia Universität Drogen und konsumiert sie auch selbst. Wie geht das zusammen?]]></description>
+      <pubDate>Mon, 05 Oct 2026 07:31:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Senioren am Steuer: Die fragwürdige Zuverlässigkeit von Eignungstests</title>
+      <link>https://www.20min.ch/fr/story/suisse-seniors-au-volant-la-discutable-fiabilite-des-tests-d-aptitude-103644442</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/suisse-seniors-au-volant-la-discutable-fiabilite-des-tests-d-aptitude-103644442</guid>
+      <description><![CDATA[Eine von Bern in Auftrag gegebene Studie bedauert, dass bewertende Ärzte vorgehen können, ohne über die geringste spezifische Ausbildung zu verfügen.]]></description>
+      <pubDate>Mon, 05 Oct 2026 07:07:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Ukraine: Neuer deutscher Besuch, neue russische Angriffe</title>
+      <link>https://www.tagesschau.de/ausland/europa/prien-besuch-ukraine-100.html</link>
+      <guid isPermaLink="false">c152b929-bd76-46de-8296-69d869299611</guid>
+      <description><![CDATA[Nach Bundeskanzler Merz besucht Bildungsministerin Prien die Ukraine und betont Deutschlands Unterstützung. Die sei auch im eigenen Interesse, betont CDU-Politiker Röttgen. Die Ukraine meldet derweil neue Angriffe.]]></description>
+      <pubDate>Mon, 05 Oct 2026 07:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Rechtliches Geflecht – Wieso so viele Ufer in Privatbesitz sind</title>
+      <link>https://www.srf.ch/news/dialog/rechtliches-geflecht-wieso-so-viele-ufer-in-privatbesitz-sind</link>
+      <guid isPermaLink="false">urn:srf:article:01a0f674-e126-94a3-8c84-b49e5bfe9030</guid>
+      <description><![CDATA[Obwohl Seeufer grösstenteils öffentlich sein sollen, sind im Tessin viele Abschnitte privat. Wie ist das möglich?]]></description>
+      <pubDate>Mon, 05 Oct 2026 06:38:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Grossbritannien – Der Niedergang der britischen Shoppingmeilen</title>
+      <link>https://www.srf.ch/news/international/grossbritannien-der-niedergang-der-britischen-shoppingmeilen</link>
+      <guid isPermaLink="false">urn:srf:article:01a0dde1-a8f3-7ec6-310f-0c326054f27a</guid>
+      <description><![CDATA[Einst waren britische Einkaufsstrassen Ort der Begegnung. Heute sind sie zum Politikum geworden. Warum?]]></description>
+      <pubDate>Mon, 05 Oct 2026 05:44:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Valposchiavo Calcio – Der etwas andere Fussballclub am Ende der Schweiz</title>
+      <link>https://www.srf.ch/news/schweiz/valposchiavo-calcio-der-etwas-andere-fussballclub-am-ende-der-schweiz</link>
+      <guid isPermaLink="false">urn:srf:article:01a0f68d-fa1e-9d29-6a35-d5facc753b74</guid>
+      <description><![CDATA[Valposchiavo Calcio ist in vielerlei Hinsicht ein besonderer Fussballverein. Die Lage sorgt für einige Kuriositäten.]]></description>
+      <pubDate>Mon, 05 Oct 2026 05:43:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Stichwahl in Brasilien – Lula oder Bolsonaro? Ein Land, zwei Lager, eine offene Stichwahl</title>
+      <link>https://www.srf.ch/news/international/stichwahl-in-brasilien-lula-oder-bolsonaro-ein-land-zwei-lager-eine-offene-stichwahl</link>
+      <guid isPermaLink="false">urn:srf:article:01a10a3b-55e5-3a6f-3259-b147d4597cd6</guid>
+      <description><![CDATA[Bleibt Brasilien links regiert oder gibt es ein Comeback der Bolsonaro-Familie? Das ist nach dem ersten Wahlgang unklar.]]></description>
+      <pubDate>Mon, 05 Oct 2026 05:04:53 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Arbeit statt Gefängnis – In Zürich arbeiten immer mehr Menschen Geldstrafen ab</title>
       <link>https://www.srf.ch/news/schweiz/arbeit-statt-gefaengnis-in-zuerich-arbeiten-immer-mehr-menschen-geldstrafen-ab</link>
       <guid isPermaLink="false">urn:srf:article:01a0f668-ac18-4f88-5a9f-77af4b4b8692</guid>
       <description><![CDATA[Seit einem Jahr hilft eine kantonale Anlaufstelle Betroffenen, diesen Weg zu gehen. Mit Erfolg, sagen die Behörden.]]></description>
-      <pubDate>Mon, 05 Oct 2026 04:12:22 GMT</pubDate>
+      <pubDate>Mon, 05 Oct 2026 05:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Zwei Vorschläge des Bundesrats – Frühfranzösisch-Pflicht: So reagieren Verbände und Parteien</title>
+      <link>https://www.srf.ch/news/schweiz/zwei-vorschlaege-des-bundesrats-fruehfranzoesisch-pflicht-so-reagieren-verbaende-und-parteien</link>
+      <guid isPermaLink="false">urn:srf:article:01a108a0-7f0a-887b-7505-059681e0fede</guid>
+      <description><![CDATA[SVP und FDP lehnen diese ab. SP, Grüne, Mitte sowie der Lehrpersonenverband sind für einen der beiden Vorschläge.]]></description>
+      <pubDate>Mon, 05 Oct 2026 04:59:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Warum immer mehr junge Menschen einen Job in der Pflege wollen</title>
+      <link>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ausbildungsboom-pflege-gesundheit-100.html</link>
+      <guid isPermaLink="false">c7d832a0-feb2-4891-a70e-d047c0152d7a</guid>
+      <description><![CDATA[Immer mehr junge Menschen entscheiden sich für eine Ausbildung im Gesundheitswesen: Kliniken melden Bewerberrekorde, Pflegeschulen haben Wartelisten. Gleichzeitig bleibt der Fachkräftemangel groß. Von Johannes Baumert.]]></description>
+      <pubDate>Mon, 05 Oct 2026 04:47:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Neuer UNO-Bericht zum Wasser – Mit dem Klimawandel wird das Süsswasser immer knapper</title>
+      <link>https://www.srf.ch/news/dialog/neuer-uno-bericht-zum-wasser-mit-dem-klimawandel-wird-das-suesswasser-immer-knapper</link>
+      <guid isPermaLink="false">urn:srf:article:01a0f752-1669-2f77-de8b-e3a2f93a2d3d</guid>
+      <description><![CDATA[Noch vor dem Rekordsommer 2026 sank der Pegel von Flüssen und Seen laut UNO auf den niedrigsten Stand seit 30 Jahren.]]></description>
+      <pubDate>Mon, 05 Oct 2026 04:18:06 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Ausland] Regierungs- und Parlamentswahl – Nationalistische Kräfte bleiben in Bosnien-Herzegowina stark</title>
@@ -41,6 +223,13 @@
       <guid isPermaLink="false">ea523cb6-a18d-4603-8e15-501a08f0dfcb</guid>
       <description><![CDATA[Der Chefposten der SPÖ in Österreich gilt als Schleudersitz. Und er wurde seinem Ruf erneut gerecht: Vizekanzler und Parteichef Babler zieht sich zurück. Damit will er eine stabile Regierung gewährleisten - und Neuwahlen verhindern. Von S. Hahne.]]></description>
       <pubDate>Mon, 05 Oct 2026 03:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] SPD-Basis setzt rote Linien bei der Arbeitszeitreform</title>
+      <link>https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html</link>
+      <guid isPermaLink="false">171568ff-57e4-4249-8cbc-2ed5d88fee06</guid>
+      <description><![CDATA[Die Koalition will Arbeitszeitregeln flexibler machen. Nun meldet sich die SPD-Basis zu Wort: Keine Wochenarbeitszeit ohne Tarifvertrag, heißt es in einem Positionspapier. Das könnte neuen Streit in der Koalition bedeuten. Von Jan-Peter Bartels.]]></description>
+      <pubDate>Mon, 05 Oct 2026 03:00:50 GMT</pubDate>
     </item>
     <item>
       <title>[Tagesschau Europa] Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab</title>
@@ -155,13 +344,6 @@
       <pubDate>Sun, 04 Oct 2026 13:01:28 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Valposchiavo Calcio – Der etwas andere Fussballclub am Ende der Schweiz</title>
-      <link>https://www.srf.ch/news/schweiz/valposchiavo-calcio-der-etwas-andere-fussballclub-am-ende-der-schweiz</link>
-      <guid isPermaLink="false">urn:srf:article:01a0f68d-fa1e-9d29-6a35-d5facc753b74</guid>
-      <description><![CDATA[Valposchiavo Calcio ist in vielerlei Hinsicht ein besonderer Fussballverein. Die Lage sorgt für einige Kuriositäten.]]></description>
-      <pubDate>Sun, 04 Oct 2026 12:50:52 GMT</pubDate>
-    </item>
-    <item>
       <title>[SRF Wissen] Von gefürchtet zu willkommen – Biologe: «Bartgeier-Präsenz zeigt: Am Lebensraum passt vieles»</title>
       <link>https://www.srf.ch/news/schweiz/von-gefuerchtet-zu-willkommen-biologe-bartgeier-praesenz-zeigt-am-lebensraum-passt-vieles</link>
       <guid isPermaLink="false">urn:srf:article:01a0fade-f0b9-5862-7bdf-22181c4294c5</guid>
@@ -181,139 +363,6 @@
       <guid isPermaLink="false">urn:srf:article:01a10679-b28e-723b-acab-86e9001c50ad</guid>
       <description><![CDATA[Am Gardasee ist ein Feuer ausgebrochen. Mehrere Personen wurden verletzt und ins Spital gebracht.]]></description>
       <pubDate>Sun, 04 Oct 2026 10:59:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Menschliche «Eichhörnchen» in den Bäumen gegen die Autobahn A412</title>
-      <link>https://www.20min.ch/fr/story/france-voisine-ecureuils-humains-dans-les-arbres-contre-l-autoroute-a412-103644020</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/france-voisine-ecureuils-humains-dans-les-arbres-contre-l-autoroute-a412-103644020</guid>
-      <description><![CDATA[Gegner haben sich in Laubbäumen eingenistet, um das Autobahnprojekt und die damit verbundene Zerstörung von Wäldern anzuprangern. Eine weitere Demo fand in Thonon statt.]]></description>
-      <pubDate>Sun, 04 Oct 2026 10:37:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Influencer werden für ethische Jagd zum Problem</title>
-      <link>https://www.tagesschau.de/wirtschaft/verbraucher/jagd-hobby-lifestyle-100.html</link>
-      <guid isPermaLink="false">394aecba-cc88-4427-95c0-48b1d88f2d0b</guid>
-      <description><![CDATA[Für die Reichweite in sozialen Medien bringt Action oft mehr als Jagdethik. Einen verantwortungsvollen Umgang mit Waffen gibt es dabei bisweilen nicht. Jagdausstatter distanzieren sich deshalb von einigen Influencern. Von B. Augustin.]]></description>
-      <pubDate>Sun, 04 Oct 2026 10:16:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Letzte Klappe für Roger – Federer-Aus bei Schweiz Tourismus: Die besten Clips im Rückblick</title>
-      <link>https://www.srf.ch/news/dialog/letzte-klappe-fuer-roger-federer-aus-bei-schweiz-tourismus-die-besten-clips-im-rueckblick</link>
-      <guid isPermaLink="false">urn:srf:article:01a0f16d-1b55-6a27-4323-086a7d3ebbcc</guid>
-      <description><![CDATA[Fünf Jahre lang war Federer das Gesicht von Schweiz Tourismus. Nun ist Schluss. Ein Rückblick auf die Höhepunkte.]]></description>
-      <pubDate>Sun, 04 Oct 2026 10:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Sie folgte dem Ruf der Erdbeere</title>
-      <link>https://journaldemorges.ch/portrait/elle-a-repondu-a-lappel-de-la-fraise/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/portrait/elle-a-repondu-a-lappel-de-la-fraise/</guid>
-      <description><![CDATA[Loraine Mange hat vor über zwanzig Jahren die Leitung des familiären Landguts Barutel übernommen. Trotz der Schwierigkeiten geht sie weiterhin in ihrem Beruf auf, der «mehr ein Bedürfnis als eine Berufung» ist.]]></description>
-      <pubDate>Sun, 04 Oct 2026 10:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Krieg gegen die Ukraine: Merz besucht Kiew - Russland greift Brücke an</title>
-      <link>https://www.tagesschau.de/ausland/europa/merz-kiew-drohnen-100.html</link>
-      <guid isPermaLink="false">2979c3c2-455c-4c4d-b714-da22799de7e0</guid>
-      <description><![CDATA[Während Kanzler Merz Kiew besucht, hat ein russischer Angriff auf eine Brücke dort Alarm ausgelöst. Merz sagte dem Land Unterstützung zu und trifft sich mit Präsident Selenskyj. Russland begehe "tägliche Kriegsverbrechen".]]></description>
-      <pubDate>Sun, 04 Oct 2026 09:39:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Erinnerungsstücke – Teddybär, Bierdose und eine Schachtel voll Haare</title>
-      <link>https://www.srf.ch/news/schweiz/erinnerungsstuecke-teddybaer-bierdose-und-eine-schachtel-voll-haare</link>
-      <guid isPermaLink="false">urn:srf:article:01a0c868-28f4-99b2-4747-6abd120eb08b</guid>
-      <description><![CDATA[«Leben & Lassen. Spuren des Menschseins»: Eine Ausstellung im Historischen Museum Thurgau thematisiert Hinterlassenes.]]></description>
-      <pubDate>Sun, 04 Oct 2026 09:26:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Tory-Parteitag: Wie Kemi Badenoch die Tories retten will</title>
-      <link>https://www.tagesschau.de/ausland/europa/tories-parteitag-badenoch-100.html</link>
-      <guid isPermaLink="false">5d06c2d0-5b74-4d54-aa1b-08760fb4ba7f</guid>
-      <description><![CDATA[Die britischen Konservativen sind in den Umfragen seit Langem abgeschlagen. Bei dem Parteitag in Birmingham will Kemi Badenoch ihren Tories neuen Mut einflößen. Kann die Parteichefin das? Von Lisa-Maria Röhling.]]></description>
-      <pubDate>Sun, 04 Oct 2026 09:12:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Umstrittene Hinrichtung – «Eine humane Todesstrafe gibt es nicht»</title>
-      <link>https://www.srf.ch/news/international/umstrittene-hinrichtung-eine-humane-todesstrafe-gibt-es-nicht</link>
-      <guid isPermaLink="false">urn:srf:article:01a1028f-7580-98ae-7810-e0e5dda0a56f</guid>
-      <description><![CDATA[Was rechtfertigt es, dass ein Staat einen Menschen tötet? Für den Autor Helmut Ortner lautet die Antwort: nichts.]]></description>
-      <pubDate>Sun, 04 Oct 2026 09:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Geldwäsche und Drogen: Barbershops in den Schlagzeilen</title>
-      <link>https://www.20min.ch/fr/story/genevelausanne-blanchiment-d-argent-et-drogue-des-barbershops-dans-la-tourmente-103643962</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/genevelausanne-blanchiment-d-argent-et-drogue-des-barbershops-dans-la-tourmente-103643962</guid>
-      <description><![CDATA[Zwei Betriebe in Genf und Lausanne stehen unter dem Verdacht der Geldwäsche im Zusammenhang mit Drogenhandel. Die Betreiber der Barbershops wurden festgenommen.]]></description>
-      <pubDate>Sun, 04 Oct 2026 08:29:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Langes Ringen um Atomendlager – Stadel statt Wellenberg: Wie Nidwalden sein Tiefenlager bekämpfte</title>
-      <link>https://www.srf.ch/news/schweiz/langes-ringen-um-atomendlager-stadel-statt-wellenberg-wie-nidwalden-sein-tiefenlager-bekaempfte</link>
-      <guid isPermaLink="false">urn:srf:article:01a0e729-dee5-319b-a962-bf3d8dd53823</guid>
-      <description><![CDATA[Von Nidwalden nach Zürich: Der lange Weg zum Schweizer Tiefenlager für radioaktive Abfälle.]]></description>
-      <pubDate>Sun, 04 Oct 2026 08:16:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Job-Einstieg mit Problemen: Wie KI den Arbeitsmarkt verändert</title>
-      <link>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/kuenstliche-intelligenz-job-einstieg-100.html</link>
-      <guid isPermaLink="false">d5b5b366-f830-4f62-a2f5-c68f944e9c68</guid>
-      <description><![CDATA[Junge Menschen haben zunehmend Probleme, Einstiegsjobs zu finden. Ein Grund: Künstliche Intelligenz übernimmt immer mehr Tätigkeiten für Unternehmen. Nur wie soll dann der Karrierestart gelingen? Von Joscha Bartlitz.]]></description>
-      <pubDate>Sun, 04 Oct 2026 08:13:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] Wirbel um einen Heiligen – Franz von Assisi: Radikal und populär – und immer in Sandalen</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/wirbel-um-einen-heiligen-franz-von-assisi-radikal-und-populaer-und-immer-in-sandalen</link>
-      <guid isPermaLink="false">urn:srf:article:01a0fbd4-e12f-a9a7-ad97-8dc1161e33eb</guid>
-      <description><![CDATA[Er ist allseits beliebt. In seinem 800. Todesjahr pilgerten über fünf Millionen ins umbrische Assisi. Woran liegt das?]]></description>
-      <pubDate>Sun, 04 Oct 2026 08:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Wahl im Baltikum – Regierungsbündnis in Lettland gewinnt überraschend deutlich</title>
-      <link>https://www.srf.ch/news/international/wahl-im-baltikum-regierungsbuendnis-in-lettland-gewinnt-ueberraschend-deutlich</link>
-      <guid isPermaLink="false">urn:srf:article:01a10562-c6f1-90c7-1f19-581064ca9a10</guid>
-      <description><![CDATA[Das Bündnis von Ministerpräsident Andris Kulbergs holt 35.4 Prozent der Stimmen. Auch populistische Parteien legen zu.]]></description>
-      <pubDate>Sun, 04 Oct 2026 07:40:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Kooperation China–Schweiz – Diese Solarpaneele produzieren auch unter Wasser Strom</title>
-      <link>https://www.srf.ch/news/dialog/kooperation-china-schweiz-diese-solarpaneele-produzieren-auch-unter-wasser-strom</link>
-      <guid isPermaLink="false">urn:srf:article:01a0f2f9-e7d2-63b2-e752-b3758ea69410</guid>
-      <description><![CDATA[Forschende aus China und der Schweiz haben Solarpaneele entwickelt, die in zehn Metern Tiefe Strom produzieren können.]]></description>
-      <pubDate>Sun, 04 Oct 2026 07:24:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Bosnien-Herzegowina – Wahlen in Bosnien: Warum viele Junge die Hoffnung verlieren</title>
-      <link>https://www.srf.ch/news/international/bosnien-herzegowina-wahlen-in-bosnien-warum-viele-junge-die-hoffnung-verlieren</link>
-      <guid isPermaLink="false">urn:srf:article:01a0f71c-2eb8-e877-2304-f8b2197882b6</guid>
-      <description><![CDATA[Im Land grassieren Korruption und Vetternwirtschaft. Viele junge Menschen wollen das Land verlassen.]]></description>
-      <pubDate>Sun, 04 Oct 2026 07:16:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] «Boomerang Kids» – Mit Mitte 30 zurück im Kinderzimmer – geht das gut?</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/boomerang-kids-mit-mitte-30-zurueck-im-kinderzimmer-geht-das-gut</link>
-      <guid isPermaLink="false">urn:srf:article:01a0ab70-b2a5-ba05-f369-7c67d1c9a47a</guid>
-      <description><![CDATA[Marut und Vanessa wohnen wieder bei ihren Eltern. Für sie ist es ein Ringen um Freiraum, für ihn bedeutet es Freiheit.]]></description>
-      <pubDate>Sun, 04 Oct 2026 06:38:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Lula gegen Bolsonaro – Welche Zukunft wählt Brasilien?</title>
-      <link>https://www.srf.ch/news/international/lula-gegen-bolsonaro-welche-zukunft-waehlt-brasilien</link>
-      <guid isPermaLink="false">urn:srf:article:01a0fa35-44c9-706d-7c18-bebf344cf0f8</guid>
-      <description><![CDATA[Zwei politische Projekte stehen sich gegenüber – mit Folgen für Demokratie und Souveränität, sagt ein Politikprofessor.]]></description>
-      <pubDate>Sun, 04 Oct 2026 06:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Neuer Trainer der Red Devils, Eric Bally stellt sich der Herausforderung der Jugend</title>
-      <link>https://journaldemorges.ch/sports/omnisports/nouvel-entraineur-des-red-devils-eric-bally-face-au-defi-de-la-jeunesse/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/sports/omnisports/nouvel-entraineur-des-red-devils-eric-bally-face-au-defi-de-la-jeunesse/</guid>
-      <description><![CDATA[Seit fast 10 Jahren in der Liga B etabliert, beginnt Morges Saint-Prex einen neuen Zyklus. Seit diesem Sommer können die Red Devils auf einen Coach zählen, der den jungen Spielern eine Chance gibt.]]></description>
-      <pubDate>Sun, 04 Oct 2026 06:00:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Bilder der Woche – Kampf-Chihuahua Comando und weitere Eindrücke der Woche</title>
-      <link>https://www.srf.ch/news/schweiz/bilder-der-woche-kampf-chihuahua-comando-und-weitere-eindruecke-der-woche</link>
-      <guid isPermaLink="false">urn:srf:article:01a0f776-b5cc-0a53-d2e0-e35d9727d6d3</guid>
-      <description><![CDATA[Kläffer, Kanal-Hai und Kicker: Das sind die Bilder der Woche.]]></description>
-      <pubDate>Sun, 04 Oct 2026 05:01:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
