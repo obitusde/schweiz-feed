@@ -5,273 +5,448 @@
     <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Mon, 19 Oct 2026 04:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 04:30:38 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Schweiz] ETH forscht im Lötschental – Radar-Drohne soll Naturgefahren in den Alpen früher erkennen</title>
-      <link>https://www.srf.ch/news/schweiz/eth-forscht-im-loetschental-radar-drohne-soll-naturgefahren-in-den-alpen-frueher-erkennen</link>
-      <guid isPermaLink="false">urn:srf:article:01a13eaa-2209-3d94-0aee-9335041100a7</guid>
-      <description><![CDATA[Genau messen und Bergstürze vorhersagen, bevor sie passieren: Forschende der ETH Zürich testen dafür eine Radar-Drohne.]]></description>
-      <pubDate>Mon, 19 Oct 2026 03:54:18 GMT</pubDate>
+      <title>[Tagesschau Europa] Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird</title>
+      <link>https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html</link>
+      <guid isPermaLink="false">d9d66e41-2189-4037-8097-5911f08983e1</guid>
+      <description><![CDATA[Lange galt die Arktis als Region mit wenigen Spannungen. Doch die geopolitische Lage hat sich grundlegend geändert, und auch der Klimawandel betrifft den hohen Norden. Eine neue EU-Strategie soll dem Rechnung tragen. Von A. Bartram.]]></description>
+      <pubDate>Tue, 20 Oct 2026 04:27:24 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Umstrittene Medienreform – Israelische Medienexpertin: «So gehen Populisten mit Medien um»</title>
-      <link>https://www.srf.ch/news/international/nahost/umstrittene-medienreform-israelische-medienexpertin-so-gehen-populisten-mit-medien-um</link>
-      <guid isPermaLink="false">urn:srf:article:01a13a4f-612c-7866-b114-56614b2dd551</guid>
-      <description><![CDATA[Israels Medien stehen unter Druck: Die Regierung will ihre Finanzierung und Aufsicht neu regeln. Das sorgt für Unmut.]]></description>
-      <pubDate>Mon, 19 Oct 2026 03:54:00 GMT</pubDate>
+      <title>[20 Min Romandie] Niemand kontrolliert wirklich das 90-Tage-Limit auf Airbnb</title>
+      <link>https://www.20min.ch/fr/story/geneve-personne-ne-controle-vraiment-la-limite-des-90-jours-sur-airbnb-103650843</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-personne-ne-controle-vraiment-la-limite-des-90-jours-sur-airbnb-103650843</guid>
+      <description><![CDATA[Die Behörden zählen auf Meldungen, um Vermietungen aufzuspüren, die das gesetzliche Limit von 90 Tagen pro Jahr überschreiten. Doch in acht Jahren haben sie keine einzige erhalten.]]></description>
+      <pubDate>Tue, 20 Oct 2026 04:03:45 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Im Ausland studieren – Nach dem Gymi soll der Weg an Unis im Ausland einfacher werden</title>
-      <link>https://www.srf.ch/news/schweiz/im-ausland-studieren-nach-dem-gymi-soll-der-weg-an-unis-im-ausland-einfacher-werden</link>
-      <guid isPermaLink="false">urn:srf:article:01a10b14-9b7c-cc03-da5a-f7681f346262</guid>
-      <description><![CDATA[Wieso ist Musikmachen wichtig in der Uni-Bewerbung? Wie finde ich eine Wohnung im Ausland? Ein Verein will helfen.]]></description>
-      <pubDate>Mon, 19 Oct 2026 03:52:53 GMT</pubDate>
+      <title>[SRF Ausland] Von Frankreich bis Albanien – Warum Proteste ansteckend sein können</title>
+      <link>https://www.srf.ch/news/international/von-frankreich-bis-albanien-warum-proteste-ansteckend-sein-koennen</link>
+      <guid isPermaLink="false">urn:srf:article:01a1540d-fc08-b919-ec58-f4436eba1b3a</guid>
+      <description><![CDATA[Ihre Forderungen sind teilweise unterschiedlich – trotzdem scheinen sich die Proteste in Europa gegenseitig zu befeuern.]]></description>
+      <pubDate>Tue, 20 Oct 2026 03:53:37 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Nach Krawallen in Frankreich – «Wut und Scham» – Macron verurteilt Gewalt</title>
-      <link>https://www.srf.ch/news/international/nach-krawallen-in-frankreich-wut-und-scham-macron-verurteilt-gewalt</link>
-      <guid isPermaLink="false">urn:srf:article:01a14993-badc-1ed1-a78f-12fe49876c05</guid>
-      <description><![CDATA[Macron ruft dazu auf, Demonstranten mit «legitimen Forderungen» nicht mit «denen zu verwechseln, die zerstört haben».]]></description>
-      <pubDate>Mon, 19 Oct 2026 02:41:49 GMT</pubDate>
+      <title>[SRF Schweiz] Brand, Attentat und Grounding – Der Katastrophenherbst 2001: Die politischen Folgen sind enorm</title>
+      <link>https://www.srf.ch/news/schweiz/brand-attentat-und-grounding-der-katastrophenherbst-2001-die-politischen-folgen-sind-enorm</link>
+      <guid isPermaLink="false">urn:srf:article:01a13f72-5415-bc64-c128-31564febe76b</guid>
+      <description><![CDATA[Nach dem Gotthard-Inferno, dem Zuger Attentat und dem Swissair-Grounding werden Milliarden in die Sicherheit investiert.]]></description>
+      <pubDate>Tue, 20 Oct 2026 03:52:42 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Fahnen auf Halbmast – Mehrere Tote durch Feuer auf Militärbasis in Kanada</title>
-      <link>https://www.srf.ch/news/international/fahnen-auf-halbmast-mehrere-tote-durch-feuer-auf-militaerbasis-in-kanada</link>
-      <guid isPermaLink="false">urn:srf:article:01a15006-a745-d948-8249-88618d0790cb</guid>
-      <description><![CDATA[Nach Angaben von Premierminister Mark Carney sind vier kanadische Armeeangehörige ums Leben gekommen.]]></description>
-      <pubDate>Mon, 19 Oct 2026 02:07:46 GMT</pubDate>
+      <title>[SRF Schweiz] Eröffnung Pilatus Tower – Wer hier oben wohnen will, braucht sehr viel Geld</title>
+      <link>https://www.srf.ch/news/schweiz/eroeffnung-pilatus-tower-wer-hier-oben-wohnen-will-braucht-sehr-viel-geld</link>
+      <guid isPermaLink="false">urn:srf:article:01a13a97-d323-601a-16f4-f39dc9d1152d</guid>
+      <description><![CDATA[Das Krienser Hochhaus ist fast ausverkauft – trotz teurer Wohnungen. Die Stadt freut es, Kritiker sind nicht begeistert.]]></description>
+      <pubDate>Tue, 20 Oct 2026 03:49:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Unruhen in Frankreich – Ausgangssperren in Frankreichs Städten – teils auch in Paris</title>
+      <link>https://www.srf.ch/news/international/unruhen-in-frankreich-ausgangssperren-in-frankreichs-staedten-teils-auch-in-paris</link>
+      <guid isPermaLink="false">urn:srf:article:01a152f0-7856-5a48-f3cf-103b562ea9eb</guid>
+      <description><![CDATA[In Städten wie Lille, Douai, Wattignies und Denain gilt eine Ausgangssperre für Minderjährige.]]></description>
+      <pubDate>Tue, 20 Oct 2026 03:41:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj</title>
+      <link>https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html</link>
+      <guid isPermaLink="false">079e9837-a96e-456e-aaad-893495094026</guid>
+      <description><![CDATA[US-Präsident Trump verschärft den Ton gegenüber der Ukraine und Selenskyj immer weiter. Der kritisiert die verzögerte Lieferung von bereits bezahlten Abwehrraketen.]]></description>
+      <pubDate>Tue, 20 Oct 2026 01:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Q&amp;A Organspende – «Werden jüngere Menschen bei der Organvergabe bevorzugt?»</title>
+      <link>https://www.srf.ch/wissen/wissens-chats/q-a-organspende-werden-juengere-menschen-bei-der-organvergabe-bevorzugt</link>
+      <guid isPermaLink="false">urn:srf:article:01a143da-65f4-6fd4-1f89-d9e65c13db46</guid>
+      <description><![CDATA[Franziska Beyeler und Nathalie Krügel haben Ihre Fragen im «Puls»-Chat beantwortet.]]></description>
+      <pubDate>Mon, 19 Oct 2026 20:41:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Nach Sondierungen – Berlin: Grüne und SPD für Koalitionsgespräche mit der Linken</title>
+      <link>https://www.srf.ch/news/international/nach-sondierungen-berlin-gruene-und-spd-fuer-koalitionsgespraeche-mit-der-linken</link>
+      <guid isPermaLink="false">urn:srf:article:01a155aa-bf3f-69f3-7d89-938800a065dc</guid>
+      <description><![CDATA[Die Grünen und die SPD in Berlin wollen mit der Wahlsiegerin gemeinsame Koalitionsverhandlungen aufnehmen.]]></description>
+      <pubDate>Mon, 19 Oct 2026 20:33:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Bekannte Journalistin – Nach 43 Jahren: Christiane Amanpour verlässt CNN</title>
+      <link>https://www.srf.ch/news/international/bekannte-journalistin-nach-43-jahren-christiane-amanpour-verlaesst-cnn</link>
+      <guid isPermaLink="false">urn:srf:article:01a1558f-1ad1-dc47-8daf-af53643b08b0</guid>
+      <description><![CDATA[Eine Ära endet: Christiane Amanpour beendet ihre Karriere bei CNN im Juni 2027.]]></description>
+      <pubDate>Mon, 19 Oct 2026 19:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Schweizer Flüsse – Hitzesommer schlägt auf Stromproduktion</title>
+      <link>https://www.srf.ch/news/schweiz/schweizer-fluesse-hitzesommer-schlaegt-auf-stromproduktion</link>
+      <guid isPermaLink="false">urn:srf:article:01a1530b-dca5-3e35-5988-ad5caff4249f</guid>
+      <description><![CDATA[Der Rhein führt viel weniger Wasser – und das Kraftwerk bei Basel produziert darum 30 Prozent weniger Strom.]]></description>
+      <pubDate>Mon, 19 Oct 2026 19:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Olivenernte im Westjordanland – «Das ist unser Land. Wir bleiben»</title>
+      <link>https://www.srf.ch/news/international/nahost/olivenernte-im-westjordanland-das-ist-unser-land-wir-bleiben</link>
+      <guid isPermaLink="false">urn:srf:article:01a15314-09e4-33e1-2468-2aa7fbac7785</guid>
+      <description><![CDATA[Die Olivenernte sichert vielen palästinensischen Familien das Einkommen. Diesen Herbst ist sie gefährlicher denn je.]]></description>
+      <pubDate>Mon, 19 Oct 2026 18:59:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Krieg in der Ukraine – Ukraine meldet erste Drohnenrettung eines Verwundeten</title>
+      <link>https://www.srf.ch/news/international/krieg-in-der-ukraine-ukraine-meldet-erste-drohnenrettung-eines-verwundeten</link>
+      <guid isPermaLink="false">urn:srf:article:01a154eb-d514-cd6e-dfae-d3dfbe516a4f</guid>
+      <description><![CDATA[Ein Video zeigt offenbar, wie eine Drohne einen verwundeten Soldaten aus der Gefahrenzone bringt.]]></description>
+      <pubDate>Mon, 19 Oct 2026 18:12:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Von Begnins zu Weltstars: Die verrückte Wette von Ileana Costantini</title>
+      <link>https://www.20min.ch/fr/story/une-vaudoise-a-succes-de-begnins-aux-stars-mondiales-le-pari-fou-d-ileana-costantini-103651622</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/une-vaudoise-a-succes-de-begnins-aux-stars-mondiales-le-pari-fou-d-ileana-costantini-103651622</guid>
+      <description><![CDATA[Als Friseur-Weltmeisterin hätte Ileana Costantini eine vorgezeichnete Karriere verfolgen können. Doch sie zog es vor, alles von Null an neu zu beginnen und ihren Traum zu verwirklichen.]]></description>
+      <pubDate>Mon, 19 Oct 2026 17:55:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Podcast zum Block-Prozess – Beschlagnahmte Interviews: «Der Fall ist sehr bedenklich»</title>
+      <link>https://www.srf.ch/news/international/podcast-zum-block-prozess-beschlagnahmte-interviews-der-fall-ist-sehr-bedenklich</link>
+      <guid isPermaLink="false">urn:srf:article:01a1524f-bcf4-c68a-618f-624eb646aebb</guid>
+      <description><![CDATA[«Die Zeit» musste Gespräche mit zwei Minderjährigen herausgeben. Eine Journalistin sieht die Pressefreiheit gefährdet.]]></description>
+      <pubDate>Mon, 19 Oct 2026 16:54:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Angeblich erstattete Steuern: Falsche E-Mail für echten Betrug</title>
+      <link>https://www.20min.ch/fr/story/genbpeve-impots-soit-disant-rembourses-c-est-en-realite-une-arnaque-103652263</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/genbpeve-impots-soit-disant-rembourses-c-est-en-realite-une-arnaque-103652263</guid>
+      <description><![CDATA[Betrüger geben sich als Steuerverwaltung aus, warnt der Kanton. Sie locken mit einer Steuerrückzahlung, um in Wirklichkeit sensible Daten zu stehlen.]]></description>
+      <pubDate>Mon, 19 Oct 2026 16:49:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Marktbericht: Neue Woche, neue Sorgen</title>
+      <link>https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html</link>
+      <guid isPermaLink="false">64c3d152-2b06-4b29-b30c-8e96f366c52d</guid>
+      <description><![CDATA[Die Börse gleicht derzeit einem Wechselbad. Die Gewinne von Freitag sind wieder dahin. Belastend wirkte neben den anhaltenden KI-Sorgen die Lage in Frankreich.]]></description>
+      <pubDate>Mon, 19 Oct 2026 16:29:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Fünf Jahre Pflegeinitiative – «Pflegefachpersonen auszubilden reicht nicht»</title>
+      <link>https://www.srf.ch/wissen/gesundheit/fuenf-jahre-pflegeinitiative-pflegefachpersonen-auszubilden-reicht-nicht</link>
+      <guid isPermaLink="false">urn:srf:article:01a1349b-eacf-46c1-de6c-e0643c1dab9b</guid>
+      <description><![CDATA[Hohe Arbeitslast, begrenzte Karrieremöglichkeiten, wenig Anerkennung: Warum Pflegefachpersonen aus dem Beruf aussteigen.]]></description>
+      <pubDate>Mon, 19 Oct 2026 16:16:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Wohnbauprojekt in Zürich – Koch-Areal: Hunderte Mieter müssen vertröstet werden</title>
+      <link>https://www.srf.ch/news/schweiz/wohnbauprojekt-in-zuerich-koch-areal-hunderte-mieter-muessen-vertroestet-werden</link>
+      <guid isPermaLink="false">urn:srf:article:01a1547a-7aba-e13a-4997-76e8bd80a40d</guid>
+      <description><![CDATA[300 künftige Bewohnende des bekannten Wohnbauprojekts Koch-Areal erhalten nur 14 Tage vor Einzug schlechte Nachrichten.]]></description>
+      <pubDate>Mon, 19 Oct 2026 16:09:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Weltklimarat – Forschende wehren sich gegen Verschleppung von Klimabericht</title>
+      <link>https://www.srf.ch/wissen/klimawandel/weltklimarat-forschende-wehren-sich-gegen-verschleppung-von-klimabericht</link>
+      <guid isPermaLink="false">urn:srf:article:01a153aa-11fb-1ff0-a1ef-d117e2d25e59</guid>
+      <description><![CDATA[Durch die Blockade einiger Länder droht die gemeinsame Gesprächsgrundlage für die Klimakonferenzen verloren zu gehen.]]></description>
+      <pubDate>Mon, 19 Oct 2026 15:56:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Happige Vorwürfe – Klima der Angst – Freiburger Strafanstalt in der Kritik</title>
+      <link>https://www.srf.ch/news/schweiz/happige-vorwuerfe-klima-der-angst-freiburger-strafanstalt-in-der-kritik</link>
+      <guid isPermaLink="false">urn:srf:article:01a15356-7ad9-c1e3-bb7a-7a101f368d58</guid>
+      <description><![CDATA[Autoritärer Führungsstil, falsch verbuchte Überstunden. Hinter den Freiburger Gefängnismauern rumort es.]]></description>
+      <pubDate>Mon, 19 Oct 2026 15:52:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Sorge ums Trinkwasser – Immer mehr Gemeinden verlieren ihre eigenen Wasserquellen</title>
+      <link>https://www.srf.ch/news/schweiz/sorge-ums-trinkwasser-immer-mehr-gemeinden-verlieren-ihre-eigenen-wasserquellen</link>
+      <guid isPermaLink="false">urn:srf:article:01a15432-1e7f-a089-82e1-1cc75e233f08</guid>
+      <description><![CDATA[Die Wasserversorgung in der Schweiz sei zunehmend zentralisiert. Fachverbände sehen die Versorgungssicherheit gefährdet.]]></description>
+      <pubDate>Mon, 19 Oct 2026 15:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Wegen technischer Störung – Nach Helikopter-Evakuation: Titlis weiter unerreichbar</title>
+      <link>https://www.srf.ch/news/schweiz/wegen-technischer-stoerung-nach-helikopter-evakuation-titlis-weiter-unerreichbar</link>
+      <guid isPermaLink="false">urn:srf:article:01a15318-0c19-959c-38d7-b32427dbf733</guid>
+      <description><![CDATA[Bei der Pendelbahn auf den Titlis gab es am Samstag einen Defekt. Gäste mussten per Helikopter ins Tal geflogen werden.]]></description>
+      <pubDate>Mon, 19 Oct 2026 14:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Abstimmungen 29. November 2026 – Das sind die Abstimmungsthemen</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungen-29-november-2026-das-sind-die-abstimmungsthemen</link>
+      <guid isPermaLink="false">urn:srf:article:01a15446-2552-82eb-fc41-2ae6166b63e9</guid>
+      <description><![CDATA[Am 29. November steht ein reich befrachteter Abstimmungssonntag bevor. Vier Vorlagen stehen auf dem Stimmzettel.]]></description>
+      <pubDate>Mon, 19 Oct 2026 14:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Frankreich-Proteste: "Macron hat nicht die richtigen Antworten gefunden"</title>
+      <link>https://www.tagesschau.de/ausland/europa/europa-proteste-interview-ross-100.html</link>
+      <guid isPermaLink="false">beaea940-bc7f-4c0e-a87c-b034fd24e925</guid>
+      <description><![CDATA[Frankreich steht nach den Unruhen am Wochenende unter Schock. Hat Macron die Unzufriedenheit im Land unterschätzt? Politikwissenschaftler Ross über die Vorwürfe gegen den Präsidenten - und welche Optionen dieser nun hat.]]></description>
+      <pubDate>Mon, 19 Oct 2026 14:09:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Der vom Tramdach gestürzte Schwan ist ins Wasser zurückgekehrt</title>
+      <link>https://www.20min.ch/fr/story/geneve-le-cygne-tombe-du-toit-d-un-tram-est-retourne-a-l-eau-103652007</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-le-cygne-tombe-du-toit-d-un-tram-est-retourne-a-l-eau-103652007</guid>
+      <description><![CDATA[Verletzt nach der Landung auf einem TPG-Fahrzeug, wurde ein Wasservogel verarztet und im «Ecke der Singles», stromabwärts der Reede gelegen, wieder freigelassen.]]></description>
+      <pubDate>Mon, 19 Oct 2026 14:04:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Bundesratswahl – Natalie Rickli will nicht Bundesrätin werden</title>
+      <link>https://www.srf.ch/news/schweiz/bundesratswahl-natalie-rickli-will-nicht-bundesraetin-werden</link>
+      <guid isPermaLink="false">urn:srf:article:01a1526f-e047-b03a-89f9-e0e04b314a5d</guid>
+      <description><![CDATA[Die Zürcher Gesundheitsdirektorin und ehemalige Nationalrätin verzichtet auf eine Kandidatur als Bundesrätin.]]></description>
+      <pubDate>Mon, 19 Oct 2026 14:00:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Schwere Wirtschaftskrise – «Fleisch zu kaufen, ist ein Traum»: Syriens neue Armut</title>
+      <link>https://www.srf.ch/news/international/nahost/schwere-wirtschaftskrise-fleisch-zu-kaufen-ist-ein-traum-syriens-neue-armut</link>
+      <guid isPermaLink="false">urn:srf:article:01a1533f-110f-bb5c-2cc7-e4628f86faa7</guid>
+      <description><![CDATA[Hohe Benzinpreise verschärfen die Krise in Syrien. Der Unmut in der Bevölkerung über die neue Übergangsregierung wächst.]]></description>
+      <pubDate>Mon, 19 Oct 2026 13:49:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Fahrräder, Tretroller oder öffentliche Bank aus der Rhône geborgen</title>
+      <link>https://www.20min.ch/fr/story/geneve-velos-trottinettes-ou-banc-public-repeches-dans-le-rhone-103652165</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-velos-trottinettes-ou-banc-public-repeches-dans-le-rhone-103652165</guid>
+      <description><![CDATA[Die Genfer Polizei hat einen für das Tauchen gesperrten Abschnitt der Rhône gereinigt. Ihre Funde sind durchaus abwechslungsreich.]]></description>
+      <pubDate>Mon, 19 Oct 2026 13:04:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Tramschienen: Die Sturzsicherung für Fahrräder bleibt selten</title>
+      <link>https://www.20min.ch/fr/story/geneve-voies-de-tram-le-dispositif-anti-chute-pour-velos-reste-rare-103652067</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-voies-de-tram-le-dispositif-anti-chute-pour-velos-reste-rare-103652067</guid>
+      <description><![CDATA[Dreizehn Unfälle wurden im vergangenen Jahr beim Überqueren von Tramschienen mit dem Fahrrad verzeichnet. Eine Lösung existiert, ist aber wenig installiert.]]></description>
+      <pubDate>Mon, 19 Oct 2026 12:47:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Reiche verspricht Milliarden für Wasserstoff-Ausbau</title>
+      <link>https://www.tagesschau.de/wirtschaft/reiche-wasserstoff-ausbau-millarden-100.html</link>
+      <guid isPermaLink="false">0893cd7b-ef22-4234-b7f3-6fc4b305a466</guid>
+      <description><![CDATA[Der Markt für Wasserstoff kommt nur langsam in Gang. Wirtschaftsministerin Reiche will nun mit Milliardenhilfen für die Industrie und Anreizen für klimafreundlichen Stahl gegensteuern.]]></description>
+      <pubDate>Mon, 19 Oct 2026 12:34:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] Angesichts steigender Impetigofälle im Kanton Waadt beruhigen die Kinderärzte</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/impetigo-hausse-des-cas-dans-le-canton-de-vaud-les-pediatres-rassurent-29390153.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29390153</guid>
+      <description><![CDATA[<div><a href="https://www.rts.ch/info/regions/vaud/2026/article/impetigo-hausse-des-cas-dans-le-canton-de-vaud-les-pediatres-rassurent-29390153.html?rts_source=rss_t" alt="Face à une hausse des cas d'impétigo dans le canton de Vaud, les pédiatres rassurent"></a>Als Hautinfektion, die vor allem Kinder betrifft, erlebt die Impetigo diesen Herbst im Kanton Waadt ein Wiederaufleben. Ursprünglich ba]]></description>
+      <pubDate>Mon, 19 Oct 2026 12:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Anteil weiblicher Führungskräfte in Deutschland weiterhin niedrig</title>
+      <link>https://www.tagesschau.de/inland/gesellschaft/frauen-anteil-fuehrungspositionen-100.html</link>
+      <guid isPermaLink="false">b24602f6-30f6-4c84-b08d-f2f14223d0d8</guid>
+      <description><![CDATA[Der Anteil von Frauen in Spitzenpositionen verharrt in Deutschland weiter unter dem EU-Durchschnitt: Weniger als ein Drittel der Chefposten war 2025 weiblich besetzt. Spitzenreiter im EU-Vergleich bleibt Schweden.]]></description>
+      <pubDate>Mon, 19 Oct 2026 12:19:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Strafvollzug im Tessin – Tessin eröffnet neue Gefängnisabteilung für Frauen</title>
+      <link>https://www.srf.ch/news/schweiz/strafvollzug-im-tessin-tessin-eroeffnet-neue-gefaengnisabteilung-fuer-frauen</link>
+      <guid isPermaLink="false">urn:srf:article:01a153a5-b06c-4b06-6694-4b7193cd6b84</guid>
+      <description><![CDATA[Verurteilte Frauen mussten oft im Untersuchungsgefängnis bleiben. Eine neue Abteilung bietet ihnen nun mehr Freiheiten.]]></description>
+      <pubDate>Mon, 19 Oct 2026 12:06:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Marktbericht: Sorgen um Frankreich belasten den Euro</title>
+      <link>https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-frankreich-proteste-euro-100.html</link>
+      <guid isPermaLink="false">afadf5ea-d468-4e3e-8e7d-3d91c18e5e74</guid>
+      <description><![CDATA[Die Gewalteskalation in Frankreich lastet auch auf den Finanzmärkten. Sie lässt die Sorge um die französischen Staatsfinanzen wieder aufleben. Der Euro fiel zeitweise wieder unter 1,12 Dollar zurück.]]></description>
+      <pubDate>Mon, 19 Oct 2026 12:05:00 GMT</pubDate>
     </item>
     <item>
       <title>[Tagesschau Europa] Flugzeug wegen Bombendrohung in Bulgarien notgelandet</title>
       <link>https://www.tagesschau.de/ausland/europa/notlandung-bulgarien-bombendrohung-100.html</link>
       <guid isPermaLink="false">5dcafa11-28ad-43ea-9810-f2c842acdb9b</guid>
-      <description><![CDATA[Auf dem Weg von Tel Aviv nach Wien ist ein Flugzeug von Austrian Airlines in Bulgarien notgelandet. Offenbar hatte es zuvor eine Bombendrohung gegen die Maschine gegeben. Die Hintergründe sind noch unklar.]]></description>
-      <pubDate>Mon, 19 Oct 2026 00:48:48 GMT</pubDate>
+      <description><![CDATA[Auf dem Weg von Tel Aviv nach Wien ist ein Flugzeug von Austrian Airlines notgelandet. Zuvor hatte es eine Bombendrohung gegeben. Nachdem bei einer Durchsuchung der Maschine nichts gefunden wurde, konnte sie ihren Flug fortsetzen.]]></description>
+      <pubDate>Mon, 19 Oct 2026 11:47:03 GMT</pubDate>
     </item>
     <item>
-      <title>[Tagesschau Europa] USA liefern laut Selenskyj wieder Geheimdienstinformationen</title>
-      <link>https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html</link>
-      <guid isPermaLink="false">7c18b320-f67a-4e0f-a5e9-94af70dee8e5</guid>
-      <description><![CDATA[Die Ukraine klagte zuletzt über fehlende US-Geheimdienstinformationen zu russischen Angriffen. Inzwischen liefern die USA diese laut dem ukrainischen Präsidenten wieder. Doch angesichts des jüngsten US-Kurses zeigt er sich tief besorgt.]]></description>
-      <pubDate>Sun, 18 Oct 2026 22:23:09 GMT</pubDate>
+      <title>[Tagesschau Europa] Louvre: Weiterhin keine Spur von den geraubten Kronjuwelen</title>
+      <link>https://www.tagesschau.de/ausland/europa/frankreich-ein-jahr-louvre-einbruch-100.html</link>
+      <guid isPermaLink="false">7e03127a-a0ed-4315-8d6a-3075eed0db12</guid>
+      <description><![CDATA[Vor einem Jahr erbeuteten Diebe die französischen Kronjuwelen aus dem Pariser Louvre. Das Museum hat seine Sicherheitsvorkehrungen mittlerweile verschärft, aber vom Schmuck fehlt weiterhin jede Spur. Von Cai Rienäcker.]]></description>
+      <pubDate>Mon, 19 Oct 2026 11:46:08 GMT</pubDate>
     </item>
     <item>
-      <title>[RTS Vaud] Die Einwohner des Vallée de Joux haben alle Mitglieder ihrer ersten Gemeinde bestimmt</title>
-      <link>https://www.rts.ch/info/regions/vaud/2026/article/vallee-de-joux-la-premiere-municipalite-unifiee-est-connue-29389389.html?rts_source=rss_t</link>
-      <guid isPermaLink="false">29389389</guid>
-      <description><![CDATA[<div><a href="https://www.rts.ch/info/regions/vaud/2026/article/vallee-de-joux-la-premiere-municipalite-unifiee-est-connue-29389389.html?rts_source=rss_t" alt="Les habitants de la Vallée de Joux ont désigné tous les membres de leur première municipalité"></a>Die Einwohner der zukünftigen vereinten Gemeinde des Vallée de Joux haben gewählt, um die neun Mitglieder ihrer ersten Gemeinde zu bestimmen. Séba]]></description>
-      <pubDate>Sun, 18 Oct 2026 20:21:35 GMT</pubDate>
+      <title>[Tagesschau Europa] Krawalle in Frankreich - Regierung räumt "Kontrollverlust" der Behörden ein</title>
+      <link>https://www.tagesschau.de/ausland/europa/frankreichs-justizminister-sieht-schwaechen-bei-sicherheitsbehoerden-100.html</link>
+      <guid isPermaLink="false">b379dc9b-55c3-4ad6-b7d3-13675c968ef7</guid>
+      <description><![CDATA[Nach den gewalttätigen Protesten am Wochenende ist Frankreichs Regierung mit der Frage beschäftigt, wie es dazu kommen konnte. Innenminister Nuñez bot seinen Rücktritt an, Justizminister Darmanin sieht Defizite bei den Behörden.]]></description>
+      <pubDate>Mon, 19 Oct 2026 11:29:10 GMT</pubDate>
     </item>
     <item>
-      <title>[20 Min Romandie] «Ich möchte den Mietvertragsauflösungen vor Bauarbeiten ein Ende setzen»</title>
-      <link>https://www.20min.ch/fr/story/geneve-je-veux-mettre-fin-aux-resiliations-de-baux-avant-travaux-103647861</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-je-veux-mettre-fin-aux-resiliations-de-baux-avant-travaux-103647861</guid>
-      <description><![CDATA[Staatsrat Nicolas Walder will diese Praxis verbieten, die Genf im Januar empört hatte, als 107 Mieter in Carl-Vogt zum Auszug aufgefordert wurden.]]></description>
-      <pubDate>Sun, 18 Oct 2026 20:09:59 GMT</pubDate>
+      <title>[Tagesschau Wirtschaft] Volkswagen will offenbar Gehälter einfrieren</title>
+      <link>https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html</link>
+      <guid isPermaLink="false">4fda954d-9d85-45a4-a293-f69e61c506b2</guid>
+      <description><![CDATA[Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich dazu nicht äußern.]]></description>
+      <pubDate>Mon, 19 Oct 2026 11:27:22 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Wirtschaft] Switcher-Mode – Wie nachhaltig kann Mode sein?</title>
-      <link>https://www.srf.ch/news/wirtschaft/switcher-mode-wie-nachhaltig-kann-mode-sein</link>
-      <guid isPermaLink="false">urn:srf:article:019fcba9-99ec-ccc4-3761-920eedb84c57</guid>
-      <description><![CDATA[Nach dem Konkurs ist Switcher zurück – mit drei Filialen und dem Versprechen «Made with Respect».]]></description>
-      <pubDate>Sun, 18 Oct 2026 17:45:37 GMT</pubDate>
+      <title>[Tagesschau Wirtschaft] Bringt der Aufschwung in Deutschland auch mehr Jobs?</title>
+      <link>https://www.tagesschau.de/wirtschaft/arbeitsmarkt-konjunktur-industrie-100.html</link>
+      <guid isPermaLink="false">af94fb4a-1204-4367-a5af-af6f865470df</guid>
+      <description><![CDATA[In der Industrie sind Zehntausende Jobs gefährdet. Zugleich erwarten Ökonomen, dass die deutsche Wirtschaft stärker wächst als gedacht. Kann das den Stellenabbau stoppen? Von Sebastian Schreiber.]]></description>
+      <pubDate>Mon, 19 Oct 2026 11:25:35 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Mehr Jugendschutz – Baume-Schneider will Zugang zu Social Media für Junge begrenzen</title>
-      <link>https://www.srf.ch/news/schweiz/mehr-jugendschutz-baume-schneider-will-zugang-zu-social-media-fuer-junge-begrenzen</link>
-      <guid isPermaLink="false">urn:srf:article:01a14526-577a-ff91-3e23-4cb949101af2</guid>
-      <description><![CDATA[Die Innenministerin kann sich ein Verbot in der Nacht vorstellen. Die Vorschläge des Bundesrats gehen ihr zu wenig weit.]]></description>
-      <pubDate>Sun, 18 Oct 2026 16:48:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] «Einige Eigentümer reservieren eine Unterkunft für ihre Angehörigen»</title>
-      <link>https://www.20min.ch/fr/story/geneve-certains-proprietaires-reservent-un-logement-a-leurs-proches-103647471</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-certains-proprietaires-reservent-un-logement-a-leurs-proches-103647471</guid>
-      <description><![CDATA[Im Kanton ist es sehr schwierig, eine preislich vom Staat kontrollierte PPE-Wohnung zu kaufen. Der für das Territorium zuständige Minister stellt seine Lösungen vor.]]></description>
-      <pubDate>Sun, 18 Oct 2026 16:33:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] US-Techunternehmen – 5 Anfragen, 5 Absagen: Palantir blitzt in der Schweiz ab</title>
-      <link>https://www.srf.ch/news/dialog/us-techunternehmen-5-anfragen-5-absagen-palantir-blitzt-in-der-schweiz-ab</link>
-      <guid isPermaLink="false">urn:srf:article:01a13ea2-5ee0-ace8-d5ed-51a569d6d7c9</guid>
-      <description><![CDATA[Fünfmal hat die Armee eine Zusammenarbeit mit dem US-Techunternehmen Palantir erwogen. Fünfmal hat sie es verworfen.]]></description>
-      <pubDate>Sun, 18 Oct 2026 16:19:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Drohne in Litauens Luftraum eingedrungen und abgestürzt</title>
-      <link>https://www.tagesschau.de/ausland/europa/litauen-drohne-absturz-ukraine-100.html</link>
-      <guid isPermaLink="false">7853eafd-8db9-44c3-b534-47b014b9b0fa</guid>
-      <description><![CDATA[NATO-Kampfjets stiegen auf, Bürger wurden gewarnt: In Litauen hat eine Drohne für Alarm gesorgt, weil sie in den Luftraum eindrang. Kiew entschuldigte sich kurz darauf - und vermutet eine Störaktion Russlands dahinter.]]></description>
-      <pubDate>Sun, 18 Oct 2026 16:13:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[RTS Vaud] Die Waadtländer Steuerverwaltung fordert von einem Opfer die Zahlung von Steuern auf eine von der Kirche gezahlte Entschädigung</title>
-      <link>https://www.rts.ch/info/regions/vaud/2026/article/abus-l-indemnite-d-une-victime-de-l-eglise-imposee-par-le-fisc-vaudois-29388657.html?rts_source=rss_t</link>
-      <guid isPermaLink="false">29388657</guid>
-      <description><![CDATA[<div><a href="https://www.rts.ch/info/regions/vaud/2026/article/abus-l-indemnite-d-une-victime-de-l-eglise-imposee-par-le-fisc-vaudois-29388657.html?rts_source=rss_t" alt="Le fisc vaudois demande à une victime de payer des impôts sur une indemnité versée par l'Eglise"></a>Die Waadtländer Steuerverwaltung hat nur einen Teil des Betrags der Entschädigung befreit, die von der katholischen Kirche an ein O]]></description>
-      <pubDate>Sun, 18 Oct 2026 16:13:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Unbedingt Gefängnis für den Diebstahl von Champagner!</title>
-      <link>https://journaldemorges.ch/actualite/societe/de-la-prison-ferme-pour-avoir-vole-du-champagne/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/de-la-prison-ferme-pour-avoir-vole-du-champagne/</guid>
-      <description><![CDATA[Ein 76-jähriger italienischer Grossvater hat Dutzende Flaschen in Coop-Zentren wie Morges und Saint-Prex gestohlen. Wegen schwerer Vorstrafen droht ihm eine unbedingte Haftstrafe.]]></description>
-      <pubDate>Sun, 18 Oct 2026 16:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Arbeit unter Wasser – So untersuchen Archäologen Pfahlbauten im Sempachersee</title>
-      <link>https://www.srf.ch/news/schweiz/arbeit-unter-wasser-so-untersuchen-archaeologen-pfahlbauten-im-sempachersee</link>
-      <guid isPermaLink="false">urn:srf:article:01a13e69-24bf-112a-5d65-4de3aa935899</guid>
-      <description><![CDATA[Pfahlbausiedlungen sind in Gefahr. Die Luzerner Archäologie untersucht die prähistorischen Fundstellen nun systematisch.]]></description>
-      <pubDate>Sun, 18 Oct 2026 15:52:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Wandel in der Autobranche – Geely – der unbekannte Riese auf Europas Strassen</title>
-      <link>https://www.srf.ch/news/wirtschaft/wandel-in-der-autobranche-geely-der-unbekannte-riese-auf-europas-strassen</link>
-      <guid isPermaLink="false">urn:srf:article:01a14340-85ad-8d53-7fb9-2bf04078238e</guid>
-      <description><![CDATA[Die chinesische Automarke Geely ist neu in Europa. Doch dahinter steckt ein Konzern, der Europa schon lange prägt.]]></description>
-      <pubDate>Sun, 18 Oct 2026 14:49:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Fake-Sneaker sind ein riesiges Geschäft - doch Käufer gehen in Risiko</title>
-      <link>https://www.tagesschau.de/wirtschaft/verbraucher/sneaker-kultmodelle-investment-100.html</link>
-      <guid isPermaLink="false">1905f2a6-39a6-4761-9cd5-20cf02e7a56b</guid>
-      <description><![CDATA[Sneaker-Kultmodelle können vierstellige Summen kosten. Viele Menschen greifen daher zu deutlich günstigeren Kopien. Doch das kann gefährlich werden. Von G. Marković-Schomburg, I. Mäueler und L.-M. Hiltscher.]]></description>
-      <pubDate>Sun, 18 Oct 2026 14:46:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Literat in der Schweiz – Genf war Borges’ grosse Liebe</title>
-      <link>https://www.srf.ch/news/schweiz/literat-in-der-schweiz-genf-war-borges-grosse-liebe</link>
-      <guid isPermaLink="false">urn:srf:article:01a13080-f9f4-c201-82ad-01dad1004a57</guid>
-      <description><![CDATA[Genf war für Jorge Luis Borges ein Ort des Glücks. 40 Jahre nach seinem Tod führt eine Spurensuche durch die Stadt.]]></description>
-      <pubDate>Sun, 18 Oct 2026 14:32:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Gewalt bei Protesten beschäftigt auch Italien</title>
-      <link>https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html</link>
-      <guid isPermaLink="false">c9428fdb-6d96-46a7-b5d0-efb239cde095</guid>
-      <description><![CDATA[Proteste und Krawalle hat es am Samstag auch in Italien gegeben. Ministerpräsidentin Meloni verurteilte die Gewalt, von der vor allem Mailand betroffen war. Die Demonstranten forderten höhere Löhne und mehr Investitionen.]]></description>
-      <pubDate>Sun, 18 Oct 2026 14:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Sur le marché tendu des PPE, des dénonciations et peu de triche</title>
-      <link>https://www.20min.ch/fr/story/geneve-sur-le-marche-tendu-des-ppe-des-denonciations-et-peu-de-triche-103646845</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-sur-le-marche-tendu-des-ppe-des-denonciations-et-peu-de-triche-103646845</guid>
-      <description><![CDATA[Quand l'État contrôle les prix, les propriétaires sont tenus d'habiter leur logement. Un cas récent illustre les crispations. Tous les signalements sont vérifiés.]]></description>
-      <pubDate>Sun, 18 Oct 2026 14:24:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Bilanz der Traditionsmesse – 335'000 Besuchende und zwei Bundesratsmitglieder an der Olma</title>
-      <link>https://www.srf.ch/news/schweiz/bilanz-der-traditionsmesse-335-000-besuchende-und-zwei-bundesratsmitglieder-an-der-olma</link>
-      <guid isPermaLink="false">urn:srf:article:01a14ec9-2f09-99b3-8def-3c31b0536f23</guid>
-      <description><![CDATA[Die 83. Olma ist nach elf Tagen zu Ende gegangen. Gleich zwei Mitglieder des Bundesrats waren zu Besuch – eine Premiere.]]></description>
-      <pubDate>Sun, 18 Oct 2026 13:58:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Notunterkünfte – Genfs Notunterkünfte sind am Limit</title>
-      <link>https://www.srf.ch/news/dialog/notunterkuenfte-genfs-notunterkuenfte-sind-am-limit</link>
-      <guid isPermaLink="false">urn:srf:article:01a0b380-6d80-3403-3274-1dcd6553edc8</guid>
-      <description><![CDATA[In Genf fehlen Notunterkunftsplätze für Obdachlose. Viele müssen trotz Hilfe immer wieder zurück auf die Strasse.]]></description>
-      <pubDate>Sun, 18 Oct 2026 13:25:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Grosseinsatz der Polizei – Polizei ermittelt wegen beschädigtem Zaun am Flughafen Leipzig</title>
-      <link>https://www.srf.ch/news/international/grosseinsatz-der-polizei-polizei-ermittelt-wegen-beschaedigtem-zaun-am-flughafen-leipzig</link>
+      <title>[SRF Ausland] Grosseinsatz der Polizei – Lernfahrer durchbricht Zaun am Airport Leipzig</title>
+      <link>https://www.srf.ch/news/international/grosseinsatz-der-polizei-lernfahrer-durchbricht-zaun-am-airport-leipzig</link>
       <guid isPermaLink="false">urn:srf:article:01a14de9-75ca-0fb5-b393-b97e991ac10b</guid>
-      <description><![CDATA[Ein Fahrzeug hat am Flughafen Leipzig den Zaun durchbrochen – in der Nähe abgestellter russischer Frachtflugzeuge.]]></description>
-      <pubDate>Sun, 18 Oct 2026 13:23:51 GMT</pubDate>
+      <description><![CDATA[Ein Fahrzeug hat am Flughafen Leipzig den Zaun durchbrochen – es soll sich um zwei Lernfahrer gehandelt haben.]]></description>
+      <pubDate>Mon, 19 Oct 2026 11:20:07 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Nach Lungenoperation – Papst bei Rückkehr in den Vatikan umjubelt</title>
-      <link>https://www.srf.ch/news/international/nach-lungenoperation-papst-bei-rueckkehr-in-den-vatikan-umjubelt</link>
-      <guid isPermaLink="false">urn:srf:article:01a14ed5-15d2-c68a-f344-463fc71da4ab</guid>
-      <description><![CDATA[Nur fünf Tage nach seiner Lungenkrebs-Operation ist Papst Leo XIV. wieder öffentlich aufgetreten.]]></description>
-      <pubDate>Sun, 18 Oct 2026 12:37:55 GMT</pubDate>
+      <title>[20 Min Romandie] Der Schnee wird schrittweise in die mittleren Gebirgslagen vordringen</title>
+      <link>https://www.20min.ch/fr/story/meteo-la-limite-pluie-neige-va-progressivement-s-abaisser-103652061</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/meteo-la-limite-pluie-neige-va-progressivement-s-abaisser-103652061</guid>
+      <description><![CDATA[Mit der schrittweisen Rückkehr der Kälte wird die Schneefallgrenze bis Samstag auf bis zu 1200 Meter sinken. In den Regionen Saastal und Simplon werden bis zu 70 cm fallen.]]></description>
+      <pubDate>Mon, 19 Oct 2026 11:19:26 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Faschismus in der Schweiz – Wie der Kult um den Duce aufs Tessin übergriff – und scheiterte</title>
-      <link>https://www.srf.ch/news/dialog/faschismus-in-der-schweiz-wie-der-kult-um-den-duce-aufs-tessin-uebergriff-und-scheiterte</link>
-      <guid isPermaLink="false">urn:srf:article:01a13532-20d5-8633-9f6c-5dd6c48ab81d</guid>
-      <description><![CDATA[Der Faschismus griff in den 30er-Jahren von Italien aufs Tessin über – bis er in einer Wahl abgestraft wurde.]]></description>
-      <pubDate>Sun, 18 Oct 2026 12:29:04 GMT</pubDate>
+      <title>[SRF Ausland] Sturmtief «Adam» – Heftige Unwetter in Spanien: 600 Liter innerhalb von 24 Stunden</title>
+      <link>https://www.srf.ch/news/international/sturmtief-adam-heftige-unwetter-in-spanien-600-liter-innerhalb-von-24-stunden</link>
+      <guid isPermaLink="false">urn:srf:article:01a1539c-a66b-9521-6ca0-c75a4f2509a1</guid>
+      <description><![CDATA[Einige Menschen sassen in überfluteten Gebäuden fest und warteten teils auf Dächern auf ihre Rettung.]]></description>
+      <pubDate>Mon, 19 Oct 2026 11:00:30 GMT</pubDate>
     </item>
     <item>
-      <title>[Journal de Morges] L’éthique au cœur du Festival de la Salamandre</title>
-      <link>https://journaldemorges.ch/actualite/lethique-au-coeur-du-festival-de-la-salamandre/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/lethique-au-coeur-du-festival-de-la-salamandre/</guid>
-      <description />
-      <pubDate>Sun, 18 Oct 2026 12:01:16 GMT</pubDate>
+      <title>[20 Min Romandie] Der Kanton will die Abfindung besteuern, die an ein Opfer von Missbrauch gezahlt wurde</title>
+      <link>https://www.20min.ch/fr/story/vaud-le-canton-veut-taxer-l-indemnite-versee-a-une-victime-d-abus-103651973</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-le-canton-veut-taxer-l-indemnite-versee-a-une-victime-d-abus-103651973</guid>
+      <description><![CDATA[Ein Mann, der in den 70er Jahren von einem Priester sexuell missbraucht wurde, erhielt 220'000 Franken von der katholischen Kirche. Für das Finanzamt handelt es sich dabei teilweise um ein steuerpflichtiges Einkommen.]]></description>
+      <pubDate>Mon, 19 Oct 2026 10:52:43 GMT</pubDate>
     </item>
     <item>
-      <title>[Tagesschau Europa] Russland meldet Drohnenangriffe in St. Petersburg</title>
-      <link>https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-st-petersburg-100.html</link>
-      <guid isPermaLink="false">dd363bf2-6754-4595-bbfe-55fee21044f9</guid>
-      <description><![CDATA[Die Ukraine hat in St. Petersburg nach russischen Angaben erneut Ölanlagen und ein Logistikzentrum angegriffen. Behörden zufolge kam dabei ein Mensch ums Leben. Auch die Ukraine meldet massiven Beschuss ihrer Energieanlagen und Tote.]]></description>
-      <pubDate>Sun, 18 Oct 2026 11:55:25 GMT</pubDate>
+      <title>[SRF Schweiz] Heiratsstrafe – Überparteiliche Allianz bekämpft Fairness-Initiative der Mitte</title>
+      <link>https://www.srf.ch/news/schweiz/heiratsstrafe-ueberparteiliche-allianz-bekaempft-fairness-initiative-der-mitte</link>
+      <guid isPermaLink="false">urn:srf:article:01a1538c-ef0b-53d1-57df-6e63f64d3e77</guid>
+      <description><![CDATA[Breites Bündnis gegen Mitte-Vorlage: Ein überparteiliches Komitee lanciert Kampagne gegen die Fairness-Initiative.]]></description>
+      <pubDate>Mon, 19 Oct 2026 10:37:17 GMT</pubDate>
     </item>
     <item>
-      <title>[Tagesschau Wirtschaft] Doppelsystem Deutschland: Gesetzliche und Private Krankenkasse</title>
-      <link>https://www.tagesschau.de/wirtschaft/verbraucher/krankenversicherung-pkv-gkv-vergleich-100.html</link>
-      <guid isPermaLink="false">8ea31063-ffbb-4416-ae94-b2914b50b3dc</guid>
-      <description><![CDATA[Das deutsche Krankenversicherungssystem ist speziell. Während in vielen Ländern die private Versicherung eine Ergänzung ist, ist sie hierzulande für Millionen Menschen das Hauptsystem. Von L.-M. Hiltscher.]]></description>
-      <pubDate>Sun, 18 Oct 2026 11:18:25 GMT</pubDate>
+      <title>[Tagesschau Europa] Russland greift Kiew offenbar erneut mit Raketen an</title>
+      <link>https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-200.html</link>
+      <guid isPermaLink="false">3f1a366f-9c2d-4434-bc88-3d7ff9ed44b7</guid>
+      <description><![CDATA[Russland hat die Ukraine abermals mit Raketen und Drohnen angegriffen - einmal mehr gab es laut dem ukrainischen Präsidenten Selenskyj keine frühzeitige Warnung westlicher Partner. US-Außenminister Rubio widerspricht.]]></description>
+      <pubDate>Mon, 19 Oct 2026 10:25:05 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Wissen] Betrugsmasche – So schützen Sie sich vor KI-Stimmklonen</title>
-      <link>https://www.srf.ch/news/dialog/betrugsmasche-so-schuetzen-sie-sich-vor-ki-stimmklonen</link>
-      <guid isPermaLink="false">urn:srf:article:01a13981-8d46-0b00-79fa-ea0ce3fbd8b6</guid>
-      <description><![CDATA[KI ermöglicht täuschend echte Stimmkopien und wird zunehmend für Betrugsversuche eingesetzt. So schützen Sie sich.]]></description>
-      <pubDate>Sun, 18 Oct 2026 11:02:50 GMT</pubDate>
+      <title>[SRF Schweiz] Drogensuchthilfe im Wandel – Wie hilft man heute Menschen aus der Drogensucht?</title>
+      <link>https://www.srf.ch/news/gesellschaft/drogensuchthilfe-im-wandel-wie-hilft-man-heute-menschen-aus-der-drogensucht</link>
+      <guid isPermaLink="false">urn:srf:article:01a143e8-83e8-5466-fa5f-d790b869a26c</guid>
+      <description><![CDATA[Abstinenz ist nicht mehr das einzige Ziel der Suchthilfe. Entscheidend ist heute, was Betroffenen wirklich hilft.]]></description>
+      <pubDate>Mon, 19 Oct 2026 10:02:16 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Weinbau – Schweizer Wein in der Krise: «Es geht nur ums Geld»</title>
-      <link>https://www.srf.ch/news/schweiz/weinbau-schweizer-wein-in-der-krise-es-geht-nur-ums-geld</link>
-      <guid isPermaLink="false">urn:srf:article:01a13fa9-b099-f08c-5351-392b82b886ce</guid>
-      <description><![CDATA[Schweizer Winzer kämpfen mit sinkenden Preisen. Der Winzer und Ex-Hedgefonds-Manager Philibert Frick schlägt Alarm.]]></description>
-      <pubDate>Sun, 18 Oct 2026 10:23:49 GMT</pubDate>
+      <title>[20 Min Romandie] Die Tickets gehen schnell weg, Angèle fügt ein Datum in Lausanne hinzu</title>
+      <link>https://www.20min.ch/fr/story/vaudoise-arena-les-billets-partent-vite-angele-ajoute-une-date-a-lausanne-103652045</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaudoise-arena-les-billets-partent-vite-angele-ajoute-une-date-a-lausanne-103652045</guid>
+      <description><![CDATA[Angesichts der Begeisterung für ihr Konzert am 6. November 2027 fügt die belgische Sängerin einen zweiten Termin im Waadtland hinzu.]]></description>
+      <pubDate>Mon, 19 Oct 2026 09:47:15 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Fertig saniert – Deshalb ist das Bahnhofbuffet Olten legendär</title>
-      <link>https://www.srf.ch/news/schweiz/fertig-saniert-deshalb-ist-das-bahnhofbuffet-olten-legendaer</link>
-      <guid isPermaLink="false">urn:srf:article:01a1156f-4a86-8d59-c497-df79053b48d1</guid>
-      <description><![CDATA[Das Bahnhofbuffet Olten gilt als legendär. Nun ist es fertig saniert. Warum wurde das Bahnhofsrestaurant zur Legende?]]></description>
-      <pubDate>Sun, 18 Oct 2026 09:13:32 GMT</pubDate>
+      <title>[SRF Schweiz] Gemeindebudget Wohlen – Wenn die Gegner der Steuererhöhung die Steuern erhöhen müssen</title>
+      <link>https://www.srf.ch/news/schweiz/gemeindebudget-wohlen-wenn-die-gegner-der-steuererhoehung-die-steuern-erhoehen-muessen</link>
+      <guid isPermaLink="false">urn:srf:article:01a13571-8591-3a6e-bcd0-7afe9bc7bb05</guid>
+      <description><![CDATA[In Wohlen AG bekämpfte die SVP jahrelang Steuererhöhungen. Nun ist sie an der Macht und verlangt selbst höhere Steuern.]]></description>
+      <pubDate>Mon, 19 Oct 2026 09:44:03 GMT</pubDate>
     </item>
     <item>
-      <title>[Journal de Morges] Des Mondiaux de padel gravés à jamais dans leurs mémoires</title>
-      <link>https://journaldemorges.ch/sports/omnisports/des-mondiaux-de-padel-graves-a-jamais-dans-leurs-memoires/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/sports/omnisports/des-mondiaux-de-padel-graves-a-jamais-dans-leurs-memoires/</guid>
-      <description><![CDATA[Deux joueuses du TC Morges ont représenté la Suisse aux Mondiaux seniors de padel. Les sportives sont rentrées d’Argentine avec des étoiles plein les yeux.]]></description>
-      <pubDate>Sun, 18 Oct 2026 07:00:55 GMT</pubDate>
+      <title>[SRF Wissen] Biodiversitätskonferenz 2026 – Naturverlust stoppen bis 2030: Länder liegen weit zurück</title>
+      <link>https://www.srf.ch/wissen/nachhaltigkeit/biodiversitaetskonferenz-2026-naturverlust-stoppen-bis-2030-laender-liegen-weit-zurueck</link>
+      <guid isPermaLink="false">urn:srf:article:01a1447b-fcfa-0f3e-9f99-8458ffbd8cea</guid>
+      <description><![CDATA[In Armenien hat die Weltnaturkonferenz COP 17 begonnen. Die Stimmung ist trotz des enormen Handlungsbedarfs positiv.]]></description>
+      <pubDate>Mon, 19 Oct 2026 09:18:19 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Gesellschaft] Schule ohne Diskriminierung – Dilemma Diversität: Schulalltag zwischen Vorurteil und Vielfalt</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/schule-ohne-diskriminierung-dilemma-diversitaet-schulalltag-zwischen-vorurteil-und-vielfalt</link>
-      <guid isPermaLink="false">urn:srf:article:01a12aee-08e9-4bc7-22ea-3c14d4447019</guid>
-      <description><![CDATA[Ramadan-Fasten, kein Schwimmen: Das Thema «Islam» hat das Potenzial, an Schulen zu Konflikten zu führen. Was tun?]]></description>
-      <pubDate>Sun, 18 Oct 2026 06:57:19 GMT</pubDate>
+      <title>[Tagesschau Europa] In Kiew wächst die Kritik an Bürgermeister Klitschko</title>
+      <link>https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html</link>
+      <guid isPermaLink="false">118e117b-92ff-4c0e-8c2a-59e52814b640</guid>
+      <description><![CDATA[In Kiew steht der nächste Kriegswinter bevor. Viele Menschen werfen Bürgermeister Klitschko hier Missmanagement vor. Statt die Strom- und Wasserversorgung zu sichern, würde Geld für Straßenbau ausgegeben. Von Rebecca Barth.]]></description>
+      <pubDate>Mon, 19 Oct 2026 09:04:40 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Midterms in den USA – Wer schützt die US-Wahlen vor Eingriffen?</title>
-      <link>https://www.srf.ch/news/international/midterms-in-den-usa-wer-schuetzt-die-us-wahlen-vor-eingriffen</link>
-      <guid isPermaLink="false">urn:srf:article:01a14483-09e1-5051-3bb0-16b32e1b89d0</guid>
-      <description><![CDATA[Trump stellt die Wahlen seit Jahren infrage. Im umkämpften Pennsylvania gibt sich ein Wahlleiter dennoch zuversichtlich.]]></description>
-      <pubDate>Sun, 18 Oct 2026 06:57:11 GMT</pubDate>
+      <title>[20 Min Romandie] Vevey enthüllt das zukünftige Gesicht des Bahnhofsviertels</title>
+      <link>https://www.20min.ch/fr/story/vaud-vevey-devoile-le-futur-visage-du-quartier-de-la-gare-103652014</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-vevey-devoile-le-futur-visage-du-quartier-de-la-gare-103652014</guid>
+      <description><![CDATA[Ein Neugestaltungsprojekt für den Bahnhofsbereich wurde in Vevey ausgewählt. Es zielt darauf ab, die Mobilität und die öffentlichen Räume zu verbessern.]]></description>
+      <pubDate>Mon, 19 Oct 2026 09:02:17 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Auswirkungen der Trockenheit – Wer haftet, wenn im Wald ein Baum auf Menschen stürzt?</title>
-      <link>https://www.srf.ch/news/schweiz/auswirkungen-der-trockenheit-wer-haftet-wenn-im-wald-ein-baum-auf-menschen-stuerzt</link>
-      <guid isPermaLink="false">urn:srf:article:01a10c98-e058-cd4a-2217-a1733dc89198</guid>
-      <description><![CDATA[Ein Gerichtsfall aus Freiburg zeigt: Der Förster haftet nur im Ausnahmefall. Die wichtigsten Punkte in der Übersicht.]]></description>
-      <pubDate>Sun, 18 Oct 2026 06:13:35 GMT</pubDate>
+      <title>[Journal de Morges] Vierter Sieg in Folge für die Red Devils</title>
+      <link>https://journaldemorges.ch/sports/omnisports/quatrieme-succes-de-rang-pour-les-red-devils/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/sports/omnisports/quatrieme-succes-de-rang-pour-les-red-devils/</guid>
+      <description><![CDATA[Morges Saint-Prex hört nicht mehr auf zu gewinnen. Die U23 von Lugano vermochten die Red Devils eine Halbzeit lang zu beunruhigen, bevor sie Ende des Spiels einbrachen.]]></description>
+      <pubDate>Mon, 19 Oct 2026 08:44:50 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Wirtschaft] Abstimmung vom 29. November – Wie (un)sozial ist die Mehrwertsteuer?</title>
-      <link>https://www.srf.ch/news/wirtschaft/abstimmung-vom-29-november-wie-un-sozial-ist-die-mehrwertsteuer</link>
-      <guid isPermaLink="false">urn:srf:article:01a11b35-b724-de3c-ed09-d9063666ba20</guid>
-      <description><![CDATA[Befürworter und Gegner der Erhöhung der Mehrwertsteuer argumentieren mit der Sozialverträglichkeit. Der Realitätscheck.]]></description>
-      <pubDate>Sun, 18 Oct 2026 05:27:26 GMT</pubDate>
+      <title>[SRF Ausland] Austrian Airlines – Bombendrohung: Flug aus Tel Aviv landet ausserplanmässig in Sofia</title>
+      <link>https://www.srf.ch/news/international/austrian-airlines-bombendrohung-flug-aus-tel-aviv-landet-ausserplanmaessig-in-sofia</link>
+      <guid isPermaLink="false">urn:srf:article:01a15252-f46b-49da-6f5d-bb51f39b458f</guid>
+      <description><![CDATA[Die Maschine befand sich am Sonntagabend auf dem Weg von Tel Aviv nach Wien, als es die Kursänderung gab.]]></description>
+      <pubDate>Mon, 19 Oct 2026 08:17:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] IW-Studie: Fachkräftemangel bremst Infrastruktur-Projekte aus</title>
+      <link>https://www.tagesschau.de/wirtschaft/fachkraeftemaengel-infrastruktur-iw-studie-100.html</link>
+      <guid isPermaLink="false">0e6b5649-bcb9-464e-b9d9-54faa2ffae45</guid>
+      <description><![CDATA[Der Bund will massiv in Brücken, Netze und Digitalisierung investieren. Doch laut einer Studie des Instituts der deutschen Wirtschaft fehlen schon jetzt die Fachkräfte, um die Projekte umzusetzen.]]></description>
+      <pubDate>Mon, 19 Oct 2026 08:07:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Die Bulldogs holen ihren ersten Saisonsieg</title>
+      <link>https://journaldemorges.ch/sports/omnisports/les-bulldogs-tiennent-leur-premiere-victoire-de-la-saison/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/sports/omnisports/les-bulldogs-tiennent-leur-premiere-victoire-de-la-saison/</guid>
+      <description><![CDATA[Wie hart mussten sie dafür kämpfen! Forward Morges holt sich den ersten Erfolg der Spielzeit. Nachdem sie mit 4:1 und später mit 6:4 geführt hatten, wurden die Bulldogs eingeholt und mussten bis ins Penaltyschießen warten, um Tramelan zu besiegen.]]></description>
+      <pubDate>Mon, 19 Oct 2026 07:39:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Am Sonntag wegen des Lausanne Marathon gesperrte Strassen</title>
+      <link>https://www.20min.ch/fr/story/vaud-routes-fermees-dimanche-pour-le-lausanne-marathon-103651960</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-routes-fermees-dimanche-pour-le-lausanne-marathon-103651960</guid>
+      <description><![CDATA[Mehrere Achsen werden am Sonntag in Lausanne und im Lavaux aufgrund der Veranstaltung für den Verkehr gesperrt sein.]]></description>
+      <pubDate>Mon, 19 Oct 2026 07:29:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Nach Krawallen in Frankreich – Macron lehnt Rücktritt des Innenministers ab</title>
+      <link>https://www.srf.ch/news/international/nach-krawallen-in-frankreich-macron-lehnt-ruecktritt-des-innenministers-ab</link>
+      <guid isPermaLink="false">urn:srf:article:01a14993-badc-1ed1-a78f-12fe49876c05</guid>
+      <description><![CDATA[Macron ruft dazu auf, Demonstranten mit «legitimen Forderungen» nicht mit «denen zu verwechseln, die zerstört haben».]]></description>
+      <pubDate>Mon, 19 Oct 2026 06:49:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Parkplatz-Ärger – 100 Franken fürs Wenden: Private Parkplatz-Wächter in der Kritik</title>
+      <link>https://www.srf.ch/sendungen/kassensturz-espresso/espresso/parkplatz-aerger-100-franken-fuers-wenden-private-parkplatz-waechter-in-der-kritik</link>
+      <guid isPermaLink="false">urn:srf:article:01a0fd09-29d2-b707-0c73-c457cfecaaf0</guid>
+      <description><![CDATA[Wer ein Parkticket zu langsam löst oder kurz auf Privatgrund wendet, kassiert von Parkwächtern fragwürdige Gebühren.]]></description>
+      <pubDate>Mon, 19 Oct 2026 06:38:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Entscheid des Verwaltungsrats – Lindt-Chef Lechner muss per sofort gehen</title>
+      <link>https://www.srf.ch/news/wirtschaft/entscheid-des-verwaltungsrats-lindt-chef-lechner-muss-per-sofort-gehen</link>
+      <guid isPermaLink="false">urn:srf:article:01a15290-8532-f754-3996-89edf581cd55</guid>
+      <description><![CDATA[Vorübergehend übernimmt der frühere CEO Dieter Weisskopf.]]></description>
+      <pubDate>Mon, 19 Oct 2026 06:27:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] Ein Streit lässt den Baubeginn der Kantonsstrasse entgleisen</title>
+      <link>https://journaldemorges.ch/actualite/societe/une-discorde-fait-derailler-le-debut-du-chantier-de-la-route-cantonale/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/une-discorde-fait-derailler-le-debut-du-chantier-de-la-route-cantonale/</guid>
+      <description><![CDATA[Die Umgestaltungsarbeiten der RC1 zwischen Morges und Saint-Prex werden sich aufgrund einer Meinungsverschiedenheit zwischen dem Kanton und der Firma Implenia verspäten.]]></description>
+      <pubDate>Mon, 19 Oct 2026 06:00:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Missstand bei Sicherheitsfirma – So systematisch beutet Securitas ihre Mitarbeitenden aus</title>
+      <link>https://www.srf.ch/news/schweiz/missstand-bei-sicherheitsfirma-so-systematisch-beutet-securitas-ihre-mitarbeitenden-aus</link>
+      <guid isPermaLink="false">urn:srf:article:01a139ad-3a59-cec2-f319-c0e63bd4bb1f</guid>
+      <description><![CDATA[Interne Daten zeigen: Securitas verstösst in der Zentralschweiz tausendfach gegen das Arbeitsgesetz.]]></description>
+      <pubDate>Mon, 19 Oct 2026 05:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Nach Protesten in Frankreich – Warum die Menschen auch in Italien auf die Strasse gehen</title>
+      <link>https://www.srf.ch/news/international/nach-protesten-in-frankreich-warum-die-menschen-auch-in-italien-auf-die-strasse-gehen</link>
+      <guid isPermaLink="false">urn:srf:article:01a1510d-f68e-e607-9634-d9affaf51028</guid>
+      <description><![CDATA[Am Wochenende wurde in Italien gegen die Teuerung demonstriert. Am Rande der Demonstrationen kam es zu Randalen.]]></description>
+      <pubDate>Mon, 19 Oct 2026 04:53:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
