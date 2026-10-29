@@ -5,14 +5,287 @@
     <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Wed, 28 Oct 2026 11:58:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:30:37 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Ausland] Zugunglück südlich von Madrid – Spanien: Hochgeschwindigkeitszüge kollidieren, mindestens 30 Tote</title>
-      <link>https://www.srf.ch/news/international/zugunglueck-suedlich-von-madrid-spanien-hochgeschwindigkeitszuege-kollidieren-mindestens-30-tote</link>
+      <title>[SRF Ausland] America, let’s talk – Jeb Bush: «Heute gilt der politische Gegner als Feind»</title>
+      <link>https://www.srf.ch/news/international/usa/america-let-s-talk-jeb-bush-heute-gilt-der-politische-gegner-als-feind</link>
+      <guid isPermaLink="false">urn:srf:article:01a17c6b-3d37-1c0a-41c6-3ec872cce235</guid>
+      <description><![CDATA[Vor den Midterms spricht Jeb Bush, Ex-Gouverneur von Florida, über Trump und die Republikaner.]]></description>
+      <pubDate>Thu, 29 Oct 2026 05:05:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Entlassen von der UBS – Stellenvermittler: «Es gibt Personen, die wir auffangen müssen»</title>
+      <link>https://www.srf.ch/news/wirtschaft/entlassen-von-der-ubs-stellenvermittler-es-gibt-personen-die-wir-auffangen-muessen</link>
+      <guid isPermaLink="false">urn:srf:article:01a18288-46d5-06a4-7470-6534fcb9f6bc</guid>
+      <description><![CDATA[Die UBS senkt ihre Kosten, indem sie Zehntausende entlässt. Zu Besuch bei einem, der für sie neue Jobs finden muss.]]></description>
+      <pubDate>Thu, 29 Oct 2026 05:04:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Engpass beim Treibstoff – Tempo 80 auf Autobahnen: Bund prüft Massnahme</title>
+      <link>https://www.srf.ch/news/schweiz/engpass-beim-treibstoff-tempo-80-auf-autobahnen-bund-prueft-massnahme</link>
+      <guid isPermaLink="false">urn:srf:article:01a183fb-399b-d378-4e95-9a542b52dd8c</guid>
+      <description><![CDATA[Wegen des Nahost-Kriegs und des tiefen Rheinpegels ist Treibstoff knapp. Bereits angezapft sind die Pflichtlager.]]></description>
+      <pubDate>Thu, 29 Oct 2026 05:01:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Mitholz Explosionskatastrophe – Damit der Berg nicht explodiert</title>
+      <link>https://www.srf.ch/news/mitholz-explosionskatastrophe-damit-der-berg-nicht-explodiert</link>
+      <guid isPermaLink="false">urn:srf:article:01a1828a-a3b9-de95-2486-e74eb673a50d</guid>
+      <description><![CDATA[3000 Tonnen Munition liegen noch im Berg bei Mitholz. Um diese zu bergen, werden die Stollen zuvor aufwändig gesichert.]]></description>
+      <pubDate>Thu, 29 Oct 2026 04:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Morges Actualitiés] Die Feuerwehr rekrutiert</title>
+      <link>https://www.morges.ch/actualites/les-sapeurs-pompiers-recrutent-214072</link>
+      <guid isPermaLink="false">https://www.morges.ch/actualites/les-sapeurs-pompiers-recrutent-214072</guid>
+      <description><![CDATA[Aktuelles - 28.10.2026]]></description>
+      <pubDate>Thu, 29 Oct 2026 03:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Zugunglück südlich von Madrid – Minister: «Falsche Entscheidung» führte zu Zug-Kollision</title>
+      <link>https://www.srf.ch/news/international/zugunglueck-suedlich-von-madrid-minister-falsche-entscheidung-fuehrte-zu-zug-kollision</link>
       <guid isPermaLink="false">urn:srf:article:01a181cf-34dc-e709-cdcc-577f2d7ae9c2</guid>
-      <description><![CDATA[In der spanischen Provinz Toledo sind zwei Hochgeschwindigkeitszüge ineinandergeprallt. Die wichtigsten Antworten.]]></description>
-      <pubDate>Wed, 28 Oct 2026 11:12:02 GMT</pubDate>
+      <description><![CDATA[In Spanien sind zwei Hochgeschwindigkeitszüge ineinandergeprallt, 68 Menschen sind gestorben. Die wichtigsten Antworten.]]></description>
+      <pubDate>Thu, 29 Oct 2026 02:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Machtkampf um Brasilien – Bolsonaro in Miami: Wie weit geht Trumps Unterstützung?</title>
+      <link>https://www.srf.ch/news/international/machtkampf-um-brasilien-bolsonaro-in-miami-wie-weit-geht-trumps-unterstuetzung</link>
+      <guid isPermaLink="false">urn:srf:article:01a18424-88d7-1628-944f-4c5f6a49b08c</guid>
+      <description><![CDATA[Hinter der Flucht von Bolsonaro steht ein grösserer Konflikt um Brasilien – und um Trumps Einfluss in Lateinamerika.]]></description>
+      <pubDate>Wed, 28 Oct 2026 21:46:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Nach Flucht in die USA – Flávio Bolsonaro erklärt sich zum «Anführer Brasiliens»</title>
+      <link>https://www.srf.ch/news/international/nach-flucht-in-die-usa-flavio-bolsonaro-erklaert-sich-zum-anfuehrer-brasiliens</link>
+      <guid isPermaLink="false">urn:srf:article:01a17e3b-63af-0740-2b98-05e65b8f1a22</guid>
+      <description><![CDATA[Trotz Ausreiseverbot hat der unterlegene Bolsonaro das Land verlassen und ist in die USA geflüchtet. Die Hintergründe.]]></description>
+      <pubDate>Wed, 28 Oct 2026 21:37:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Diese Nummern sollten Sie meiden, wenn Sie Ihre Gewinne nicht teilen wollen</title>
+      <link>https://www.20min.ch/fr/story/euromillions-ces-numeros-a-eviter-si-vous-ne-voulez-pas-partager-vos-gains-103658021</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/euromillions-ces-numeros-a-eviter-si-vous-ne-voulez-pas-partager-vos-gains-103658021</guid>
+      <description><![CDATA[Plattformen analysieren Tausende von Ergebnissen, um Lotto-Spieler zu leiten. Sie versprechen vor allem, die Daten besser zu verstehen, ohne den Jackpot zu garantieren.]]></description>
+      <pubDate>Wed, 28 Oct 2026 20:50:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Zinsen in den USA – Fed lässt Leitzins vor US-Zwischenwahlen unverändert</title>
+      <link>https://www.srf.ch/news/wirtschaft/zinsen-in-den-usa-fed-laesst-leitzins-vor-us-zwischenwahlen-unveraendert</link>
+      <guid isPermaLink="false">urn:srf:article:01a182e7-155f-5fd6-5f69-c92ea7d546fa</guid>
+      <description><![CDATA[Die US-Notenbank Federal Reserve hält am jüngst erhöhten Leitzins fest. Die Zinsspanne bleibt bei 3.75 bis 4.0 Prozent.]]></description>
+      <pubDate>Wed, 28 Oct 2026 20:10:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Migros im Umbruch – Ursula Nold: «Bei einem Nein wiederholen wir die Abstimmung»</title>
+      <link>https://www.srf.ch/news/wirtschaft/migros-im-umbruch-ursula-nold-bei-einem-nein-wiederholen-wir-die-abstimmung</link>
+      <guid isPermaLink="false">urn:srf:article:01a1835f-3ebc-66d1-2260-9cd9bb8fc52e</guid>
+      <description><![CDATA[Migros-Präsidentin Ursula Nold spricht über den radikalen Umbau und erklärt: Einsparungen seien nicht das Ziel.]]></description>
+      <pubDate>Wed, 28 Oct 2026 20:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Milliarden für UK-Haushalte – Mehr als nur ein Budget: Ein Befreiungsschlag auf Zeit</title>
+      <link>https://www.srf.ch/news/international/milliarden-fuer-uk-haushalte-mehr-als-nur-ein-budget-ein-befreiungsschlag-auf-zeit</link>
+      <guid isPermaLink="false">urn:srf:article:01a1837f-aae6-fd2f-3678-72315bb59060</guid>
+      <description><![CDATA[Hohe Kosten belasten die britischen Haushalte. Der Finanzminister will ihnen Luft verschaffen – und auch seiner Partei.]]></description>
+      <pubDate>Wed, 28 Oct 2026 19:50:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Cassis besucht Nordkorea – Was bringt der Schweiz ein Büro in Nordkorea?</title>
+      <link>https://www.srf.ch/news/schweiz/cassis-besucht-nordkorea-was-bringt-der-schweiz-ein-buero-in-nordkorea</link>
+      <guid isPermaLink="false">urn:srf:article:01a182e4-9299-b3b0-f670-dfcfc0f00107</guid>
+      <description><![CDATA[Die Schweiz versucht, den politischen Dialog mit Nordkorea zu reaktivieren. Nordkorea-Kenner Thomas Filser ordnet ein.]]></description>
+      <pubDate>Wed, 28 Oct 2026 19:48:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] AKW-Diskussion in der Schweiz – Politologin: «Die politischen Hürden für neue AKW sind sehr hoch»</title>
+      <link>https://www.srf.ch/news/schweiz/akw-diskussion-in-der-schweiz-politologin-die-politischen-huerden-fuer-neue-akw-sind-sehr-hoch</link>
+      <guid isPermaLink="false">urn:srf:article:01a1821b-099d-4a5f-695c-d10f801eb5c3</guid>
+      <description><![CDATA[Schon bald steht eine Abstimmung über die Atomkraft an. Für Politologin Isabelle Stadelmann ist der Ausgang offen.]]></description>
+      <pubDate>Wed, 28 Oct 2026 19:45:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Chaos um Guterres-Nachfolge – Die USA zaubern mit Orban einen neuen Kandidaten aus dem Hut</title>
+      <link>https://www.srf.ch/news/international/chaos-um-guterres-nachfolge-die-usa-zaubern-mit-orban-einen-neuen-kandidaten-aus-dem-hut</link>
+      <guid isPermaLink="false">urn:srf:article:01a18315-0dee-42fa-f455-2edcd21cda24</guid>
+      <description><![CDATA[Wer wird neuer UNO‑Generalsekretär? Das bisher eher langweilige Rennen wird immer bizarrer – Trump sei Dank.]]></description>
+      <pubDate>Wed, 28 Oct 2026 19:28:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Drittes Quartal – UBS: 2.7 Milliarden Dollar Gewinn – CS-Integration 2026 beendet</title>
+      <link>https://www.srf.ch/news/wirtschaft/drittes-quartal-ubs-2-7-milliarden-dollar-gewinn-cs-integration-2026-beendet</link>
+      <guid isPermaLink="false">urn:srf:article:01a1810b-afef-889e-44aa-f4d11e2841ce</guid>
+      <description><![CDATA[Die grösste Schweizer Bank befindet sich in den letzten Zügen der CS-Integration und könnte dabei Kosten einsparen.]]></description>
+      <pubDate>Wed, 28 Oct 2026 19:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Ein Monat vor Neuwahlen – Was bedeutet das Zugunglück für Spanien?</title>
+      <link>https://www.srf.ch/news/international/ein-monat-vor-neuwahlen-was-bedeutet-das-zugunglueck-fuer-spanien</link>
+      <guid isPermaLink="false">urn:srf:article:01a1827a-d4d2-b101-e427-c7b00b763764</guid>
+      <description><![CDATA[Der jüngste Unfall mit mindestens 64 Toten stellt eine Erfolgsgeschichte in Frage, sagt der freie Journalist vor Ort.]]></description>
+      <pubDate>Wed, 28 Oct 2026 19:19:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Wahlen in Israel – Historiker: «Das ist alles sehr bedrückend»</title>
+      <link>https://www.srf.ch/news/international/nahost/wahlen-in-israel-historiker-das-ist-alles-sehr-bedrueckend</link>
+      <guid isPermaLink="false">urn:srf:article:01a1835c-b41c-7cdc-dd40-e9c78bfd403a</guid>
+      <description><![CDATA[Netanjahu hat die Wahlen zwar verloren, trotzdem könnte er Premier bleiben. Einschätzungen von Historiker Tom Segev.]]></description>
+      <pubDate>Wed, 28 Oct 2026 19:01:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] 36 Jahre Wachstum – Wirtschaftswunder Polen: Der Hunger nach Erfolg</title>
+      <link>https://www.srf.ch/news/international/36-jahre-wachstum-wirtschaftswunder-polen-der-hunger-nach-erfolg</link>
+      <guid isPermaLink="false">urn:srf:article:01a17ca7-2d15-7408-5301-02747af01d05</guid>
+      <description><![CDATA[Polen erlebt seit 1989 ein Wirtschaftswunder. Ein Familienunternehmen zeigt exemplarisch, was die Erfolgsfaktoren waren.]]></description>
+      <pubDate>Wed, 28 Oct 2026 18:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Grundwasser fehlt im Aargau – Suhrental schlägt Alarm – Trinkwasser so knapp wie noch nie</title>
+      <link>https://www.srf.ch/news/schweiz/grundwasser-fehlt-im-aargau-suhrental-schlaegt-alarm-trinkwasser-so-knapp-wie-noch-nie</link>
+      <guid isPermaLink="false">urn:srf:article:01a1819b-3ea3-5beb-088b-592cf5729689</guid>
+      <description><![CDATA[Im Suhrental im Aargau ist das Trinkwasser knapp. Jetzt müssen Firmen aber auch Private Wasser sparen. Es gibt Verbote.]]></description>
+      <pubDate>Wed, 28 Oct 2026 17:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Marktbericht: Der DAX behauptet sich</title>
+      <link>https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html</link>
+      <guid isPermaLink="false">cd448cc8-2808-42dd-b90d-14a8d64d2b67</guid>
+      <description><![CDATA[Der Handelstag im DAX endet mit leichten Gewinnen. Die Investoren haben viele Quartalszahlen zu verarbeiten, außerdem richtet sich der Blick in die USA. Die hohen Energiepreise dämpfen indes weiterhin die Stimmung.]]></description>
+      <pubDate>Wed, 28 Oct 2026 17:38:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Neues Flugabwehrsystem – Das Militär würde in Israel kaufen – die Politiker eher nicht</title>
+      <link>https://www.srf.ch/news/schweiz/neues-flugabwehrsystem-das-militaer-wuerde-in-israel-kaufen-die-politiker-eher-nicht</link>
+      <guid isPermaLink="false">urn:srf:article:01a18333-1255-3a5a-7334-26c4bf010254</guid>
+      <description><![CDATA[Ein Flugabwehrsystem aus Frankreich oder Israel soll die Lücken in der Luftabwehr stopfen. Beide Optionen sind riskant.]]></description>
+      <pubDate>Wed, 28 Oct 2026 17:29:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Ein Familiengericht zur Vermeidung schrecklicher Trennungen</title>
+      <link>https://www.20min.ch/fr/story/geneve-un-tribunal-de-la-famille-pour-eviter-les-separations-horribles-103657750</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-un-tribunal-de-la-famille-pour-eviter-les-separations-horribles-103657750</guid>
+      <description><![CDATA[Als Weiterführung der Arbeit mehrerer Verbände wird Le Centre einen Gesetzentwurf zur Überarbeitung der Gerichtsorganisation einbringen. Das Ziel: Trennungen entflechten.]]></description>
+      <pubDate>Wed, 28 Oct 2026 17:18:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Migros ruft wegen Listerien weitere Käsesorten zurück</title>
+      <link>https://www.20min.ch/fr/story/consommation-la-migros-rappelle-de-nouveaux-fromages-a-cause-des-listerias-103658046</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/consommation-la-migros-rappelle-de-nouveaux-fromages-a-cause-des-listerias-103658046</guid>
+      <description><![CDATA[Einen Tag nach einem ersten Rückruf warnt der orange Riese Kunden vor neuen Produkten.]]></description>
+      <pubDate>Wed, 28 Oct 2026 17:09:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Luftverteidigung – Bundesrat beschränkt Flugabwehr-Auswahl und hält an Patriot fest</title>
+      <link>https://www.srf.ch/news/schweiz/luftverteidigung-bundesrat-beschraenkt-flugabwehr-auswahl-und-haelt-an-patriot-fest</link>
+      <guid isPermaLink="false">urn:srf:article:01a18330-98cb-1eb9-25cc-bbf667f8b960</guid>
+      <description><![CDATA[Der Bundesrat reduziert die Auswahl für ein zweites Flugabwehrsystem auf Frankreich und Israel.]]></description>
+      <pubDate>Wed, 28 Oct 2026 16:58:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Nach dem Hitzesommer – Bundesrat legt Plan gegen Hitze und Trockenheit vor</title>
+      <link>https://www.srf.ch/news/schweiz/nach-dem-hitzesommer-bundesrat-legt-plan-gegen-hitze-und-trockenheit-vor</link>
+      <guid isPermaLink="false">urn:srf:article:01a18305-7dc9-e57c-ce1e-8f924b03e881</guid>
+      <description><![CDATA[Kompetenzzentrum gegen Hitzerisiken, neue Hitzekarten und Ausbau der Trockenheitsplattform: Das plant der Bundesrat.]]></description>
+      <pubDate>Wed, 28 Oct 2026 16:37:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Teilzeit und Nebeneinkünfte – Bundesrat will Vorsorge für Menschen mit mehreren Jobs verbessern</title>
+      <link>https://www.srf.ch/news/international/teilzeit-und-nebeneinkuenfte-bundesrat-will-vorsorge-fuer-menschen-mit-mehreren-jobs-verbessern</link>
+      <guid isPermaLink="false">urn:srf:article:01a18278-c457-7fa3-b8a4-da1cec3fd4d0</guid>
+      <description><![CDATA[Künftig soll bei Angestellten nicht mehr zwischen Haupt- und Nebentätigkeit unterschieden werden.]]></description>
+      <pubDate>Wed, 28 Oct 2026 16:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Eschede, Griechenland, Spanien – Diese Bahnunglücke schockierten Europa</title>
+      <link>https://www.srf.ch/news/international/eschede-griechenland-spanien-diese-bahnungluecke-schockierten-europa</link>
+      <guid isPermaLink="false">urn:srf:article:01a182de-3dc1-4914-c5e4-e17284cdc271</guid>
+      <description><![CDATA[In Spanien sterben mehrere Dutzend Personen. Es ist nicht der erste folgenschwere Zugunfall. Die Übersicht.]]></description>
+      <pubDate>Wed, 28 Oct 2026 16:23:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Wahlen in Israel – Die arabischen Parteien gehören zu den Gewinnern – wer sind sie?</title>
+      <link>https://www.srf.ch/news/international/wahlen-in-israel-die-arabischen-parteien-gehoeren-zu-den-gewinnern-wer-sind-sie</link>
+      <guid isPermaLink="false">urn:srf:article:01a181d8-388d-0748-e884-df0d567e528b</guid>
+      <description><![CDATA[In Israel erzielen die beiden arabischen Parteien rekordhohe Gewinne. Trotzdem dürften sie wohl nicht mitregieren.]]></description>
+      <pubDate>Wed, 28 Oct 2026 16:12:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Soziales und Gesundheit kurz vor besseren Gehältern</title>
+      <link>https://www.20min.ch/fr/story/geneve-le-social-et-la-sante-a-deux-doigts-d-avoir-de-meilleurs-salaires-103657972</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-le-social-et-la-sante-a-deux-doigts-d-avoir-de-meilleurs-salaires-103657972</guid>
+      <description><![CDATA[Der Staatsrat hat diesen Mittwoch den Vorentwurf des Gesetzes zu G'Evolue in die Vernehmlassung gegeben, welcher eine Überarbeitung der Gehaltsklassen des öffentlichen Dienstes darstellt.]]></description>
+      <pubDate>Wed, 28 Oct 2026 16:10:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Börsendebüt von tk accelis bleibt unter den Erwartungen</title>
+      <link>https://www.tagesschau.de/wirtschaft/unternehmen/boersengang-tk-accelis-100.html</link>
+      <guid isPermaLink="false">c1bc3ec1-c112-46de-8fc5-df880c67a1d4</guid>
+      <description><![CDATA[Seine Marinewerften und das Wasserstoffgeschäft hat der Industriekonzern Thyssenkrupp schon abgespalten. Nun folgt die Werkstofftochter mit eigenen Aktien. Und es gibt noch weitergehende Pläne.]]></description>
+      <pubDate>Wed, 28 Oct 2026 15:50:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] Der Kanton Waadt will einen an die Gemeinden zurückerstatteten Steueranteil um 13 Millionen kürzen</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/vaud-le-canton-veut-couper-13-millions-d-impots-aux-communes-29389936.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29389936</guid>
+      <description><![CDATA[<div><a href="https://www.rts.ch/info/regions/vaud/2026/article/vaud-le-canton-veut-couper-13-millions-d-impots-aux-communes-29389936.html?rts_source=rss_t" alt="Le canton de Vaud veut réduire de 13 millions une part d'impôt reversée aux communes"></a>Neues Spannungsfeld zwischen dem Kanton Waadt und den Gemeinden. In seinem Budgetentwurf für 2027 plant der Staat, den Steueranteil zu reduzieren]]></description>
+      <pubDate>Wed, 28 Oct 2026 14:56:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Eidgenössische Abstimmungen – Schweiz stimmt Ende Februar gleich über fünf Vorlagen ab</title>
+      <link>https://www.srf.ch/news/schweiz/eidgenoessische-abstimmungen-schweiz-stimmt-ende-februar-gleich-ueber-fuenf-vorlagen-ab</link>
+      <guid isPermaLink="false">urn:srf:article:01a182a9-7386-a937-c7d5-08393756e94d</guid>
+      <description><![CDATA[Die Schweiz wird am 28. Februar über überdurchschnittlich viele Vorlagen abstimmen – ein Rekord ist es aber nicht.]]></description>
+      <pubDate>Wed, 28 Oct 2026 14:53:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Hilfsorganisation unter Druck – Missbrauchsfälle bei Ärzte ohne Grenzen – Schaden ist angerichtet</title>
+      <link>https://www.srf.ch/news/schweiz/hilfsorganisation-unter-druck-missbrauchsfaelle-bei-aerzte-ohne-grenzen-schaden-ist-angerichtet</link>
+      <guid isPermaLink="false">urn:srf:article:01a17c4e-46d0-c77c-142f-9a310890a148</guid>
+      <description><![CDATA[MSF kämpft mit Missbrauchsvorwürfen. Die Deza hält Geld zurück. Die Glückskette arbeitet weiter mit dem Hilfswerk.]]></description>
+      <pubDate>Wed, 28 Oct 2026 14:15:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Vernehmlassung eröffnet – Visa, Mastercard, Twint: Gebühren sollen transparenter werden</title>
+      <link>https://www.srf.ch/news/schweiz/vernehmlassung-eroeffnet-visa-mastercard-twint-gebuehren-sollen-transparenter-werden</link>
+      <guid isPermaLink="false">urn:srf:article:01a1827d-0d3e-0ccd-faac-71c8b676bdfe</guid>
+      <description><![CDATA[Gewerbler sollen künftig klar erkennen können, wie sich die Bargeldlosgebühren zusammensetzen.]]></description>
+      <pubDate>Wed, 28 Oct 2026 14:07:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Nach Rückführung aus Nigeria – Ist es riskant, Ebola-Patienten in Schweizer Spitälern zu haben?</title>
+      <link>https://www.srf.ch/news/schweiz/nach-rueckfuehrung-aus-nigeria-ist-es-riskant-ebola-patienten-in-schweizer-spitaelern-zu-haben</link>
+      <guid isPermaLink="false">urn:srf:article:01a18192-35c3-4f81-00a7-c120bd85bc9d</guid>
+      <description><![CDATA[Eine Ebola-Patientin wird in Genf behandelt. Eine Virologin erklärt, wie das Universitätsspital vorbereitet ist.]]></description>
+      <pubDate>Wed, 28 Oct 2026 13:53:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Lohngleichheit – In Luxemburg verdienen Frauen pro Stunde mehr als Männer</title>
+      <link>https://www.srf.ch/news/international/lohngleichheit-in-luxemburg-verdienen-frauen-pro-stunde-mehr-als-maenner</link>
+      <guid isPermaLink="false">urn:srf:article:01a181fa-0a34-630d-3caf-9bff94e0e3f8</guid>
+      <description><![CDATA[Luxemburg ist das einzige Land Europas, in dem Frauen mehr verdienen als Männer. Wie kommt das?]]></description>
+      <pubDate>Wed, 28 Oct 2026 12:45:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Räumungen am Boulevard Carl-Vogt: Einigung erzielt</title>
+      <link>https://www.20min.ch/fr/story/geneve-expulsions-au-boulevard-carl-vogt-un-accord-a-ete-trouve-103657871</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-expulsions-au-boulevard-carl-vogt-un-accord-a-ete-trouve-103657871</guid>
+      <description><![CDATA[Nach zehn Monaten Verhandlungen haben der Asloca und der Eigentümer der Gebäude einen Kompromiss gefunden, der die Frage der zukünftigen Mieten teilweise regelt.]]></description>
+      <pubDate>Wed, 28 Oct 2026 12:35:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Commonwealth-Gipfel in Antigua – König Charles ist auf einer diplomatisch heiklen Karibikreise</title>
+      <link>https://www.srf.ch/news/international/commonwealth-gipfel-in-antigua-koenig-charles-ist-auf-einer-diplomatisch-heiklen-karibikreise</link>
+      <guid isPermaLink="false">urn:srf:article:01a18211-e4e8-de6d-37c1-7a2e4f69917b</guid>
+      <description><![CDATA[Der Monarch besucht die Bahamas, Guyana sowie Antigua und Barbuda. Dort werden Forderungen nach Wiedergutmachung laut.]]></description>
+      <pubDate>Wed, 28 Oct 2026 12:18:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Mercedes hat noch größere Probleme im chinesischen Markt</title>
+      <link>https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-automobilindustrie-quartalszahlen-100.html</link>
+      <guid isPermaLink="false">3d51a5e0-d879-41c1-be25-697fe809574f</guid>
+      <description><![CDATA[Mercedes hat im dritten Quartal in seiner Autosparte operativ deutlich weniger verdient. Vor allem das schlechte China-Geschäft setzt dem Konzern zu. Die Strategie für den weltgrößten Automarkt will er nun überdenken.]]></description>
+      <pubDate>Wed, 28 Oct 2026 11:58:54 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Ausland] Schicksalswahl in Israel – Das bedeuten die ersten Ergebnisse zur Parlamentswahl</title>
@@ -27,6 +300,13 @@
       <guid isPermaLink="false">urn:srf:article:01a181c8-4826-ae95-193a-d0d025e0640a</guid>
       <description><![CDATA[Die gesundheitsgefährdenden Folgen des Klimawandels haben laut einem Bericht im vergangenen Jahrzehnt klar zugenommen.]]></description>
       <pubDate>Wed, 28 Oct 2026 11:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Journal de Morges] ARCAM | Hin zu autonomeren Gemeinden</title>
+      <link>https://journaldemorges.ch/actualite/societe/arcam-i-vers-des-communes-plus-autonomes/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/arcam-i-vers-des-communes-plus-autonomes/</guid>
+      <description><![CDATA[Die Association régionale Cossonay-Aubonne-Morges unterstützt die Gemeinden in Nachhaltigkeitsfragen.]]></description>
+      <pubDate>Wed, 28 Oct 2026 10:59:03 GMT</pubDate>
     </item>
     <item>
       <title>[20 Min Romandie] Ein Autofahrer stirbt nach Quetschung durch sein Auto</title>
@@ -78,20 +358,6 @@
       <pubDate>Wed, 28 Oct 2026 09:52:44 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Wissen] Nach Rückführung aus Nigeria – Ist es riskant, Ebola-Patienten in Schweizer Spitälern zu haben?</title>
-      <link>https://www.srf.ch/news/schweiz/nach-rueckfuehrung-aus-nigeria-ist-es-riskant-ebola-patienten-in-schweizer-spitaelern-zu-haben</link>
-      <guid isPermaLink="false">urn:srf:article:01a18192-35c3-4f81-00a7-c120bd85bc9d</guid>
-      <description><![CDATA[Eine Ebola-Patientin wird in Genf behandelt. Eine Virologin erklärt, wie das Universitätsspital vorbereitet ist.]]></description>
-      <pubDate>Wed, 28 Oct 2026 09:49:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Marktbericht: DAX noch unentschieden</title>
-      <link>https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html</link>
-      <guid isPermaLink="false">cd448cc8-2808-42dd-b90d-14a8d64d2b67</guid>
-      <description><![CDATA[Positive und negative Einflüsse halten sich zum Tagesstart die Waage. Der DAX schwankt um seinen Vortagesschluss. Neben einer Reihe von Quartalszahlen beschäftigen der KI-Boom und der Ölpreis den Markt.]]></description>
-      <pubDate>Wed, 28 Oct 2026 09:36:36 GMT</pubDate>
-    </item>
-    <item>
       <title>[SRF Schweiz] Über 250 Vorstösse – Aargauer Parlament von Vorstössen geflutet – KI unter Verdacht</title>
       <link>https://www.srf.ch/news/schweiz/ueber-250-vorstoesse-aargauer-parlament-von-vorstoessen-geflutet-ki-unter-verdacht</link>
       <guid isPermaLink="false">urn:srf:article:01a16283-dae8-c9ea-c501-479e69425d34</guid>
@@ -120,25 +386,11 @@
       <pubDate>Wed, 28 Oct 2026 08:49:17 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Drittes Quartal – UBS: 2.7 Milliarden Dollar Gewinn – CS-Integration 2026 beendet</title>
-      <link>https://www.srf.ch/news/wirtschaft/drittes-quartal-ubs-2-7-milliarden-dollar-gewinn-cs-integration-2026-beendet</link>
-      <guid isPermaLink="false">urn:srf:article:01a1810b-afef-889e-44aa-f4d11e2841ce</guid>
-      <description><![CDATA[Die grösste Schweizer Bank befindet sich in den letzten Zügen der CS-Integration und könnte dabei Kosten einsparen.]]></description>
-      <pubDate>Wed, 28 Oct 2026 07:53:02 GMT</pubDate>
-    </item>
-    <item>
       <title>[SRF Ausland] Widerstand in den USA – Elon Musks Datenzentren bringen Anwohnende gegen Trump auf</title>
       <link>https://www.srf.ch/news/international/widerstand-in-den-usa-elon-musks-datenzentren-bringen-anwohnende-gegen-trump-auf</link>
       <guid isPermaLink="false">urn:srf:article:01a1778c-b7d3-6e84-ff3c-7cf341cd75b4</guid>
       <description><![CDATA[Der Datenzentren-Boom in den USA verspricht Fortschritt, sorgt aber auch für Umweltbelastung und wachsenden Widerstand.]]></description>
       <pubDate>Wed, 28 Oct 2026 07:29:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Nach Wahlniederlage – Flávio Bolsonaro aus Brasilien ausgereist – Flucht in die USA?</title>
-      <link>https://www.srf.ch/news/international/nach-wahlniederlage-flavio-bolsonaro-aus-brasilien-ausgereist-flucht-in-die-usa</link>
-      <guid isPermaLink="false">urn:srf:article:01a17e3b-63af-0740-2b98-05e65b8f1a22</guid>
-      <description><![CDATA[Laut Behördenangaben ist er über den Landweg ausgereist. Wo er sich aktuell aufhält, ist nicht bestätigt.]]></description>
-      <pubDate>Wed, 28 Oct 2026 07:13:36 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Wissen] Neue Klimadaten – EU will Klimaresilienzgesetz gegen Hitze und Hochwasser</title>
@@ -167,223 +419,6 @@
       <guid isPermaLink="false">urn:srf:article:01a17e1a-5cac-f904-0a29-ddb015f0c87d</guid>
       <description><![CDATA[Das Volk muss sich für die Atomkraft aussprechen, die Kosten sind hoch und schnell müsste es auch gehen, so eine Studie.]]></description>
       <pubDate>Wed, 28 Oct 2026 05:54:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Wo Deutschland noch wachsen kann: Zukunftsmärkte für heimische Firmen</title>
-      <link>https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-wachstum-ki-robotik-zukunftsmaerkte-100.html</link>
-      <guid isPermaLink="false">17cc9e76-219a-4dfa-be63-c401e038d792</guid>
-      <description><![CDATA[Die deutsche Wirtschaft hat viele Probleme. Doch bei all den negativen Nachrichten gibt es auch Chancen. Denn auf einigen Märkten der Zukunft haben heimische Unternehmen gute Karten. Von Angela Göpfert.]]></description>
-      <pubDate>Wed, 28 Oct 2026 05:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Übermüdete Piloten – Drei von vier Piloten fallen während des Fluges in Sekundenschlaf</title>
-      <link>https://www.srf.ch/news/international/uebermuedete-piloten-drei-von-vier-piloten-fallen-waehrend-des-fluges-in-sekundenschlaf</link>
-      <guid isPermaLink="false">urn:srf:article:01a17e48-8831-fd0a-8eb0-d57c87859236</guid>
-      <description><![CDATA[Eine Umfrage der European Cockpit Association zeigt erschreckende Zahlen. Und das nicht zum ersten Mal.]]></description>
-      <pubDate>Wed, 28 Oct 2026 05:10:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Geschwister zementieren Macht – Anthropic-Börsengang macht Firmengründer zu Milliardären</title>
-      <link>https://www.srf.ch/news/wirtschaft/geschwister-zementieren-macht-anthropic-boersengang-macht-firmengruender-zu-milliardaeren</link>
-      <guid isPermaLink="false">urn:srf:article:01a17d94-22dd-24ee-70c2-8cd7b96724fd</guid>
-      <description><![CDATA[Trotz gigantischer Verluste werden Anthropic-Gründer superreich. Das Wichtigste zum geplanten Börsengang.]]></description>
-      <pubDate>Wed, 28 Oct 2026 05:09:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Abstimmung über Waffenexport – Das sind die Schweizer «Exportschlager» – und das sind die Trends</title>
-      <link>https://www.srf.ch/news/abstimmung-ueber-waffenexport-das-sind-die-schweizer-exportschlager-und-das-sind-die-trends</link>
-      <guid isPermaLink="false">urn:srf:article:01a177b3-4d51-b9af-736a-9a8dd3b6dd41</guid>
-      <description><![CDATA[Rheinmetall dominiert den hiesigen Rüstungsmarkt. Deutschland ist grösster Käufer. Ein Überblick vor der Abstimmung.]]></description>
-      <pubDate>Wed, 28 Oct 2026 05:08:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Eine Gastronomin als «serielle Betrügerin» bringt ihr Personal zum Schreien</title>
-      <link>https://www.20min.ch/fr/story/valais-une-restauratrice-serial-arnaqueuse-fait-hurler-son-personnel-103654644</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/valais-une-restauratrice-serial-arnaqueuse-fait-hurler-son-personnel-103654644</guid>
-      <description><![CDATA[Angestellte und Besitzer prangern die Leiterin von drei aufeinanderfolgenden Betrieben an, in denen insbesondere Gehälter und Mieten unbezahlt bleiben.]]></description>
-      <pubDate>Wed, 28 Oct 2026 05:08:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Morges Actualitiés] Verbot von Pyrotechnik an Halloween</title>
-      <link>https://www.morges.ch/actualites/interdiction-des-engins-pyrotechniques-a-halloween-214098</link>
-      <guid isPermaLink="false">https://www.morges.ch/actualites/interdiction-des-engins-pyrotechniques-a-halloween-214098</guid>
-      <description><![CDATA[Aktuelles - 27.10.2026]]></description>
-      <pubDate>Wed, 28 Oct 2026 03:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Beziehungen zu Pjöngjang – Aussenminister Cassis auf diplomatischer Mission in Nordkorea</title>
-      <link>https://www.srf.ch/news/international/beziehungen-zu-pjoengjang-aussenminister-cassis-auf-diplomatischer-mission-in-nordkorea</link>
-      <guid isPermaLink="false">urn:srf:article:01a17ded-bcae-a217-124c-55a53f7b4e70</guid>
-      <description><![CDATA[Ignazio Cassis reist am Donnerstag nach Nordkorea – mit dem Versuch, den politischen Dialog wiederzubeleben.]]></description>
-      <pubDate>Tue, 27 Oct 2026 19:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Schutz der EU-Aussengrenzen – Brüssel plant massiven Ausbau von Frontex</title>
-      <link>https://www.srf.ch/news/international/schutz-der-eu-aussengrenzen-bruessel-plant-massiven-ausbau-von-frontex</link>
-      <guid isPermaLink="false">urn:srf:article:01a17e52-8065-48e0-bc7a-65779ee6941f</guid>
-      <description><![CDATA[Die Zahl der Beamten soll verdreifacht werden, zudem soll die Behörde neue Kompetenzen erhalten.]]></description>
-      <pubDate>Tue, 27 Oct 2026 19:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Kampf um den «American Dream» – Ungleichheit statt Aufstieg: Amerikas Linke sucht neue Antworten</title>
-      <link>https://www.srf.ch/news/international/usa/kampf-um-den-american-dream-ungleichheit-statt-aufstieg-amerikas-linke-sucht-neue-antworten</link>
-      <guid isPermaLink="false">urn:srf:article:01a1681c-9bd3-844a-992b-9f2dca694c66</guid>
-      <description><![CDATA[Eigenheim, Familie, sozialer Aufstieg: Für immer mehr US-Bürger rückt dieser Traum in weite Ferne.]]></description>
-      <pubDate>Tue, 27 Oct 2026 18:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Nach Anschlägen in Frankreich: Sorge vor wachsendem Rassismus</title>
-      <link>https://www.tagesschau.de/ausland/europa/frankreich-paris-kundgebung-nach-anschlaegen-von-trappes-la-verriere-100.html</link>
-      <guid isPermaLink="false">8d040e87-81d6-4dd3-b772-6e3a06e0ef9b</guid>
-      <description><![CDATA[Nach den offenbar rassistisch motivierten Anschlägen in Frankreich gehen in Paris Menschen auf die Straße. Viele sehen rechte Medien in der Verantwortung - und den Rassemblement National. Von Carolin Dylla.]]></description>
-      <pubDate>Tue, 27 Oct 2026 17:56:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Mediamatik-Lernende ohne Ausbilder: Lösung gefunden</title>
-      <link>https://www.20min.ch/fr/story/vaud-apprentis-mediamaticiens-sans-formateur-solution-trouvee-103657338</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/vaud-apprentis-mediamaticiens-sans-formateur-solution-trouvee-103657338</guid>
-      <description><![CDATA[Der Staat konnte die Jugendlichen unterbringen, die zu Beginn des Schuljahres plötzlich ohne Mediamatikausbildung dastanden. Auch Genf wird aktiv.]]></description>
-      <pubDate>Tue, 27 Oct 2026 17:47:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Lac des Brenets im Jura – Nach drei Monaten Trockenheit fahren die Schiffe wieder</title>
-      <link>https://www.srf.ch/news/dialog/lac-des-brenets-im-jura-nach-drei-monaten-trockenheit-fahren-die-schiffe-wieder</link>
-      <guid isPermaLink="false">urn:srf:article:01a17cde-30d7-8b59-81c5-ebc21252ab7a</guid>
-      <description><![CDATA[Bilder vom ausgetrockneten See gingen um die Welt. Jetzt ist das Wasser zurück und mit ihm die Boote und Ausflügler.]]></description>
-      <pubDate>Tue, 27 Oct 2026 17:23:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] FAQ: Die lange Suche nach einem Atommüll-Endlager</title>
-      <link>https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html</link>
-      <guid isPermaLink="false">47fafa78-435c-40bf-a24d-8fade8df50d9</guid>
-      <description><![CDATA[Rund 27.000 Kubikmeter hochradioaktiver Müll müssen dauerhaft und sicher verwahrt werden. Bis 2050 soll ein Endlager gefunden werden. Die Suche wurde nun weiter eingegrenzt. Wie muss ein Endlager beschaffen sein? Und wo könnte es entstehen?]]></description>
-      <pubDate>Tue, 27 Oct 2026 17:12:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Atommüll-Endlager: In weiteren Bundesländern soll nicht mehr gesucht werden</title>
-      <link>https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html</link>
-      <guid isPermaLink="false">56694e86-6b78-4759-ac90-4687cd0dc10c</guid>
-      <description><![CDATA[Die Suche nach einem Endlager für den hochradioaktiven Atommüll in Deutschland wird konkreter. Die zuständigen Fachleute haben die geeigneten Gebiete weiter eingegrenzt - auf weniger als fünf Prozent der Landesfläche.]]></description>
-      <pubDate>Tue, 27 Oct 2026 17:11:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Erfolgsrezept für Proteste – Unbequem und geeint – so erreichen Proteste ihr Ziel</title>
-      <link>https://www.srf.ch/news/international/erfolgsrezept-fuer-proteste-unbequem-und-geeint-so-erreichen-proteste-ihr-ziel</link>
-      <guid isPermaLink="false">urn:srf:article:01a17ce3-34a6-4a31-5810-5607130c289d</guid>
-      <description><![CDATA[Erfolgreiche Proteste brauchen einen langen Atem und Legitimität. Ein Rezept in vier Punkten.]]></description>
-      <pubDate>Tue, 27 Oct 2026 17:07:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Q&amp;A zu Midterms – «Was passiert, wenn es zu einer Pattsituation im Senat kommt?»</title>
-      <link>https://www.srf.ch/news/srf-news-chats/q-a-zu-midterms-was-passiert-wenn-es-zu-einer-pattsituation-im-senat-kommt</link>
-      <guid isPermaLink="false">urn:srf:article:01a15ea7-3974-e948-6198-4d4f76fda7eb</guid>
-      <description><![CDATA[Claudia Brühwiler, Andrea Christen und Roger Aebli haben Ihre Fragen beantwortet.]]></description>
-      <pubDate>Tue, 27 Oct 2026 17:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Skandale und Todesfälle – Lausanner Polizei leitet nach Rassismusvorfällen Reformen ein</title>
-      <link>https://www.srf.ch/news/schweiz/skandale-und-todesfaelle-lausanner-polizei-leitet-nach-rassismusvorfaellen-reformen-ein</link>
-      <guid isPermaLink="false">urn:srf:article:01a17dc2-29f4-9eb5-3bee-879b094efd7b</guid>
-      <description><![CDATA[Schulungen gegen Diskriminierung, eine bessere Personalführung und ein direkterer Dialog sollen für Verbesserung sorgen.]]></description>
-      <pubDate>Tue, 27 Oct 2026 16:36:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Tarifverhandlungen: IG Metall lehnt Angebot ab - Warnstreiks drohen</title>
-      <link>https://www.tagesschau.de/wirtschaft/ig-metall-wirtschaftsmeldung-oktober2026-100.html</link>
-      <guid isPermaLink="false">94320e72-ee77-4aff-aaa8-6da58675d1a8</guid>
-      <description><![CDATA[Die Arbeitgeber der Metall- und Elektroindustrie haben in der laufenden Tarifrunde ein erstes Angebot vorgelegt. Die IG Metall weist es als unzureichend zurück. Ab Sonntag sind Warnstreiks möglich.]]></description>
-      <pubDate>Tue, 27 Oct 2026 16:12:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Rekrutierungsprozess: Die Stadt wird auf die Finger geklopft</title>
-      <link>https://www.20min.ch/fr/story/geneve-processus-de-recrutement-la-ville-se-fait-taper-sur-les-doigts-103657216</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-processus-de-recrutement-la-ville-se-fait-taper-sur-les-doigts-103657216</guid>
-      <description><![CDATA[Der Rechnungshof ist der Ansicht, dass die Art und Weise, wie die Stadtverwaltung einstellt, verbesserungswürdig ist. Die Exekutive betont, dass die schwerwiegendsten Verdächtigungen nicht nachgewiesen wurden.]]></description>
-      <pubDate>Tue, 27 Oct 2026 15:56:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Seltenes Naturphänomen: Vier Tote nach Tornado im Süden der Türkei</title>
-      <link>https://www.tagesschau.de/ausland/europa/tuerkei-antalya-tornado-vier-tote-100.html</link>
-      <guid isPermaLink="false">3ce67858-2fc3-4733-8f10-6a2e3c3e09d9</guid>
-      <description><![CDATA[Durch einen Wirbelsturm sind im türkischen Antalya vier Menschen ums Leben gekommen. Die vier Bauarbeiter starben, als der Tornado ihren Wohncontainer zerstörte. Ein weiterer Mensch wurde verletzt.]]></description>
-      <pubDate>Tue, 27 Oct 2026 15:35:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Bericht zu Trump und Epstein – Vergewaltigungsvorwurf: Aussagen einer Schweizerin belasten Trump</title>
-      <link>https://www.srf.ch/news/international/usa/bericht-zu-trump-und-epstein-vergewaltigungsvorwurf-aussagen-einer-schweizerin-belasten-trump</link>
-      <guid isPermaLink="false">urn:srf:article:01a17d47-5654-77a4-3d92-22f5b71b5046</guid>
-      <description><![CDATA[Die Aussagen der Ex-Miss-Finalistin tauchen in einem neuen Epstein-Bericht auf – kurz vor den US-Zwischenwahlen.]]></description>
-      <pubDate>Tue, 27 Oct 2026 15:23:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Diebstahl persönlicher Daten – Schweizer Eishockeyverband wird Opfer eines Cyberangriffs</title>
-      <link>https://www.srf.ch/news/schweiz/diebstahl-persoenlicher-daten-schweizer-eishockeyverband-wird-opfer-eines-cyberangriffs</link>
-      <guid isPermaLink="false">urn:srf:article:01a17d95-a381-dc98-06c2-f29a047d9cef</guid>
-      <description><![CDATA[Die Daten wurden vom Verwaltungs- und Spielbetriebsportal MYSIHF gestohlen und anschliessend zum Verkauf angeboten.]]></description>
-      <pubDate>Tue, 27 Oct 2026 14:27:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Bericht der Städteinitiative – Immer mehr Alleinerziehende auf städtische Sozialhilfe angewiesen</title>
-      <link>https://www.srf.ch/news/schweiz/bericht-der-staedteinitiative-immer-mehr-alleinerziehende-auf-staedtische-sozialhilfe-angewiesen</link>
-      <guid isPermaLink="false">urn:srf:article:01a17d60-9e94-3d22-aaf2-8bbf6db04b82</guid>
-      <description><![CDATA[In vielen Städten bezieht rund ein Viertel der Einelternhaushalte mit minderjährigen Kindern Sozialhilfe.]]></description>
-      <pubDate>Tue, 27 Oct 2026 14:22:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] 40 DAX-Aktien jetzt rund um die Uhr handelbar</title>
-      <link>https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html</link>
-      <guid isPermaLink="false">60dbf52d-d1f0-415e-be21-a0cbfd37f32e</guid>
-      <description><![CDATA[Wer spätabends oder am Wochenende Aktien von Siemens, SAP und Co. kaufen oder verkaufen will, kann das ab sofort tun. Die Deutsche Börse ermöglicht den Handel rund um die Uhr. Was hat es damit auf sich?]]></description>
-      <pubDate>Tue, 27 Oct 2026 14:12:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Weinmesse – Zu wenig Wasser – Expovina muss erstmals an Land ausstellen</title>
-      <link>https://www.srf.ch/news/schweiz/weinmesse-zu-wenig-wasser-expovina-muss-erstmals-an-land-ausstellen</link>
-      <guid isPermaLink="false">urn:srf:article:01a17cc1-92eb-6fe6-9495-11680acc0863</guid>
-      <description><![CDATA[Zum ersten Mal findet die Weinmesse nicht nur auf dem Schiff, sondern auch in einem Zelt statt.]]></description>
-      <pubDate>Tue, 27 Oct 2026 14:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Airline im Umschwung – Swiss reduziert Mietflotte – Air Baltic geht, Helvetic bleibt</title>
-      <link>https://www.srf.ch/news/schweiz/airline-im-umschwung-swiss-reduziert-mietflotte-air-baltic-geht-helvetic-bleibt</link>
-      <guid isPermaLink="false">urn:srf:article:01a17d68-dc83-8148-d235-51edf29dd1fa</guid>
-      <description><![CDATA[Swiss setzt künftig wieder vermehrt auf eigene Maschinen und Crews. Der Vertrag mit Partner Air Baltic läuft bald aus.]]></description>
-      <pubDate>Tue, 27 Oct 2026 13:36:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Geflüchtete leben seit mehreren Monaten in Zivilschutzanlagen</title>
-      <link>https://www.20min.ch/fr/story/canton-de-vaud-des-refugies-vivent-dans-des-abris-pc-depuis-plusieurs-mois-103657312</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/canton-de-vaud-des-refugies-vivent-dans-des-abris-pc-depuis-plusieurs-mois-103657312</guid>
-      <description><![CDATA[Mangels verfügbarer Unterkünfte sind fast 110 Männer in Clarens und Echallens untergebracht. Das EVAM räumt ein, dass die Bedingungen «weit von ideal entfernt» sind.]]></description>
-      <pubDate>Tue, 27 Oct 2026 13:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Stubb und Störe sprechen mit Putin</title>
-      <link>https://www.tagesschau.de/ausland/europa/putin-telefonat-stubb-stoere-100.html</link>
-      <guid isPermaLink="false">5b03ca10-ee23-4c6f-a935-32a6d32821e8</guid>
-      <description><![CDATA[Finnlands Präsident Stubb und Norwegens Ministerpräsident Störe haben mit Kremlchef Putin telefoniert. Die Initiative war nicht mit europäischen Partnern abgestimmt. Anschließend sprachen sie mit dem ukrainischen Präsidenten Selenskyj.]]></description>
-      <pubDate>Tue, 27 Oct 2026 13:32:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[RTS Vaud] Die Lausanner Tram in der finalen Testphase vor ihrer Inbetriebnahme Ende Dezember</title>
-      <link>https://www.rts.ch/info/regions/vaud/2026/article/tram-lausannois-phase-finale-de-tests-avant-le-lancement-29397342.html?rts_source=rss_t</link>
-      <guid isPermaLink="false">29397342</guid>
-      <description><![CDATA[<div><a href="https://www.rts.ch/info/regions/vaud/2026/article/tram-lausannois-phase-finale-de-tests-avant-le-lancement-29397342.html?rts_source=rss_t" alt="Le tram lausannois en phase finale de tests avant son lancement fin décembre"></a>Das Tram des Westens von Lausanne tritt in seine finale Testphase ein. Die Fahrzeuge verkehren im Moment 'leer', ohne Fahrgäste, um die Sicherheit der</div>]]></description>
-      <pubDate>Tue, 27 Oct 2026 13:15:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Die Hochzeit von Harry Kane lässt die Erinnerung an Crans-Montana wachrufen</title>
-      <link>https://www.20min.ch/fr/story/ballon-d-or-a-londres-la-noce-d-harry-kane-ravive-le-souvenir-de-crans-montana-103657283</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/ballon-d-or-a-londres-la-noce-d-harry-kane-ravive-le-souvenir-de-crans-montana-103657283</guid>
-      <description><![CDATA[Harry Kane hat seinen Titel als bester Fussballer der Welt in einem Club in London gefeiert. Ein Video davon ging viral.]]></description>
-      <pubDate>Tue, 27 Oct 2026 13:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Ihre Hunde richten ein «Gemetzel» an, sie fliehen «wie Feiglinge»</title>
-      <link>https://www.20min.ch/fr/story/la-chaux-de-fonds-ne-trois-chiens-ont-fait-un-carnage-dans-un-enclos-a-moutons-103657150</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/la-chaux-de-fonds-ne-trois-chiens-ont-fait-un-carnage-dans-un-enclos-a-moutons-103657150</guid>
-      <description><![CDATA[Sechs der acht Schafe der Herde wurden am Samstag verletzt, drei davon schwer. Die Halter der Hunde haben die Flucht ergriffen. Die Polizei sucht nach ihnen.]]></description>
-      <pubDate>Tue, 27 Oct 2026 12:11:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
