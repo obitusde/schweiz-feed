@@ -5,14 +5,105 @@
     <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Sat, 31 Oct 2026 05:30:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 11:58:39 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Tagesschau Europa] Polen: Tumult und Protest vor dem Verfassungsgericht</title>
-      <link>https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html</link>
-      <guid isPermaLink="false">16023559-fcad-4a19-8be5-2d63161669ec</guid>
-      <description><![CDATA[Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei umstellte das Gebäude, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.]]></description>
-      <pubDate>Sat, 31 Oct 2026 03:42:57 GMT</pubDate>
+      <title>[SRF Ausland] Serbien im Wandel – Was die Wände von Belgrad erzählen</title>
+      <link>https://www.srf.ch/news/international/serbien-im-wandel-was-die-waende-von-belgrad-erzaehlen</link>
+      <guid isPermaLink="false">urn:srf:article:01a18ce4-40d2-207a-5b5b-e9812c9e7595</guid>
+      <description><![CDATA[Im Strassenbild Belgrads macht sich die Abwahl von Aleksandar Vucic und der Wahlerfolg der Studentenbewegung bemerkbar.]]></description>
+      <pubDate>Sat, 31 Oct 2026 11:56:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Ein TL-Busfahrer wurde in Prélaz «zwischen zwei Bussen eingeklemmt»</title>
+      <link>https://www.20min.ch/fr/story/accident-a-lausanne-un-chauffeur-des-tl-a-ete-comprime-entre-deux-bus-a-prelaz-103659207</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/accident-a-lausanne-un-chauffeur-des-tl-a-ete-comprime-entre-deux-bus-a-prelaz-103659207</guid>
+      <description><![CDATA[Am frühen Freitagmorgen wurde ein TL-Busfahrer an der Haltestelle Prélaz in Lausanne zwischen zwei Fahrzeugen eingeklemmt. Er wurde verletzt ins CHUV transportiert. Eine Untersuchung ist im Gange.]]></description>
+      <pubDate>Sat, 31 Oct 2026 11:46:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Eskalation in Warschau – Machtkampf um Polens Verfassungsgericht – das steckt dahinter</title>
+      <link>https://www.srf.ch/news/international/eskalation-in-warschau-machtkampf-um-polens-verfassungsgericht-das-steckt-dahinter</link>
+      <guid isPermaLink="false">urn:srf:article:01a19003-9bf4-1c2c-156e-99122b5ee15e</guid>
+      <description><![CDATA[Der Konflikt zwischen der Regierung und dem rechtskonservativen Lager spitzt sich zu. Die Übersicht.]]></description>
+      <pubDate>Sat, 31 Oct 2026 11:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Junger Hypersomnie-Patient bekommt vor der IV Recht</title>
+      <link>https://www.20min.ch/fr/story/justice-vaudoise-un-jeune-hypersomniaque-obtient-gain-de-cause-face-a-l-ai-103659249</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/justice-vaudoise-un-jeune-hypersomniaque-obtient-gain-de-cause-face-a-l-ai-103659249</guid>
+      <description><![CDATA[Die Richter haben die Rentenverweigerung der Invalidenversicherung gegenüber einem jungen Mann mit Hypersomnie aufgehoben. Ein neues Gutachten wurde gefordert.]]></description>
+      <pubDate>Sat, 31 Oct 2026 10:53:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] Daten von über 40'000 Waadtländer Schülerinnen, Schülern und Lehrpersonen bei Cyberangriff gestohlen</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/vaud-les-donnees-de-plus-de-40-000-eleves-et-profs-volees-29401382.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29401382</guid>
+      <description><![CDATA[<div><a href="https://www.rts.ch/info/regions/vaud/2026/article/vaud-les-donnees-de-plus-de-40-000-eleves-et-profs-volees-29401382.html?rts_source=rss_t" alt="Les données de plus de 40'000 élèves et enseignants vaudois volées dans une cyberattaque"></a>Ein Cyberangriff zielte auf die IT-Supportplattform der weiterführenden Bildungseinrichtungen im Kanton Waadt ab. Die persönlichen Daten von]]></description>
+      <pubDate>Sat, 31 Oct 2026 09:46:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Evakuierungsaktion im ukrainischen Oleschky abgeschlossen</title>
+      <link>https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html</link>
+      <guid isPermaLink="false">055a5054-7114-45a7-90e2-57bcf45cc3cb</guid>
+      <description><![CDATA[Es war die größte gemeinsame Aktion von Ukrainern und Russen seit Kriegsbeginn: Mit 25 Bussen wurden Menschen aus der Frontstadt Oleschky gebracht. Ein Teil von ihnen ist bereits in Belarus angekommen, um in die Ukraine weiterzureisen.]]></description>
+      <pubDate>Sat, 31 Oct 2026 09:14:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Aufrüstung im Weltraum – ETH-Expertin: «Staaten bereiten sich auf einen Krieg im All vor»</title>
+      <link>https://www.srf.ch/wissen/weltraum/aufruestung-im-weltraum-eth-expertin-staaten-bereiten-sich-auf-einen-krieg-im-all-vor</link>
+      <guid isPermaLink="false">urn:srf:article:01a177ac-163d-e2b6-5d22-a6032ddd7ce5</guid>
+      <description><![CDATA[Riskante Begegnung im All, Cyberangriffe und Anti-Satelliten-Waffen: Die Militarisierung des Weltraums schreitet voran.]]></description>
+      <pubDate>Sat, 31 Oct 2026 09:06:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Turbulenzen an der US-Börse – Wochenbilanz – wie stark Google, Intel und Co. abtauchen</title>
+      <link>https://www.srf.ch/news/wirtschaft/turbulenzen-an-der-us-boerse-wochenbilanz-wie-stark-google-intel-und-co-abtauchen</link>
+      <guid isPermaLink="false">urn:srf:article:01a18d33-4b84-7e2a-f88e-300cf2833a65</guid>
+      <description><![CDATA[Nach Geschäftszahlen brechen Aktienkurse ein. Mit KI geraten Geschäftsmodelle ins Wanken. Die Bilanz zur US-Börsenwoche.]]></description>
+      <pubDate>Sat, 31 Oct 2026 08:00:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?</title>
+      <link>https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html</link>
+      <guid isPermaLink="false">1a2c6a3d-ca28-48a7-b394-61728267ffed</guid>
+      <description><![CDATA[Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert.]]></description>
+      <pubDate>Sat, 31 Oct 2026 07:45:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Wirbel um Elif Eralp – Berliner Linke im Auge des Sturms</title>
+      <link>https://www.srf.ch/news/international/wirbel-um-elif-eralp-berliner-linke-im-auge-des-sturms</link>
+      <guid isPermaLink="false">urn:srf:article:01a18dfa-0cde-27ff-65e6-d6d6d2e8f5c4</guid>
+      <description><![CDATA[Die Linke hat die Berliner Wahl gewonnen. Nun findet sie sich in Debatten wieder, die weit über Sachpolitik hinausgehen.]]></description>
+      <pubDate>Sat, 31 Oct 2026 07:33:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Innovation in der Medizin – Winzige Drohnen fliegen dank Ultraschall durch den Körper</title>
+      <link>https://www.srf.ch/news/dialog/innovation-in-der-medizin-winzige-drohnen-fliegen-dank-ultraschall-durch-den-koerper</link>
+      <guid isPermaLink="false">urn:srf:article:01a17d9e-78e3-d84c-e683-c0791ea682ab</guid>
+      <description><![CDATA[An der ETH Lausanne sind Mikrodrohnen entwickelt worden, die ohne Motor und ohne Batterie bewegt werden können.]]></description>
+      <pubDate>Sat, 31 Oct 2026 07:08:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Erhöhtes Darmkrebsrisiko – Salami und Wurst: Warum verarbeitetes Fleisch problematisch ist</title>
+      <link>https://www.srf.ch/news/dialog/erhoehtes-darmkrebsrisiko-salami-und-wurst-warum-verarbeitetes-fleisch-problematisch-ist</link>
+      <guid isPermaLink="false">urn:srf:article:01a1786a-30b3-ec27-3cdb-63f8ea3c8539</guid>
+      <description><![CDATA[Verarbeitete Fleischwaren erhöhen das Risiko, an Darmkrebs zu erkranken. Was haben Konservierungsstoffe damit zu tun?]]></description>
+      <pubDate>Sat, 31 Oct 2026 07:01:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Politischer Austausch – Cassis: «Fruchtbare» Gespräche in Pjöngjang</title>
+      <link>https://www.srf.ch/news/international/politischer-austausch-cassis-fruchtbare-gespraeche-in-pjoengjang</link>
+      <guid isPermaLink="false">urn:srf:article:01a19090-680c-64eb-0b8b-e3f63152c811</guid>
+      <description><![CDATA[Beim Besuch wurde das diplomatische Büro der Schweiz in Pjöngjang wiedereröffnet. Kim Jong Un traf Cassis nicht.]]></description>
+      <pubDate>Sat, 31 Oct 2026 06:36:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Die Universität widmet sich den unverständlichen Briefen der Verwaltung</title>
+      <link>https://www.20min.ch/fr/story/fribourg-l-uni-s-attaque-aux-lettres-incomprehensibles-de-l-administration-103658927</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/fribourg-l-uni-s-attaque-aux-lettres-incomprehensibles-de-l-administration-103658927</guid>
+      <description><![CDATA[Eine universitäre Studie in der Bevölkerung soll herausfinden, warum gewisse behördliche Schreiben so nebulös wirken und wie sich das ändern lässt.]]></description>
+      <pubDate>Sat, 31 Oct 2026 06:02:20 GMT</pubDate>
     </item>
     <item>
       <title>[Morges Actualitiés] Das Festival des Sports lädt auf das Eis ein</title>
@@ -22,8 +113,8 @@
       <pubDate>Sat, 31 Oct 2026 03:03:01 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] «Abstimmungs-Arena» – Bundesrätin Keller-Sutter: «Es stimmt nicht, was Herr Bregy sagt»</title>
-      <link>https://www.srf.ch/news/schweiz/abstimmungs-arena-bundesraetin-keller-sutter-es-stimmt-nicht-was-herr-bregy-sagt</link>
+      <title>[SRF Schweiz] «Abstimmungs-Arena» – So lief der «Arena»-Showdown zur Abschaffung der Heiratsstrafe</title>
+      <link>https://www.srf.ch/news/schweiz/abstimmungs-arena-so-lief-der-arena-showdown-zur-abschaffung-der-heiratsstrafe</link>
       <guid isPermaLink="false">urn:srf:article:01a18e31-2488-a2ba-2867-e61973f52fc3</guid>
       <description><![CDATA[Die Initiative der Mitte will die Heiratsstrafe auf ihre Weise abschaffen. Führt sie zu Fairness oder zu einem Chaos?]]></description>
       <pubDate>Fri, 30 Oct 2026 22:52:40 GMT</pubDate>
@@ -251,139 +342,6 @@
       <guid isPermaLink="false">urn:srf:article:01a18c33-897e-8a33-4efd-ff594ada6bd9</guid>
       <description><![CDATA[Für die Abstimmung über das Kriegsmaterialgesetz investiert das Ja-Lager rund 3 Millionen Franken in seine Kampagne.]]></description>
       <pubDate>Fri, 30 Oct 2026 12:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Hilfstransporte für die ukrainische Frontstadt Oleschky laufen an</title>
-      <link>https://www.tagesschau.de/ausland/europa/ukraine-oleschky-102.html</link>
-      <guid isPermaLink="false">3921913c-6394-4f1a-89a6-1540aeef07ce</guid>
-      <description><![CDATA[Die Bewohner der von Russland besetzten ukrainischen Frontstadt Oleschky können jetzt mit Hilfe rechnen. Die Route ist von Minen geräumt, die Versorgung mit Hilfslieferungen hat begonnen. Die Waffenruhe gilt noch bis Sonntag.]]></description>
-      <pubDate>Fri, 30 Oct 2026 11:54:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Parmelin in Peking – Schweiz und China erneuern Freihandelsabkommen</title>
-      <link>https://www.srf.ch/news/international/parmelin-in-peking-schweiz-und-china-erneuern-freihandelsabkommen</link>
-      <guid isPermaLink="false">urn:srf:article:01a18ba8-090a-2438-20c8-47dd18407ec9</guid>
-      <description><![CDATA[Guy Parmelin trifft Staatspräsident Xi Jinping für die Unterzeichnung eines erweiterten Freihandelsabkommens.]]></description>
-      <pubDate>Fri, 30 Oct 2026 11:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Südöstlich von Manila – Vulkan Mayon auf den Philippinen ausgebrochen</title>
-      <link>https://www.srf.ch/news/international/suedoestlich-von-manila-vulkan-mayon-auf-den-philippinen-ausgebrochen</link>
-      <guid isPermaLink="false">urn:srf:article:01a18c43-082f-6a2c-9bdf-f5f7e4a2695b</guid>
-      <description><![CDATA[Das lokale Institut für Vulkanologie und Seismologie erhöhte die Warnstufe; möglicherweise stehe eine Eruption bevor.]]></description>
-      <pubDate>Fri, 30 Oct 2026 11:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Fast drei Millionen Arbeitslose im Oktober</title>
-      <link>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslose-statistik-oktober-100.html</link>
-      <guid isPermaLink="false">aad406ab-66c3-46b4-93e8-5bdd15b88497</guid>
-      <description><![CDATA[Die Arbeitslosigkeit ist im Oktober zurückgegangen, die übliche Herbstbelebung aber nahezu ausgeblieben. Im Vergleich zum Vorjahr gibt es sogar mehr Arbeitslose. Als Grund nennt BA-Chefin Nahles die wirtschaftlichen Rahmenbedingungen.]]></description>
-      <pubDate>Fri, 30 Oct 2026 10:32:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Deutsche Wirtschaft wächst überraschend im Sommer</title>
-      <link>https://www.tagesschau.de/wirtschaft/konjunktur/entwicklung-bip-deutschland-sommer-100.html</link>
-      <guid isPermaLink="false">15df635b-66d8-414a-9da8-62c35ab485a3</guid>
-      <description><![CDATA[Nach einem starken Halbjahr hat sich auch im Sommer die Erholung der deutschen Wirtschaft fortgesetzt. Dabei hatten viele Experten mit einer Stagnation gerechnet. Die privaten Ausgaben sind jedoch weiterhin verhalten.]]></description>
-      <pubDate>Fri, 30 Oct 2026 09:50:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Genf reduziert günstigen Wohnraum zur Vermeidung von «Ghettos»</title>
-      <link>https://www.20min.ch/fr/story/amenagement-pour-eviter-les-ghettos-geneve-reduit-les-logements-bon-marche-103658784</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/amenagement-pour-eviter-les-ghettos-geneve-reduit-les-logements-bon-marche-103658784</guid>
-      <description><![CDATA[Der Grosse Rat hat die Mindestquote von 50% für preisgünstigen Wohnraum in eine Obergrenze umgewandelt. Die Linke prangert einen sozialen Rückschritt an und kündigt ein Referendum an.]]></description>
-      <pubDate>Fri, 30 Oct 2026 09:50:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Krise in Automobilbranche: Gewinn bei Audi bricht drastisch ein</title>
-      <link>https://www.tagesschau.de/wirtschaft/unternehmen/automobil-audi-gewinneinbruch-100.html</link>
-      <guid isPermaLink="false">69b345c8-dc68-45b3-a78f-fe11dfbf1dbc</guid>
-      <description><![CDATA[Auch der Autobauer Audi steckt in der Krise: Der Gewinn brach im dritten Quartal deutlich ein. Grund ist unter anderem das schwache China-Geschäft. Neue Automodelle sollen positive Impulse bringen.]]></description>
-      <pubDate>Fri, 30 Oct 2026 09:42:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Luzerns Verwaltung zieht um – 1200 Arbeitsplätze für 2000 Kantonsangestellte? So funktioniert's</title>
-      <link>https://www.srf.ch/news/schweiz/luzerns-verwaltung-zieht-um-1200-arbeitsplaetze-fuer-2000-kantonsangestellte-so-funktioniert-s</link>
-      <guid isPermaLink="false">urn:srf:article:01a18757-d705-cfce-8cbb-e09a71b3a0f4</guid>
-      <description><![CDATA[Luzern zieht rund 30 kantonale Dienststellen zusammen. Warum sich die Zentralisierung lohnt. Und wo ein Problem lauert.]]></description>
-      <pubDate>Fri, 30 Oct 2026 09:38:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Drohnen-Krieg in der Ukraine – «Wir finden weiterhin Schweizer Komponenten in russischen Waffen»</title>
-      <link>https://www.srf.ch/news/schweiz/drohnen-krieg-in-der-ukraine-wir-finden-weiterhin-schweizer-komponenten-in-russischen-waffen</link>
-      <guid isPermaLink="false">urn:srf:article:01a18732-ce9c-5355-ce01-0e2cd5f92046</guid>
-      <description><![CDATA[Der Spezialbeauftragte für Sanktionen des ukrainischen Präsidenten fordert mehr Engagement von der Schweiz.]]></description>
-      <pubDate>Fri, 30 Oct 2026 08:56:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Ein grafischer Roman beleuchtet die humanitäre Arbeit aus allen Blickwinkeln</title>
-      <link>https://journaldemorges.ch/actualite/societe/un-roman-graphique-traite-lhumanitaire-sous-tous-les-angles/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/un-roman-graphique-traite-lhumanitaire-sous-tous-les-angles/</guid>
-      <description><![CDATA[In dem Comic "Une vie pour les autres" beleuchtet der aus Reverolle stammende Autor Blaise Hofmann, was Menschen dazu antreibt, sich für die humanitäre Hilfe zu engagieren, an der Seite des Zeichners Elmax.]]></description>
-      <pubDate>Fri, 30 Oct 2026 08:41:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Der Caveau d’Echandens passt sich an, um die Kultur am Leben zu erhalten</title>
-      <link>https://journaldemorges.ch/actualite/culture/le-caveau-dechandens-sadapte-pour-faire-vivre-la-culture/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/culture/le-caveau-dechandens-sadapte-pour-faire-vivre-la-culture/</guid>
-      <description><![CDATA[Die neue kulturelle Saison des Caveau d'Echandens beginnt an diesem Freitagabend. Da die Publikumskapazität nach unten angepasst werden musste, verspricht die Atmosphäre noch intimer zu werden.]]></description>
-      <pubDate>Fri, 30 Oct 2026 08:39:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Aus Uber geworfen wegen zwei Flaschen Wein, die zudem verschlossen waren</title>
-      <link>https://www.20min.ch/fr/story/lausanne-chassee-de-son-uber-pour-deux-bouteilles-de-vin-pourtant-fermees-103658761</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/lausanne-chassee-de-son-uber-pour-deux-bouteilles-de-vin-pourtant-fermees-103658761</guid>
-      <description><![CDATA[Eine Romande wurde gebeten, das Fahrzeug zu verlassen, nachdem der Fahrer zwei, wenn auch versiegelte Flaschen in ihrer Tasche klirren hörte. Uber Schweiz prüft den Fall.]]></description>
-      <pubDate>Fri, 30 Oct 2026 08:32:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Gewinnausschüttung offen – SNB erzielt nach 9 Monaten hohen Milliardengewinn</title>
-      <link>https://www.srf.ch/news/wirtschaft/gewinnausschuettung-offen-snb-erzielt-nach-9-monaten-hohen-milliardengewinn</link>
-      <guid isPermaLink="false">urn:srf:article:01a18bb6-6616-cbd6-dfca-44dfaec08925</guid>
-      <description><![CDATA[Die Schweizerische Nationalbank weist nach neun Monaten 2026 einen Gewinn von 44.2 Milliarden Franken aus.]]></description>
-      <pubDate>Fri, 30 Oct 2026 08:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] In Morges «hat sich niemand um die Zukunft der Taxis gekümmert»</title>
-      <link>https://www.20min.ch/fr/story/la-cote-vd-a-morges-personne-ne-s-est-soucie-de-l-avenir-des-taxis-103658736</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/la-cote-vd-a-morges-personne-ne-s-est-soucie-de-l-avenir-des-taxis-103658736</guid>
-      <description><![CDATA[Die Bahnhofsarbeiten – und die Schliessung der Geschäfte – werden den Taxis die Kundschaft entziehen. Die Chauffeure bedauern, nicht konsultiert worden zu sein. Die Stadt räumt einen Fehler ein.]]></description>
-      <pubDate>Fri, 30 Oct 2026 07:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Midterms – Was bedeuten die Wahlen in den USA für die Schweizer Wirtschaft?</title>
-      <link>https://www.srf.ch/news/international/usa/midterms-was-bedeuten-die-wahlen-in-den-usa-fuer-die-schweizer-wirtschaft</link>
-      <guid isPermaLink="false">urn:srf:article:01a187d3-342b-fd32-e565-1afa43e30846</guid>
-      <description><![CDATA[Eine Wahlschlappe der Republikaner und eine Schwächung von Donald Trump brächten kaum Impulse. Die Unsicherheit bleibt.]]></description>
-      <pubDate>Fri, 30 Oct 2026 07:56:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Fehlende Wohnungen: Was hat der "Bau-Turbo" bislang gebracht?</title>
-      <link>https://www.tagesschau.de/wirtschaft/konjunktur/bauturbo-wohnungen-immobilien-100.html</link>
-      <guid isPermaLink="false">5bb522a1-fef9-4075-8af4-5c2abb9a1f61</guid>
-      <description><![CDATA[In Deutschland werden viel zu wenig Wohnungen gebaut. Dabei versucht die Bundesregierung gegenzusteuern - etwa mit dem "Bau-Turbo", der seit einem Jahr gilt. Was hat das Gesetz bislang gebracht? Von Axel John.]]></description>
-      <pubDate>Fri, 30 Oct 2026 07:55:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Milliardenschwerer Hackerangriff auf Kryptobörse Binance</title>
-      <link>https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html</link>
-      <guid isPermaLink="false">a6ce37d8-d362-4010-8a33-b4f1e0b5b3ff</guid>
-      <description><![CDATA[Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?]]></description>
-      <pubDate>Fri, 30 Oct 2026 07:24:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken</title>
-      <link>https://www.tagesschau.de/ausland/amerika/eu-kanada-ki-100.html</link>
-      <guid isPermaLink="false">862bfa96-f26b-423c-84bd-5912e2eaef77</guid>
-      <description><![CDATA[Gemeinsam unabhängiger werden - das ist das große Ziel der angestrebten neuen Allianz zwischen Kanada und der EU. Ein Beispiel: die Zusammenarbeit im Bereich Künstlicher Intelligenz. Von Giselle Ucar.]]></description>
-      <pubDate>Fri, 30 Oct 2026 06:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Zehn Jahre Unabhängigkeit des JDM wie eine Berufung!</title>
-      <link>https://journaldemorges.ch/opinions/dix-ans-dindependance-du-jdm-comme-un-sacerdoce/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/opinions/dix-ans-dindependance-du-jdm-comme-un-sacerdoce/</guid>
-      <description><![CDATA[Unser Chefredakteur Cédric Jotterand blickt diese Woche auf den Meilenstein von zehn Jahren Unabhängigkeit des Journal de Morges zurück – eine bislang gewonnene Wette, aber eine tägliche Herausforderung.]]></description>
-      <pubDate>Fri, 30 Oct 2026 05:30:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
