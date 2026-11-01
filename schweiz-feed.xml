@@ -5,21 +5,119 @@
     <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Sun, 01 Nov 2026 05:30:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 11:58:39 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Tagesschau Wirtschaft] Warnstreiks der IG Metall kurz nach Mitternacht angelaufen</title>
-      <link>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html</link>
-      <guid isPermaLink="false">8ad7ba12-2c5b-41ae-8f11-965e15778308</guid>
-      <description><![CDATA[Die IG Metall hat "starke Warnstreiks" angekündigt - und in der Nacht damit begonnen. Die Gewerkschaft will damit Druck in den Tarifverhandlungen machen. Betroffen sind wichtige Industriezweige wie Auto oder Maschinenbau.]]></description>
-      <pubDate>Sun, 01 Nov 2026 03:48:45 GMT</pubDate>
+      <title>[SRF Schweiz] Heiliger Bimbam – Wenn wegen der Hitze plötzlich die Kirchenglocke anders klingt</title>
+      <link>https://www.srf.ch/news/schweiz/heiliger-bimbam-wenn-wegen-der-hitze-ploetzlich-die-kirchenglocke-anders-klingt</link>
+      <guid isPermaLink="false">urn:srf:article:01a16311-d06f-ab7a-b991-2dda55cbc386</guid>
+      <description><![CDATA[Der Hitzesommer ist vorbei, der Herbst hält Einzug. Die Kirchenglocken bimmeln wieder wie gewohnt.]]></description>
+      <pubDate>Sun, 01 Nov 2026 11:05:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Céline Amaudruz wird vom mazedonischen Erbe ihres Vaters eingeholt</title>
+      <link>https://www.20min.ch/fr/story/conseil-federal-celine-amaudruz-rattrapee-par-l-heritage-monegasque-de-son-pere-103659966</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/conseil-federal-celine-amaudruz-rattrapee-par-l-heritage-monegasque-de-son-pere-103659966</guid>
+      <description><![CDATA[Die Genfer UDC-Kandidatin für den Bundesrat hätte gemäss dem «SonntagsBlick» gewünscht, dass das millionenschwere Erbe ihres Vaters in Monaco geregelt wird.]]></description>
+      <pubDate>Sun, 01 Nov 2026 11:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Von wegen Gekribbel – Wie Kinderzeichnungen die Weltgeschichte zeigen können</title>
+      <link>https://www.srf.ch/news/schweiz/von-wegen-gekribbel-wie-kinderzeichnungen-die-weltgeschichte-zeigen-koennen</link>
+      <guid isPermaLink="false">urn:srf:article:01a168d7-2e3e-3081-34ad-db1eb58a69ae</guid>
+      <description><![CDATA[Vom Kühlschrank über den Estrich … bis ins Museum? Kinderzeichnungen sagen vielleicht mehr aus, als man denkt.]]></description>
+      <pubDate>Sun, 01 Nov 2026 11:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] 40 Jahre nach Schweizerhalle – Als die Chemiekatastrophe den Rhein vergiftete</title>
+      <link>https://www.srf.ch/news/schweiz/40-jahre-nach-schweizerhalle-als-die-chemiekatastrophe-den-rhein-vergiftete</link>
+      <guid isPermaLink="false">urn:srf:article:01a18c57-005a-a1e1-503d-023839f5cc35</guid>
+      <description><![CDATA[Vor 40 Jahren löste ein Brand in einer Lagerhalle von Sandoz bei Basel eine Umweltkatastrophe aus.]]></description>
+      <pubDate>Sun, 01 Nov 2026 10:42:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Hausziege und Steinbock – Hybride Steinböcke sorgen im Tessin für Probleme</title>
+      <link>https://www.srf.ch/news/schweiz/hausziege-und-steinbock-hybride-steinboecke-sorgen-im-tessin-fuer-probleme</link>
+      <guid isPermaLink="false">urn:srf:article:01a18d5b-0fc7-1b0a-b748-8d34c5a4936c</guid>
+      <description><![CDATA[Wenn Geissen sich mit Steinböcken paaren, gibt es Probleme. Der Kanton Tessin ruft dazu auf, Ziegen im Stall zu halten.]]></description>
+      <pubDate>Sun, 01 Nov 2026 09:30:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Migros setzt auf eine Belohnung, um die Romands zu überzeugen</title>
+      <link>https://www.20min.ch/fr/story/restructuration-migros-mise-sur-une-recompense-pour-convaincre-les-romands-103659924</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/restructuration-migros-mise-sur-une-recompense-pour-convaincre-les-romands-103659924</guid>
+      <description><![CDATA[Um ihre Fusion im Jahr 2027 akzeptabel zu machen, erwägt Migros, einen Teil ihrer Gewinne an die Genossenschafter auszuschütten. Genf könnte dabei eine entscheidende Rolle spielen.]]></description>
+      <pubDate>Sun, 01 Nov 2026 09:20:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Ukraine: Zehn Tage gegen den Krieg im Kopf</title>
+      <link>https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html</link>
+      <guid isPermaLink="false">3b94377f-8bd4-4fde-aba6-6f4a2f5243e0</guid>
+      <description><![CDATA[In den ukrainischen Karpaten versuchen Soldatinnen und Soldaten, für ein paar Tage Abstand vom Krieg zu gewinnen. Doch die Erinnerungen lassen sich nicht einfach abschütteln. Von Susanne Petersohn.]]></description>
+      <pubDate>Sun, 01 Nov 2026 08:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Besteuerung von Ehepaaren: Warum Frauen stark mobilisiert sind</title>
+      <link>https://www.20min.ch/fr/story/imposition-individuelle-fiscalite-des-couples-pourquoi-les-femmes-sont-tres-mobilisees-103659910</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/imposition-individuelle-fiscalite-des-couples-pourquoi-les-femmes-sont-tres-mobilisees-103659910</guid>
+      <description><![CDATA[Noch nie hatte eine Abstimmungskampagne ein ausschliesslich weibliches Gremium versammelt. Hinter der Initiative der Mitte-Partei steht auch die Autonomie der Frauen auf dem Spiel.]]></description>
+      <pubDate>Sun, 01 Nov 2026 08:29:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] "Der Wolf hat hier keinen Platz": In der Broye sind einige Züchter am Ende</title>
+      <link>https://www.rts.ch/info/suisse/2026/article/attaques-de-loup-dans-la-broye-le-desarroi-des-eleveurs-29401553.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29401553</guid>
+      <description><![CDATA[Die Sorge unter den Landwirten in der Broye ist nach mehreren Wolfsangriffen in den letzten Wochen gross. Zwischen Wut und Ratlosigkeit denken einige über Massnahmen nach.]]></description>
+      <pubDate>Sun, 01 Nov 2026 08:12:43 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Ausland] Deutsche Jugendproteste – Zwischenfälle nach friedlichem Protest: Plünderungen in Frankfurt</title>
       <link>https://www.srf.ch/news/international/deutsche-jugendproteste-zwischenfaelle-nach-friedlichem-protest-pluenderungen-in-frankfurt</link>
       <guid isPermaLink="false">urn:srf:article:01a19251-dd98-ba83-d3ef-966363ff4112</guid>
       <description><![CDATA[Nach einem friedlichen Protest Zehntausender Menschen ist es in mehreren deutschen Städten zu Ausschreitungen gekommen.]]></description>
-      <pubDate>Sun, 01 Nov 2026 01:41:21 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 08:10:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?</title>
+      <link>https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html</link>
+      <guid isPermaLink="false">4c0aeac6-3b04-4b5b-b27b-9aab05a8f40f</guid>
+      <description><![CDATA[Ob bei der Entwicklung neuer Produkte, in der Werbung oder bei der Gestaltung des eigenen Zuhauses: KI ist im Alltag angekommen. Sie spart oft Zeit, wirft aber auch Fragen nach Kreativität, Arbeitsplätzen und Vertrauen auf. Von Anke Heinhaus.]]></description>
+      <pubDate>Sun, 01 Nov 2026 08:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Gesellschaft] Selbsthilfegruppen – «Hier bekomme ich, was ich vom Arzt nicht bekomme»</title>
+      <link>https://www.srf.ch/kultur/gesellschaft-religion/selbsthilfegruppen-hier-bekomme-ich-was-ich-vom-arzt-nicht-bekomme</link>
+      <guid isPermaLink="false">urn:srf:article:01a17781-da80-45c7-972d-c2c53832dbb4</guid>
+      <description><![CDATA[Schweizweit gibt es rund 3000 Selbsthilfegruppen. Was bringt Austausch mit Gleichbetroffenen – und wo liegen Grenzen?]]></description>
+      <pubDate>Sun, 01 Nov 2026 07:39:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Musikalisches Erbe – Aargauer Komponist erlebt nach tragischem Leben seine Renaissance</title>
+      <link>https://www.srf.ch/news/schweiz/musikalisches-erbe-aargauer-komponist-erlebt-nach-tragischem-leben-seine-renaissance</link>
+      <guid isPermaLink="false">urn:srf:article:01a186f2-558e-5584-e121-13072da05492</guid>
+      <description><![CDATA[200 Jahre nach seinem Tod wird der Komponist Friedrich Theodor Fröhlich als Schweizer Genie der Frühromantik gelobt.]]></description>
+      <pubDate>Sun, 01 Nov 2026 07:30:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] 50-jährige Zivilschutzanlage – Zivilschutzanlage Sonnenberg: Das Revival des Mega-Bunkers</title>
+      <link>https://www.srf.ch/news/schweiz/50-jaehrige-zivilschutzanlage-zivilschutzanlage-sonnenberg-das-revival-des-mega-bunkers</link>
+      <guid isPermaLink="false">urn:srf:article:01a17760-702e-8503-ea6e-f7cd2f1a7c19</guid>
+      <description><![CDATA[Im Falle eines Atomangriffs sollten 20'000 Menschen in den Sonnenberg. Die Anlage stösst wieder auf Interesse.]]></description>
+      <pubDate>Sun, 01 Nov 2026 07:04:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Nach Hackerangriff – Binance ersetzt 90 Prozent der gestohlenen Werte</title>
+      <link>https://www.srf.ch/news/wirtschaft/nach-hackerangriff-binance-ersetzt-90-prozent-der-gestohlenen-werte</link>
+      <guid isPermaLink="false">urn:srf:article:01a1938a-ca9a-c6a2-685c-329e3557b4eb</guid>
+      <description><![CDATA[Nach dem Hackerangriff hat Binance laut eigenen Angaben 90 Prozent der gestohlenen Summe absichern können.]]></description>
+      <pubDate>Sun, 01 Nov 2026 07:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Warnstreiks der IG Metall kurz nach Mitternacht angelaufen</title>
+      <link>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html</link>
+      <guid isPermaLink="false">8ad7ba12-2c5b-41ae-8f11-965e15778308</guid>
+      <description><![CDATA[Die IG Metall hat "starke Warnstreiks" angekündigt - und in der Nacht damit begonnen. Die Gewerkschaft will damit Druck in den Tarifverhandlungen machen. Betroffen sind wichtige Industriezweige wie Auto oder Maschinenbau.]]></description>
+      <pubDate>Sun, 01 Nov 2026 03:48:45 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Neue Wohnmodelle – Saisonpersonal aus Andermatt belebt leere Wohnungen im Tessin</title>
@@ -36,15 +134,8 @@
       <pubDate>Sat, 31 Oct 2026 20:29:45 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Wirtschaft] Nach Hackerangriff – Binance ersetzt 90 Prozent der gestohlenen Werte</title>
-      <link>https://www.srf.ch/news/wirtschaft/nach-hackerangriff-binance-ersetzt-90-prozent-der-gestohlenen-werte</link>
-      <guid isPermaLink="false">urn:srf:article:01a1938a-ca9a-c6a2-685c-329e3557b4eb</guid>
-      <description><![CDATA[Nach dem Hackerangriff hat Binance laut eigenen Angaben 90 Prozent der gestohlenen Summe absichern können.]]></description>
-      <pubDate>Sat, 31 Oct 2026 20:15:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Westsahara – UNO-Friedensmission vor dem Aus – wie geht es weiter?</title>
-      <link>https://www.srf.ch/news/international/westsahara-uno-friedensmission-vor-dem-aus-wie-geht-es-weiter</link>
+      <title>[SRF Ausland] Keine Verlängerung – Westsahara: UNO-Friedensmission vor dem Aus – wie geht es weiter?</title>
+      <link>https://www.srf.ch/news/international/keine-verlaengerung-westsahara-uno-friedensmission-vor-dem-aus-wie-geht-es-weiter</link>
       <guid isPermaLink="false">urn:srf:article:01a1930f-88a2-29dd-2442-361e75ff9807</guid>
       <description><![CDATA[Die Verlängerung von Minurso ist gescheitert. Damit steht die UNO-Friedensmission für die Westsahara vor ihrem Ende.]]></description>
       <pubDate>Sat, 31 Oct 2026 19:31:16 GMT</pubDate>
@@ -181,111 +272,6 @@
       <guid isPermaLink="false">da27384e-6ebd-4a74-98cd-6c6145b34ca0</guid>
       <description><![CDATA[Auch rund eine Woche nach ihrem Wahlsieg in Serbien staunt die Studentenbewegung noch über ihren Erfolg. Ihre Mitglieder merken aber im Alltag: Das System von Ex-Präsident Vucic verschwindet nicht über Nacht. Von A. Bachmann und I. Bafas.]]></description>
       <pubDate>Sat, 31 Oct 2026 12:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Serbien im Wandel – Was die Wände von Belgrad erzählen</title>
-      <link>https://www.srf.ch/news/international/serbien-im-wandel-was-die-waende-von-belgrad-erzaehlen</link>
-      <guid isPermaLink="false">urn:srf:article:01a18ce4-40d2-207a-5b5b-e9812c9e7595</guid>
-      <description><![CDATA[Im Strassenbild Belgrads macht sich die Abwahl von Aleksandar Vucic und der Wahlerfolg der Studentenbewegung bemerkbar.]]></description>
-      <pubDate>Sat, 31 Oct 2026 11:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Ein TL-Busfahrer wurde in Prélaz «zwischen zwei Bussen eingeklemmt»</title>
-      <link>https://www.20min.ch/fr/story/accident-a-lausanne-un-chauffeur-des-tl-a-ete-comprime-entre-deux-bus-a-prelaz-103659207</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/accident-a-lausanne-un-chauffeur-des-tl-a-ete-comprime-entre-deux-bus-a-prelaz-103659207</guid>
-      <description><![CDATA[Am frühen Freitagmorgen wurde ein TL-Busfahrer an der Haltestelle Prélaz in Lausanne zwischen zwei Fahrzeugen eingeklemmt. Er wurde verletzt ins CHUV transportiert. Eine Untersuchung ist im Gange.]]></description>
-      <pubDate>Sat, 31 Oct 2026 11:46:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Junger Hypersomnie-Patient bekommt vor der IV Recht</title>
-      <link>https://www.20min.ch/fr/story/justice-vaudoise-un-jeune-hypersomniaque-obtient-gain-de-cause-face-a-l-ai-103659249</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/justice-vaudoise-un-jeune-hypersomniaque-obtient-gain-de-cause-face-a-l-ai-103659249</guid>
-      <description><![CDATA[Die Richter haben die Rentenverweigerung der Invalidenversicherung gegenüber einem jungen Mann mit Hypersomnie aufgehoben. Ein neues Gutachten wurde gefordert.]]></description>
-      <pubDate>Sat, 31 Oct 2026 10:53:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Die Kirchenglocke ist wieder einsatzbereit!</title>
-      <link>https://journaldemorges.ch/actualite/societe/la-cloche-de-leglise-est-bonne-pour-le-service/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/la-cloche-de-leglise-est-bonne-pour-le-service/</guid>
-      <description><![CDATA[Ein technisches Problem und eine Petition hatten für Verwirrung gesorgt bezüglich der akustischen Zukunft des Temple. Erklärungen dazu.]]></description>
-      <pubDate>Sat, 31 Oct 2026 10:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Evakuierungsaktion im ukrainischen Oleschky abgeschlossen</title>
-      <link>https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html</link>
-      <guid isPermaLink="false">055a5054-7114-45a7-90e2-57bcf45cc3cb</guid>
-      <description><![CDATA[Es war die größte gemeinsame Aktion von Ukrainern und Russen seit Kriegsbeginn: Mit 25 Bussen wurden Menschen aus der Frontstadt Oleschky gebracht. Ein Teil von ihnen ist bereits in Belarus angekommen, um in die Ukraine weiterzureisen.]]></description>
-      <pubDate>Sat, 31 Oct 2026 09:14:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Aufrüstung im Weltraum – ETH-Expertin: «Staaten bereiten sich auf einen Krieg im All vor»</title>
-      <link>https://www.srf.ch/wissen/weltraum/aufruestung-im-weltraum-eth-expertin-staaten-bereiten-sich-auf-einen-krieg-im-all-vor</link>
-      <guid isPermaLink="false">urn:srf:article:01a177ac-163d-e2b6-5d22-a6032ddd7ce5</guid>
-      <description><![CDATA[Riskante Begegnung im All, Cyberangriffe und Anti-Satelliten-Waffen: Die Militarisierung des Weltraums schreitet voran.]]></description>
-      <pubDate>Sat, 31 Oct 2026 09:06:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Das André-Pirlot-Jahr wird in den Museen von Morges fortgesetzt</title>
-      <link>https://journaldemorges.ch/actualite/culture/lannee-andre-pirlot-se-poursuit-dans-les-musees-de-morges/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/culture/lannee-andre-pirlot-se-poursuit-dans-les-musees-de-morges/</guid>
-      <description><![CDATA[Die Werke des Bildhauers aus Morges, geboren 1926, werden weiterhin in drei musealen Einrichtungen der Stadt ausgestellt.]]></description>
-      <pubDate>Sat, 31 Oct 2026 08:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Turbulenzen an der US-Börse – Wochenbilanz – wie stark Google, Intel und Co. abtauchen</title>
-      <link>https://www.srf.ch/news/wirtschaft/turbulenzen-an-der-us-boerse-wochenbilanz-wie-stark-google-intel-und-co-abtauchen</link>
-      <guid isPermaLink="false">urn:srf:article:01a18d33-4b84-7e2a-f88e-300cf2833a65</guid>
-      <description><![CDATA[Nach Geschäftszahlen brechen Aktienkurse ein. Mit KI geraten Geschäftsmodelle ins Wanken. Die Bilanz zur US-Börsenwoche.]]></description>
-      <pubDate>Sat, 31 Oct 2026 08:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?</title>
-      <link>https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html</link>
-      <guid isPermaLink="false">1a2c6a3d-ca28-48a7-b394-61728267ffed</guid>
-      <description><![CDATA[Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert.]]></description>
-      <pubDate>Sat, 31 Oct 2026 07:45:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Wirbel um Elif Eralp – Berliner Linke im Auge des Sturms</title>
-      <link>https://www.srf.ch/news/international/wirbel-um-elif-eralp-berliner-linke-im-auge-des-sturms</link>
-      <guid isPermaLink="false">urn:srf:article:01a18dfa-0cde-27ff-65e6-d6d6d2e8f5c4</guid>
-      <description><![CDATA[Die Linke hat die Berliner Wahl gewonnen. Nun findet sie sich in Debatten wieder, die weit über Sachpolitik hinausgehen.]]></description>
-      <pubDate>Sat, 31 Oct 2026 07:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Innovation in der Medizin – Winzige Drohnen fliegen dank Ultraschall durch den Körper</title>
-      <link>https://www.srf.ch/news/dialog/innovation-in-der-medizin-winzige-drohnen-fliegen-dank-ultraschall-durch-den-koerper</link>
-      <guid isPermaLink="false">urn:srf:article:01a17d9e-78e3-d84c-e683-c0791ea682ab</guid>
-      <description><![CDATA[An der ETH Lausanne sind Mikrodrohnen entwickelt worden, die ohne Motor und ohne Batterie bewegt werden können.]]></description>
-      <pubDate>Sat, 31 Oct 2026 07:08:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Erhöhtes Darmkrebsrisiko – Salami und Wurst: Warum verarbeitetes Fleisch problematisch ist</title>
-      <link>https://www.srf.ch/news/dialog/erhoehtes-darmkrebsrisiko-salami-und-wurst-warum-verarbeitetes-fleisch-problematisch-ist</link>
-      <guid isPermaLink="false">urn:srf:article:01a1786a-30b3-ec27-3cdb-63f8ea3c8539</guid>
-      <description><![CDATA[Verarbeitete Fleischwaren erhöhen das Risiko, an Darmkrebs zu erkranken. Was haben Konservierungsstoffe damit zu tun?]]></description>
-      <pubDate>Sat, 31 Oct 2026 07:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] 10 Jahre Unabhängigkeit: Recherchen und Reportagen als Aushängeschild</title>
-      <link>https://journaldemorges.ch/actualite/10-ans-dindependance-enquetes-et-reportages-en-etendards/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/10-ans-dindependance-enquetes-et-reportages-en-etendards/</guid>
-      <description><![CDATA[Während Recherchen und Langzeitdossiers bei Sparmassnahmen als Erste geopfert werden, hält das Journal de Morges an diesen Inhalten fest.]]></description>
-      <pubDate>Sat, 31 Oct 2026 07:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Politischer Austausch – Cassis: «Fruchtbare» Gespräche in Pjöngjang</title>
-      <link>https://www.srf.ch/news/international/politischer-austausch-cassis-fruchtbare-gespraeche-in-pjoengjang</link>
-      <guid isPermaLink="false">urn:srf:article:01a19090-680c-64eb-0b8b-e3f63152c811</guid>
-      <description><![CDATA[Beim Besuch wurde das diplomatische Büro der Schweiz in Pjöngjang wiedereröffnet. Kim Jong Un traf Cassis nicht.]]></description>
-      <pubDate>Sat, 31 Oct 2026 06:36:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Die Universität widmet sich den unverständlichen Briefen der Verwaltung</title>
-      <link>https://www.20min.ch/fr/story/fribourg-l-uni-s-attaque-aux-lettres-incomprehensibles-de-l-administration-103658927</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/fribourg-l-uni-s-attaque-aux-lettres-incomprehensibles-de-l-administration-103658927</guid>
-      <description><![CDATA[Eine universitäre Studie in der Bevölkerung soll herausfinden, warum gewisse behördliche Schreiben so nebulös wirken und wie sich das ändern lässt.]]></description>
-      <pubDate>Sat, 31 Oct 2026 06:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
