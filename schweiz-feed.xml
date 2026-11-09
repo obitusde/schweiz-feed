@@ -5,28 +5,175 @@
     <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Sun, 08 Nov 2026 11:58:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:30:36 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Schweiz] Laudatio vom Bundesrat – «Prix Suisse» für ETH-Professor und Ex-Nasa-Direktor Zurbuchen</title>
-      <link>https://www.srf.ch/news/schweiz/laudatio-vom-bundesrat-prix-suisse-fuer-eth-professor-und-ex-nasa-direktor-zurbuchen</link>
-      <guid isPermaLink="false">urn:srf:article:01a1bae2-79db-e265-14fa-fe501731501d</guid>
-      <description><![CDATA[Der Award ehrt jährlich eine herausragende Persönlichkeit aus Wirtschaft, Wissenschaft, Sport oder Kultur.]]></description>
-      <pubDate>Sun, 08 Nov 2026 11:38:03 GMT</pubDate>
+      <title>[SRF Wirtschaft] Tückische Affäre – Liebschaft von Nvidia-Chef Huang unter Spionageverdacht</title>
+      <link>https://www.srf.ch/news/international/tueckische-affaere-liebschaft-von-nvidia-chef-huang-unter-spionageverdacht</link>
+      <guid isPermaLink="false">urn:srf:article:01a1bcdb-69e6-4464-844d-8fe6f1bb95b3</guid>
+      <description><![CDATA[Chef Jensen Huang hatte eine Affäre. US-Behörden vermuten, dass die Frau vom chinesischen Geheimdienst angeworben wurde.]]></description>
+      <pubDate>Mon, 09 Nov 2026 05:22:19 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Schweiz] Wahlen Kanton Freiburg – Verliert die deutschsprachige Minderheit Sitze in der Regierung?</title>
-      <link>https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-verliert-die-deutschsprachige-minderheit-sitze-in-der-regierung</link>
-      <guid isPermaLink="false">urn:srf:article:01a1aa83-27b3-264c-6e51-25d7245025b1</guid>
-      <description><![CDATA[Bei der Gesamterneuerungswahl des Freiburger Staatsrats ist ein Umbruch vorprogrammiert.]]></description>
-      <pubDate>Sun, 08 Nov 2026 11:18:08 GMT</pubDate>
+      <title>[SRF Wissen] Internationale Klimadiplomatie – Was ist zu erwarten von der Klimakonferenz in Antalya?</title>
+      <link>https://www.srf.ch/wissen/klimawandel/internationale-klimadiplomatie-was-ist-zu-erwarten-von-der-klimakonferenz-in-antalya</link>
+      <guid isPermaLink="false">urn:srf:article:01a1b4eb-257c-2e2e-6946-e65e3a666a87</guid>
+      <description><![CDATA[Zum 31. Mal findet ein Weltklimagipfel statt. Die Welt ist nicht auf Kurs. Das sind die wichtigsten Themen.]]></description>
+      <pubDate>Mon, 09 Nov 2026 05:15:16 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Ausland] Polen – Schüsse in Krakau – Justiz ermittelt wegen Terrorismus</title>
       <link>https://www.srf.ch/news/international/polen-schuesse-in-krakau-justiz-ermittelt-wegen-terrorismus</link>
       <guid isPermaLink="false">urn:srf:article:01a1b68e-125b-e40d-d2d0-aa1181ed6157</guid>
       <description><![CDATA[Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.]]></description>
-      <pubDate>Sun, 08 Nov 2026 10:40:51 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 02:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Essenslieferant – Zürcher Just-Eat-Kuriere legen ihre Arbeit nieder</title>
+      <link>https://www.srf.ch/news/schweiz/essenslieferant-zuercher-just-eat-kuriere-legen-ihre-arbeit-nieder</link>
+      <guid isPermaLink="false">urn:srf:article:01a1bca4-8bd0-6d94-4ccf-5ca7adcbd031</guid>
+      <description><![CDATA[Wegen geplanter Entlassungen haben Just-Eat-Fahrerinnen und -Fahrer in Zürich und im Glatttal gestreikt.]]></description>
+      <pubDate>Sun, 08 Nov 2026 20:10:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Kanadische Arktis – Die globale Erwärmung hat die Anfänge einer neuen Eiszeit beendet</title>
+      <link>https://www.srf.ch/news/dialog/kanadische-arktis-die-globale-erwaermung-hat-die-anfaenge-einer-neuen-eiszeit-beendet</link>
+      <guid isPermaLink="false">urn:srf:article:01a1a086-29e1-f6b7-336c-99f275ee061f</guid>
+      <description><![CDATA[Die vom Menschen verursachte Klimaerwärmung hat in den 1960er-Jahren den Beginn einer neuen Eiszeit gestoppt.]]></description>
+      <pubDate>Sun, 08 Nov 2026 19:04:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Sonderkredit beantragt – Kleintheater Luzern muss trotz Finanzhilfe um Zukunft bangen</title>
+      <link>https://www.srf.ch/news/schweiz/sonderkredit-beantragt-kleintheater-luzern-muss-trotz-finanzhilfe-um-zukunft-bangen</link>
+      <guid isPermaLink="false">urn:srf:article:01a1b014-178c-3eb7-56be-5bcad5364859</guid>
+      <description><![CDATA[Im geplanten Neubau wird ein Mehrfaches an Miete fällig. Am Einnahmekonzept will das Theater vorderhand aber festhalten.]]></description>
+      <pubDate>Sun, 08 Nov 2026 18:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Marmorbruch – Wenn Tessiner Marmor zum Designobjekt wird</title>
+      <link>https://www.srf.ch/news/schweiz/marmorbruch-wenn-tessiner-marmor-zum-designobjekt-wird</link>
+      <guid isPermaLink="false">urn:srf:article:01a135b5-74bb-280a-9da3-f5ff142273ff</guid>
+      <description><![CDATA[Der einzige Schweizer Marmorsteinbruch setzt auf Designobjekte: Damit sollen neue Märkte erobert werden.]]></description>
+      <pubDate>Sun, 08 Nov 2026 17:19:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik</title>
+      <link>https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html</link>
+      <guid isPermaLink="false">d22a64b1-c9e3-4681-912b-528b9f4739d4</guid>
+      <description><![CDATA[Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.]]></description>
+      <pubDate>Sun, 08 Nov 2026 17:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Schmuggel von Affen – Begehrt und gejagt: Das oft traurige Schicksal der Makaken</title>
+      <link>https://www.srf.ch/news/international/schmuggel-von-affen-begehrt-und-gejagt-das-oft-traurige-schicksal-der-makaken</link>
+      <guid isPermaLink="false">urn:srf:article:01a17d40-98ee-e4f3-c0f0-a4f158384f88</guid>
+      <description><![CDATA[Die Affenart ist für die medizinische Forschung heiss begehrt. Das führt zu Wilderei und einem lukrativen Schwarzmarkt.]]></description>
+      <pubDate>Sun, 08 Nov 2026 16:43:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden</title>
+      <link>https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden</link>
+      <guid isPermaLink="false">urn:srf:article:01a1b803-7dc5-500f-3143-4617bf4eabc0</guid>
+      <description><![CDATA[Ja, er will: SVP-Fraktionschef Thomas Aeschi kandidiert nun definitiv für die Nachfolge von Bundesrat Guy Parmelin.]]></description>
+      <pubDate>Sun, 08 Nov 2026 16:36:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich "gut vertreten"</title>
+      <link>https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html</link>
+      <guid isPermaLink="false">a712a4d2-d927-427a-9d85-b95ea9273bed</guid>
+      <description><![CDATA[Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Laut dem französischen Außenminister Barrot ist auch Europa vertreten: Frankreich werde an den Gesprächen mit den Russen teilnehmen.]]></description>
+      <pubDate>Sun, 08 Nov 2026 16:33:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] 700-jähriges Haus in Steinen – Hinter dieser Fassade steckt ein grosses Stück Mittelalter</title>
+      <link>https://www.srf.ch/news/schweiz/700-jaehriges-haus-in-steinen-hinter-dieser-fassade-steckt-ein-grosses-stueck-mittelalter</link>
+      <guid isPermaLink="false">urn:srf:article:01a19b9d-4b03-a534-9bc5-d08f18a4301f</guid>
+      <description><![CDATA[Der «Adler» ist für die Bauforschung beinahe wie ein Lotto-Sechser. Unter anderem wegen eines besonderen Lochs im Boden.]]></description>
+      <pubDate>Sun, 08 Nov 2026 16:29:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Gadenlandschaften – Leben statt Leerstand: Neue Ideen für alte Glarner Scheunen</title>
+      <link>https://www.srf.ch/news/schweiz/gadenlandschaften-leben-statt-leerstand-neue-ideen-fuer-alte-glarner-scheunen</link>
+      <guid isPermaLink="false">urn:srf:article:01a18be0-c347-795c-04bd-b812aac2e3ea</guid>
+      <description><![CDATA[Im Kanton Glarus stehen 800 ungenutzte Gaden. Ein Projekt möchte, dass Neues darin entsteht. 90 Vorschläge gingen ein.]]></description>
+      <pubDate>Sun, 08 Nov 2026 16:11:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Kratzer am Lack Saudi-Arabiens – Huthi greifen Wolkenkratzer in Riad an – das steckt dahinter</title>
+      <link>https://www.srf.ch/news/international/kratzer-am-lack-saudi-arabiens-huthi-greifen-wolkenkratzer-in-riad-an-das-steckt-dahinter</link>
+      <guid isPermaLink="false">urn:srf:article:01a1bbb2-32cc-da7f-4bd1-015a99693068</guid>
+      <description><![CDATA[Mit dem Angriff auf den Aramco-Tower bröckelt nun auch  das Image Saudi-Arabiens als sicherer Ort für Geschäfte.]]></description>
+      <pubDate>Sun, 08 Nov 2026 15:54:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Sicherheitsempfinden im Wandel – Eine Ausstellung zur Kunst, Risiko zu leben</title>
+      <link>https://www.srf.ch/news/schweiz/sicherheitsempfinden-im-wandel-eine-ausstellung-zur-kunst-risiko-zu-leben</link>
+      <guid isPermaLink="false">urn:srf:article:01a1b038-16bb-a2ea-7f8b-13a72c9e8b45</guid>
+      <description><![CDATA[Das Stapferhaus Lenzburg befasst sich mit der Beziehung zwischen Sicherheit und Risiko. Ein Experte ordnet ein.]]></description>
+      <pubDate>Sun, 08 Nov 2026 15:49:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Mehrere Waggons entgleist – Zugunglück in Ägypten fordert sieben Tote und über 100 Verletzte</title>
+      <link>https://www.srf.ch/news/international/mehrere-waggons-entgleist-zugunglueck-in-aegypten-fordert-sieben-tote-und-ueber-100-verletzte</link>
+      <guid isPermaLink="false">urn:srf:article:01a1bbbf-b4bc-6ace-18e4-11188153e29d</guid>
+      <description><![CDATA[Bei der Entgleisung südlich von Kairo kamen mehrere Menschen ums Leben. Der Unfall erinnert an das Unglück in Spanien.]]></description>
+      <pubDate>Sun, 08 Nov 2026 15:39:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Klimatische Veränderung – Der letzte Gletscher in den Allgäuer Hochalpen ist keiner mehr</title>
+      <link>https://www.srf.ch/news/international/klimatische-veraenderung-der-letzte-gletscher-in-den-allgaeuer-hochalpen-ist-keiner-mehr</link>
+      <guid isPermaLink="false">urn:srf:article:01a1bb58-0b5a-2fae-1d05-f9ebba46cb27</guid>
+      <description><![CDATA[Verschwindende Alpengletscher: Nun hat auch ein Gletscher in den Allgäuer Alpen den Status Gletscher verloren.]]></description>
+      <pubDate>Sun, 08 Nov 2026 15:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Viele Gebäude weiterhin ohne Elementarschadenversicherung</title>
+      <link>https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html</link>
+      <guid isPermaLink="false">558b7dcb-586c-4dfd-b719-ef169f9407f5</guid>
+      <description><![CDATA[Immer häufiger führen Starkregen und Überschwemmungen zu teuren Schäden an Häusern. Nur gut die Hälfte der Gebäude in Deutschland sind gegen solche Folgen abgesichert. Experten sehen Handlungsbedarf. Von Katharina Wilhelm.]]></description>
+      <pubDate>Sun, 08 Nov 2026 15:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Deutschlandflagge ausgetauscht – Aktivisten hissen Palästinaflagge vor Reichstag in Berlin</title>
+      <link>https://www.srf.ch/news/international/deutschlandflagge-ausgetauscht-aktivisten-hissen-palaestinaflagge-vor-reichstag-in-berlin</link>
+      <guid isPermaLink="false">urn:srf:article:01a1bb64-7b06-93e9-237d-0c55f38172f9</guid>
+      <description><![CDATA[Ein Aktivist ersetzt vor dem Reichstagsgebäude die Deutschlandfahne mit jener Palästinas. Drei Männer wurden verhaftet.]]></description>
+      <pubDate>Sun, 08 Nov 2026 14:26:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Ein Leben für den Üetliberg – Der Zürcher Hausberg verliert mit Margrith Gysel seine Wächterin</title>
+      <link>https://www.srf.ch/news/schweiz/ein-leben-fuer-den-ueetliberg-der-zuercher-hausberg-verliert-mit-margrith-gysel-seine-waechterin</link>
+      <guid isPermaLink="false">urn:srf:article:01a1a578-205a-ec6f-529a-2678e28c60e5</guid>
+      <description><![CDATA[22 Jahre kämpfte Margrith Gysel für den Schutz des Zürcher Hausbergs. Nun tritt die Präsidentin von Pro Üetliberg ab.]]></description>
+      <pubDate>Sun, 08 Nov 2026 13:33:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Von Natur aus fast unsterblich – Das Geheimnis eines langen Lebens</title>
+      <link>https://www.srf.ch/news/dialog/von-natur-aus-fast-unsterblich-das-geheimnis-eines-langen-lebens</link>
+      <guid isPermaLink="false">urn:srf:article:01a1a655-2c7c-a527-3104-4f65c3763705</guid>
+      <description><![CDATA[Manche Tiere trotzen dem Alter. Ihre besonderen Mechanismen liefern wichtige Erkenntnisse für die Altersforschung.]]></description>
+      <pubDate>Sun, 08 Nov 2026 12:52:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Ausgezeichnete Forschung – Die Erde ist ebenso Kugel wie Scheibe – aber kein Donut</title>
+      <link>https://www.srf.ch/wissen/forschung/ausgezeichnete-forschung-die-erde-ist-ebenso-kugel-wie-scheibe-aber-kein-donut</link>
+      <guid isPermaLink="false">urn:srf:article:01a1ac22-7827-586e-2585-6f139705130f</guid>
+      <description><![CDATA[Die Mathematikerin Susanna Zimmermann gewinnt den renommierten Schweizer Latsis-Preis 2026.]]></description>
+      <pubDate>Sun, 08 Nov 2026 12:16:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom</title>
+      <link>https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html</link>
+      <guid isPermaLink="false">2a8b646f-9887-4f0e-bd3c-a5b2fa6e4832</guid>
+      <description><![CDATA[Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden.]]></description>
+      <pubDate>Sun, 08 Nov 2026 12:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Laudatio vom Bundesrat – «Prix Suisse» für ETH-Professor und Ex-Nasa-Direktor Zurbuchen</title>
+      <link>https://www.srf.ch/news/schweiz/laudatio-vom-bundesrat-prix-suisse-fuer-eth-professor-und-ex-nasa-direktor-zurbuchen</link>
+      <guid isPermaLink="false">urn:srf:article:01a1bae2-79db-e265-14fa-fe501731501d</guid>
+      <description><![CDATA[Der Award ehrt jährlich eine herausragende Persönlichkeit aus Wirtschaft, Wissenschaft, Sport oder Kultur.]]></description>
+      <pubDate>Sun, 08 Nov 2026 11:38:03 GMT</pubDate>
     </item>
     <item>
       <title>[Tagesschau Europa] Leiharbeiter: Nordkoreas Geldquelle in Russland</title>
@@ -48,13 +195,6 @@
       <guid isPermaLink="false">urn:srf:article:01a1ba6e-56a3-78e4-14f1-31bea0e0d46b</guid>
       <description><![CDATA[Die Versammlungen verliefen mehrheitlich friedlich – nach den Protesten kam es in mehreren Städten zu Ausschreitungen.]]></description>
       <pubDate>Sun, 08 Nov 2026 09:36:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Wahlen Kanton Freiburg – Welche Partei holt die meisten Sitze im Freiburger Parlament?</title>
-      <link>https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-welche-partei-holt-die-meisten-sitze-im-freiburger-parlament</link>
-      <guid isPermaLink="false">urn:srf:article:01a1aa92-8fca-9039-ec5c-f6d4e32b5754</guid>
-      <description><![CDATA[Das Freiburger Stimmvolk wählt das Kantonsparlament neu. Die Ausgangslage.]]></description>
-      <pubDate>Sun, 08 Nov 2026 09:09:07 GMT</pubDate>
     </item>
     <item>
       <title>[20 Min Romandie] «Die Grundstückshärte treibt diese Mieter zum Auszug»</title>
@@ -85,6 +225,13 @@
       <pubDate>Sun, 08 Nov 2026 08:22:52 GMT</pubDate>
     </item>
     <item>
+      <title>[Journal de Morges] Wo sind die Pilze geblieben?</title>
+      <link>https://journaldemorges.ch/actualite/terroir/mais-ou-sont-passes-les-champignons/</link>
+      <guid isPermaLink="false">https://journaldemorges.ch/actualite/terroir/mais-ou-sont-passes-les-champignons/</guid>
+      <description><![CDATA[Nach einem von Dürre geprägten Sommer ist die Pilzsaison durcheinandergeraten. Die Ernten in den lokalen Wäldern fallen besonders mager aus.]]></description>
+      <pubDate>Sun, 08 Nov 2026 08:00:30 GMT</pubDate>
+    </item>
+    <item>
       <title>[Tagesschau Wirtschaft] Wie der Aktienkauf rund um die Uhr funktionieren soll</title>
       <link>https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html</link>
       <guid isPermaLink="false">21b8e0d5-f2d4-459e-885b-3199f9ed061b</guid>
@@ -111,125 +258,6 @@
       <guid isPermaLink="false">urn:srf:article:01a0fc8e-f1cc-933b-28fb-947b891239b4</guid>
       <description><![CDATA[Die «Rollers Minigolf Bar» expandiert nach Basel. Standorte gibt es bereits in Genf, Lausanne und Bern.]]></description>
       <pubDate>Sun, 08 Nov 2026 06:59:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden</title>
-      <link>https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden</link>
-      <guid isPermaLink="false">urn:srf:article:01a1b803-7dc5-500f-3143-4617bf4eabc0</guid>
-      <description><![CDATA[Ja, er will: SVP-Fraktionschef Thomas Aeschi kandidiert nun definitiv für die Nachfolge von Bundesrat Guy Parmelin.]]></description>
-      <pubDate>Sun, 08 Nov 2026 00:26:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Biodiversität und Klimaschutz – Indien kämpft mit künstlichen Korallenriffen gegen Insel-Erosion</title>
-      <link>https://www.srf.ch/news/international/biodiversitaet-und-klimaschutz-indien-kaempft-mit-kuenstlichen-korallenriffen-gegen-insel-erosion</link>
-      <guid isPermaLink="false">urn:srf:article:01a1a05c-79b7-0ba5-99c5-a3ce45e7f9bd</guid>
-      <description><![CDATA[Künstliche Riffe, angesiedelte Korallen und renaturiertes Seegras sollen Inseln vor dem Meer retten.]]></description>
-      <pubDate>Sat, 07 Nov 2026 20:38:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Neuer Chief of Staff in USA – Stabschef Stephen Miller: Ein Hardliner der Superlative</title>
-      <link>https://www.srf.ch/news/international/neuer-chief-of-staff-in-usa-stabschef-stephen-miller-ein-hardliner-der-superlative</link>
-      <guid isPermaLink="false">urn:srf:article:01a1b538-f6ae-a095-904a-a0f48a3929a5</guid>
-      <description><![CDATA[Der US-Präsident zieht nach den Midterms erste personelle Konsequenzen. Ein Versuch, Macht und Stärke zu demonstrieren.]]></description>
-      <pubDate>Sat, 07 Nov 2026 20:03:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Economiesuisse-Präsident – «Es tut weh, wenn sehr gut ausgebildete Junge keinen Job finden»</title>
-      <link>https://www.srf.ch/news/schweiz/economiesuisse-praesident-es-tut-weh-wenn-sehr-gut-ausgebildete-junge-keinen-job-finden</link>
-      <guid isPermaLink="false">urn:srf:article:01a1b1e5-57a0-4bba-1028-b4fb4944c4a9</guid>
-      <description><![CDATA[Die Wirtschaft müsse Uni-Abgängern ein Angebot machen, findet der neue Economiesuisse-Präsident Silvan Wildhaber.]]></description>
-      <pubDate>Sat, 07 Nov 2026 19:57:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wirtschaft] Klinische Studien – Pharma: Streit um Ethikkommissionen bremst Forschung</title>
-      <link>https://www.srf.ch/news/wirtschaft/klinische-studien-pharma-streit-um-ethikkommissionen-bremst-forschung</link>
-      <guid isPermaLink="false">urn:srf:article:01a13e84-23ba-b26f-f323-d20012940d67</guid>
-      <description><![CDATA[Die Pharmaverbände lobbyieren für mehr Tempo bei klinischen Studien. Darum geht es.]]></description>
-      <pubDate>Sat, 07 Nov 2026 17:52:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Brotkäfer im Museum – Schädling zwingt Genf zu Millionenaktion</title>
-      <link>https://www.srf.ch/news/dialog/brotkaefer-im-museum-schaedling-zwingt-genf-zu-millionenaktion</link>
-      <guid isPermaLink="false">urn:srf:article:01a1ab06-cce0-d5c6-6664-9b3fb45a3827</guid>
-      <description><![CDATA[Im Naturhistorischen Museum Genf hat sich der Brotkäfer eingenistet. Nun läuft eine aufwendige Rettungsaktion.]]></description>
-      <pubDate>Sat, 07 Nov 2026 17:45:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Genf möchte eine dritte Spur auf der A1 testen</title>
-      <link>https://www.20min.ch/fr/story/le-vengeron-coppet-geneve-veut-tester-une-troisieme-voie-sur-l-a1-103663677</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/le-vengeron-coppet-geneve-veut-tester-une-troisieme-voie-sur-l-a1-103663677</guid>
-      <description><![CDATA[Die rechte Mehrheit des Genfer Grossen Rates möchte den Pannenstreifen zwischen Le Vengeron und Coppet öffnen.]]></description>
-      <pubDate>Sat, 07 Nov 2026 17:06:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Technologie und Innovation – China ist zum Experimentierfeld für KI und Robotik geworden</title>
-      <link>https://www.srf.ch/news/dialog/technologie-und-innovation-china-ist-zum-experimentierfeld-fuer-ki-und-robotik-geworden</link>
-      <guid isPermaLink="false">urn:srf:article:01a19c2d-3f53-f8e4-0cc2-42425ea62915</guid>
-      <description><![CDATA[China ist heute mehr als die Werkbank von Billigprodukten. Bei der Automatisierung des täglichen Lebens ist es führend.]]></description>
-      <pubDate>Sat, 07 Nov 2026 16:58:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Wissen] Jagen ist auch Frauensache – Bei Bonobos jagen öfter die Weibchen</title>
-      <link>https://www.srf.ch/wissen/natur-tiere/jagen-ist-auch-frauensache-bei-bonobos-jagen-oefter-die-weibchen</link>
-      <guid isPermaLink="false">urn:srf:article:01a1b03f-67bd-a62c-d5de-850a8b1f1b23</guid>
-      <description><![CDATA[Bonobo-Weibchen jagen öfter als Männchen. Das erstaunt, da die Jagd bei Menschenaffen als männliche Tätigkeit galt.]]></description>
-      <pubDate>Sat, 07 Nov 2026 16:06:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Jugendsession 2026 – Europas Jugend ist wütend – und in der Schweiz?</title>
-      <link>https://www.srf.ch/news/schweiz/jugendsession-2026-europas-jugend-ist-wuetend-und-in-der-schweiz</link>
-      <guid isPermaLink="false">urn:srf:article:01a1b22d-5e47-bfe8-82ce-a2603797d1ad</guid>
-      <description><![CDATA[Europas Jugendliche protestieren. An der Jugendsession in Bern verstehen das viele nur bedingt und sorgen sich trotzdem.]]></description>
-      <pubDate>Sat, 07 Nov 2026 16:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Millionen junge Menschen ohne Berufsausbildung in Deutschland</title>
-      <link>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/junge-menschen-keine-berufsausbildung-100.html</link>
-      <guid isPermaLink="false">d166fd77-59eb-436a-bbf5-905e00e95ef1</guid>
-      <description><![CDATA[Die Zahl junger Erwachsener ohne Berufsabschluss ist alarmierend. Sie haben schlechtere Chancen am Jobmarkt und verdienen weniger. Zugleich suchen viele Unternehmen Fachkräfte. Von Nicole Würth.]]></description>
-      <pubDate>Sat, 07 Nov 2026 15:59:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Teure Spitzenmedizin – Krebserkrankungen durch das Medikament Zolgensma?</title>
-      <link>https://www.srf.ch/news/international/teure-spitzenmedizin-krebserkrankungen-durch-das-medikament-zolgensma</link>
-      <guid isPermaLink="false">urn:srf:article:01a1b640-8081-7bb6-cd4b-8f0780541e59</guid>
-      <description><![CDATA[Die US-Arzneimittelbehörde untersucht, ob das teure Medikament für Kinder bösartige Tumore verursacht.]]></description>
-      <pubDate>Sat, 07 Nov 2026 15:39:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Grosse Solidaritätswelle zur Unterstützung von Pferdezüchtern</title>
-      <link>https://www.20min.ch/fr/story/cortebert-be-bel-elan-de-solidarite-pour-aider-les-eleveurs-de-chevaux-103663635</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/cortebert-be-bel-elan-de-solidarite-pour-aider-les-eleveurs-de-chevaux-103663635</guid>
-      <description><![CDATA[Etwa vierzig Tiere eines Bauernhofs wurden vergiftet. Vierzehn sind gestorben. Die Spendenaktion zur Unterstützung der Züchter hat bereits Zehntausende von Franken eingebracht.]]></description>
-      <pubDate>Sat, 07 Nov 2026 15:14:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Schweizer Milchindustrie – Cremo in der Krise – ein Problem für die ganze Milchbranche</title>
-      <link>https://www.srf.ch/news/schweiz/schweizer-milchindustrie-cremo-in-der-krise-ein-problem-fuer-die-ganze-milchbranche</link>
-      <guid isPermaLink="false">urn:srf:article:01a1ac75-d84c-d14d-f56f-cae4754760b9</guid>
-      <description><![CDATA[Der zweitgrösste Schweizer Milchverarbeiter steckt tief in den roten Zahlen. Das hat Folgen für die ganze Branche.]]></description>
-      <pubDate>Sat, 07 Nov 2026 14:27:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Zweite Wahl innert kurzer Zeit – Nach vier Monaten – Thuner Bevölkerung wählt bereits wieder</title>
-      <link>https://www.srf.ch/news/schweiz/zweite-wahl-innert-kurzer-zeit-nach-vier-monaten-thuner-bevoelkerung-waehlt-bereits-wieder</link>
-      <guid isPermaLink="false">urn:srf:article:01a1aadd-6775-d9a7-527e-89888f72ab33</guid>
-      <description><![CDATA[Im November wählt die Stadt Thun Regierung und Parlament neu. Es ist der zweite Urnengang innert vier Monaten.]]></description>
-      <pubDate>Sat, 07 Nov 2026 12:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Uri erhält erste Kunsteisbahn – Da war ein Hockeyclub, aber weit und breit kein Eis</title>
-      <link>https://www.srf.ch/news/schweiz/uri-erhaelt-erste-kunsteisbahn-da-war-ein-hockeyclub-aber-weit-und-breit-kein-eis</link>
-      <guid isPermaLink="false">urn:srf:article:01a18c33-43c6-b1e4-6ded-c3355302101d</guid>
-      <description><![CDATA[Der EHC Uri besteht seit 13 Jahren. Spielen musste er bislang stets ausserkantonal. Ein eigenes Eisfeld ändert dies nun.]]></description>
-      <pubDate>Sat, 07 Nov 2026 12:53:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Die Trockenheit beeinträchtigt sogar die Trüffel</title>
-      <link>https://journaldemorges.ch/actualite/terroir/la-secheresse-impacte-meme-les-truffes/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/terroir/la-secheresse-impacte-meme-les-truffes/</guid>
-      <description><![CDATA[In der Trüffelplantage von Alain und Valérie Salzmann in Bavois hat der Wassermangel die Sommerernte gestoppt. Nach einem ergiebigen Jahr 2025 setzt der Produzent auf die Rückkehr des Regens, um das Ende der Saison zu retten.]]></description>
-      <pubDate>Sat, 07 Nov 2026 12:00:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
