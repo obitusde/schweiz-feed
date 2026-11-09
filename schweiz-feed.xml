@@ -5,14 +5,161 @@
     <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:58:39 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[SRF Wirtschaft] Tückische Affäre – Liebschaft von Nvidia-Chef Huang unter Spionageverdacht</title>
-      <link>https://www.srf.ch/news/international/tueckische-affaere-liebschaft-von-nvidia-chef-huang-unter-spionageverdacht</link>
+      <title>[SRF Wirtschaft] Essenslieferung – Just Eat streicht in der Schweiz 373 Stellen</title>
+      <link>https://www.srf.ch/news/wirtschaft/essenslieferung-just-eat-streicht-in-der-schweiz-373-stellen</link>
+      <guid isPermaLink="false">urn:srf:article:01a1bff2-3ca9-409e-6762-467910691c31</guid>
+      <description><![CDATA[Das Unternehmen will nach eigenen Angaben künftig flexibler liefern und das bisherige Schichtmodell aufgeben.]]></description>
+      <pubDate>Mon, 09 Nov 2026 11:35:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] Das Musée Jenisch in Vevey zeichnet die Geschichte von Jean Planque und seinen 300 Meisterwerken nach</title>
+      <link>https://www.rts.ch/info/culture/arts-visuels/2026/article/collection-jean-planque-300-chefs-d-uvre-exposes-a-vevey-29406581.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29406581</guid>
+      <description><![CDATA[Bis zum 18. April 2027 präsentiert das Musée Jenisch 300 Werke, darunter Gemälde von Picasso, Cézanne und Degas. Die Institution aus Vevey konnte r]]></description>
+      <pubDate>Mon, 09 Nov 2026 11:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Streiks und neue Gespräche in Bayerns Metall- und Elektroindustrie</title>
+      <link>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/streiks-tarifgespraeche-ig-metall-100.html</link>
+      <guid isPermaLink="false">e22704d5-69b9-42eb-bb11-71d984bad0c3</guid>
+      <description><![CDATA[Zum Start der dritten Verhandlungsrunde hat die IG Metall zu einer großen Warnstreik-Kundgebung in Ingolstadt aufgerufen. Erwartet wurden mehr als 15.000 Beschäftigte, unter anderem von Audi und Airbus.]]></description>
+      <pubDate>Mon, 09 Nov 2026 10:52:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Migration übers Mittelmeer – Mindestens 20 tote Migranten bei Bootsunglücken vor Kreta</title>
+      <link>https://www.srf.ch/news/schweiz/migration-uebers-mittelmeer-mindestens-20-tote-migranten-bei-bootsungluecken-vor-kreta</link>
+      <guid isPermaLink="false">urn:srf:article:01a1bfa0-de87-d6de-3db2-ded0177f6027</guid>
+      <description><![CDATA[Bei vier Unglücken konnten 133 Menschen gerettet werden, mindestens zwei gelten noch als vermisst.]]></description>
+      <pubDate>Mon, 09 Nov 2026 10:26:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Gremium in der Schweiz – Armutserfahrene beraten neu den Bund – fünf Fakten über Armut</title>
+      <link>https://www.srf.ch/news/schweiz/gremium-in-der-schweiz-armutserfahrene-beraten-neu-den-bund-fuenf-fakten-ueber-armut</link>
+      <guid isPermaLink="false">urn:srf:article:01a1afdf-2386-02cd-b9db-111caebca12a</guid>
+      <description><![CDATA[Der neue Rat für Armutsfragen soll die politische Teilhabe von Armutserfahrenen stärken. Fünf Fakten über Armut.]]></description>
+      <pubDate>Mon, 09 Nov 2026 10:18:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Ein neuer Direktor an der Polizeiakademie von Savatan ernannt</title>
+      <link>https://www.20min.ch/fr/story/suisse-romande-un-nouveau-directeur-nomme-a-l-academie-de-police-de-savatan-103664589</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/suisse-romande-un-nouveau-directeur-nomme-a-l-academie-de-police-de-savatan-103664589</guid>
+      <description><![CDATA[Als aktueller Ausbildungsverantwortlicher der Waadtländer Kantonspolizei wird Hauptmann Steve Demierre die Ausbildung der jungen Polizisten ab 2027 übernehmen.]]></description>
+      <pubDate>Mon, 09 Nov 2026 10:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] G7-Außenminister sprechen über Ukraine und Iran</title>
+      <link>https://www.tagesschau.de/ausland/europa/g7-paris-100.html</link>
+      <guid isPermaLink="false">8bcd9641-0538-4a00-b139-f3bd50374903</guid>
+      <description><![CDATA[Welche Rolle spielt Europa bei der Lösung des Ukraine-Kriegs? Wie geht es mit Iran weiter? Diese Fragen stehen im Zentrum der G7-Gespräche in Paris. Außenminister Wadephul mahnt Washington und Moskau.]]></description>
+      <pubDate>Mon, 09 Nov 2026 10:05:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Marktbericht: Anleger nach KI-Crash weiter verunsichert</title>
+      <link>https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html</link>
+      <guid isPermaLink="false">4a64ec5e-2957-4f0c-8136-a01923cf1f85</guid>
+      <description><![CDATA[Der DAX macht zwar einen Teil der Kursverluste vom Freitag wieder wett, aber noch scheuen die Investoren das Risiko. Unterstützung kommt von Konjunkturseite, die Exporte fallen unerwartet stark aus.]]></description>
+      <pubDate>Mon, 09 Nov 2026 09:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Rentner haben bis zu 100.000 Franken zu viel Miete bezahlt</title>
+      <link>https://www.20min.ch/fr/story/thonex-ge-des-retraites-ont-paye-jusqu-a-100-000-francs-de-loyer-en-trop-103664525</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/thonex-ge-des-retraites-ont-paye-jusqu-a-100-000-francs-de-loyer-en-trop-103664525</guid>
+      <description><![CDATA[Der Kanton Genf hat eine private Residenz angewiesen, vier Senioren das Geld zurückzuzahlen. Die Einrichtung ficht die Entscheidung an.]]></description>
+      <pubDate>Mon, 09 Nov 2026 09:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Bundesratswahl – Parmelin-Nachfolge: Ein Tessiner als Ersatz für einen Romand?</title>
+      <link>https://www.srf.ch/news/schweiz/bundesratswahl-parmelin-nachfolge-ein-tessiner-als-ersatz-fuer-einen-romand</link>
+      <guid isPermaLink="false">urn:srf:article:01a1b20e-a132-c8b9-c86f-cfeca70a3ff1</guid>
+      <description><![CDATA[Stimmen aus der Romandie werden laut, der Sitz müsse in Westschweizer Hand bleiben.]]></description>
+      <pubDate>Mon, 09 Nov 2026 08:58:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RTS Vaud] In Gryon entscheidet sich die Zukunft des Plateaus von Frience am 29. November an der Urne</title>
+      <link>https://www.rts.ch/info/regions/vaud/2026/article/plateau-de-frience-l-avenir-du-site-aux-urnes-le-29-novembre-29409922.html?rts_source=rss_t</link>
+      <guid isPermaLink="false">29409922</guid>
+      <description><![CDATA[Das Plateau von Frience, eine wahre Oase der Ruhe, die im Sommer wie im Winter bei Familien und Spaziergängern beliebt ist, steht im Zentrum einer lebhaften Gemeinde-Debatte.]]></description>
+      <pubDate>Mon, 09 Nov 2026 08:54:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Spionagefall bei Nvidia – Huangs Nähe zu Trump ist für China hochinteressant</title>
+      <link>https://www.srf.ch/news/international/spionagefall-bei-nvidia-huangs-naehe-zu-trump-ist-fuer-china-hochinteressant</link>
+      <guid isPermaLink="false">urn:srf:article:01a1bedf-0b71-4cb3-d790-fab5b1cb8290</guid>
+      <description><![CDATA[SRF-Ostasien-Korrespondent Samuel Emch sagt, was Nvidia für die chinesische Regierung spannend macht.]]></description>
+      <pubDate>Mon, 09 Nov 2026 08:53:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Hoffen auf Ende des Iran-Krieges: Ölpreise deutlich gesunken</title>
+      <link>https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html</link>
+      <guid isPermaLink="false">868c8306-fb31-4290-8e5d-9e0f9470886b</guid>
+      <description><![CDATA[Noch ist kein Abkommen unterzeichnet - doch Anleger glauben an ein Ende des US-Iran-Krieges. Das zeigt sich an den Ölpreisen. Und auch an der Tankstelle sinken die Spritpreise weiter.]]></description>
+      <pubDate>Mon, 09 Nov 2026 08:52:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wirtschaft] Tückische Liebschaft – Nvidia-Chef hatte Affäre mit möglicher chinesischer Spionin</title>
+      <link>https://www.srf.ch/news/international/tueckische-liebschaft-nvidia-chef-hatte-affaere-mit-moeglicher-chinesischer-spionin</link>
       <guid isPermaLink="false">urn:srf:article:01a1bcdb-69e6-4464-844d-8fe6f1bb95b3</guid>
       <description><![CDATA[Chef Jensen Huang hatte eine Affäre. US-Behörden vermuten, dass die Frau vom chinesischen Geheimdienst angeworben wurde.]]></description>
-      <pubDate>Mon, 09 Nov 2026 05:22:19 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 08:50:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Polen – Tödlicher Angriff in Krakau – Schütze ist tot</title>
+      <link>https://www.srf.ch/news/international/polen-toedlicher-angriff-in-krakau-schuetze-ist-tot</link>
+      <guid isPermaLink="false">urn:srf:article:01a1b68e-125b-e40d-d2d0-aa1181ed6157</guid>
+      <description><![CDATA[Nach den Schüssen im polnischen Krakau geht die Polizei von einem Einzeltäter aus. Er ist seinen Verletzungen erlegen.]]></description>
+      <pubDate>Mon, 09 Nov 2026 08:46:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Q&amp;A Frühdemenz – «Ab welchem Alter muss man überhaupt an das Thema Demenz denken?»</title>
+      <link>https://www.srf.ch/wissen/wissens-chats/q-a-fruehdemenz-ab-welchem-alter-muss-man-ueberhaupt-an-das-thema-demenz-denken</link>
+      <guid isPermaLink="false">urn:srf:article:01a18d15-f1b2-c460-abd9-16bd56a94e0a</guid>
+      <description><![CDATA[Cristina De Biasio Marinello, Ansgar Felbecker, Isabell Greeve und Agnès Henry haben Ihre Fragen beantwortet.]]></description>
+      <pubDate>Mon, 09 Nov 2026 08:34:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Mann über Bord – Kreuzfahrtschiff-Pianist nach 9 Stunden im Wasser gerettet</title>
+      <link>https://www.srf.ch/news/international/mann-ueber-bord-kreuzfahrtschiff-pianist-nach-9-stunden-im-wasser-gerettet</link>
+      <guid isPermaLink="false">urn:srf:article:01a1bf54-57b0-ba0b-94e6-e209f5a04ab9</guid>
+      <description><![CDATA[Weshalb der Pianist vor der kalifornischen Küste über Bord fiel, ist unklar.]]></description>
+      <pubDate>Mon, 09 Nov 2026 08:31:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[20 Min Romandie] Im Kanton Waadt gekaufte Waffen dienen dem Drogenhandel</title>
+      <link>https://www.20min.ch/fr/story/criminalite-des-armes-achetees-dans-le-canton-de-vaud-servent-le-narcotrafic-103664494</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/story/criminalite-des-armes-achetees-dans-le-canton-de-vaud-servent-le-narcotrafic-103664494</guid>
+      <description><![CDATA[Zwei Männer wurden während einer Untersuchung über einen französisch-schweizerischen Waffenhandel im Kanton festgenommen. Mehr als 200 Waffen und Teile wurden beschlagnahmt.]]></description>
+      <pubDate>Mon, 09 Nov 2026 08:22:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Wissen] Q&amp;A Fragen und Antworten – Chat zum Thema «Tinnitus»</title>
+      <link>https://www.srf.ch/wissen/wissens-chats/q-a-fragen-und-antworten-chat-zum-thema-tinnitus</link>
+      <guid isPermaLink="false">urn:srf:article:01a1a733-11a5-219e-01c4-b6200a5a24a9</guid>
+      <description><![CDATA[Die Fachrunde beantwortet von 21:00 bis 23:00 Ihre Fragen im Chat zur «Puls»-Sendung. Schreiben Sie uns schon jetzt!]]></description>
+      <pubDate>Mon, 09 Nov 2026 08:14:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Europa] Wie steht es um den Klimaschutz im Gastgeberland Türkei?</title>
+      <link>https://www.tagesschau.de/ausland/europa/cop-gastgeber-turkei-100.html</link>
+      <guid isPermaLink="false">853df610-f158-46e1-836d-1031e48e643d</guid>
+      <description><![CDATA[Den Anteil elektrischer Energie bis 2035 weltweit auf 35 Prozent erhöhen - mit diesem Vorschlag geht Gastgeberin Türkei in die Klimakonferenz. Das Land selbst setzt aber noch immer vor allem auf Kohle. Von Benjamin Weber.]]></description>
+      <pubDate>Mon, 09 Nov 2026 08:05:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Feuerwerksinitiative – So entwickelte sich die Feuerwerks-Tradition in der Schweiz</title>
+      <link>https://www.srf.ch/news/feuerwerksinitiative-so-entwickelte-sich-die-feuerwerks-tradition-in-der-schweiz</link>
+      <guid isPermaLink="false">urn:srf:article:01a1a20d-b1ad-edbb-d867-bcaeaf9f28e3</guid>
+      <description><![CDATA[Erstmals wurde Feuerwerk hierzulande im späten Mittelalter gezündet. Privates Feuerwerk etablierte sich deutlich später.]]></description>
+      <pubDate>Mon, 09 Nov 2026 07:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Neue Methode – Bern testet neue Rattenfallen – Bolzen statt Gift</title>
+      <link>https://www.srf.ch/news/schweiz/neue-methode-bern-testet-neue-rattenfallen-bolzen-statt-gift</link>
+      <guid isPermaLink="false">urn:srf:article:01a1b030-274c-c992-9b72-6e3b507c706e</guid>
+      <description><![CDATA[Seit einem Jahr setzt die Stadt Bern im Kampf gegen Ratten auf Tötungs-Apparate. Tierschützer halten davon wenig.]]></description>
+      <pubDate>Mon, 09 Nov 2026 06:02:55 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Wissen] Internationale Klimadiplomatie – Was ist zu erwarten von der Klimakonferenz in Antalya?</title>
@@ -22,11 +169,11 @@
       <pubDate>Mon, 09 Nov 2026 05:15:16 GMT</pubDate>
     </item>
     <item>
-      <title>[SRF Ausland] Polen – Schüsse in Krakau – Justiz ermittelt wegen Terrorismus</title>
-      <link>https://www.srf.ch/news/international/polen-schuesse-in-krakau-justiz-ermittelt-wegen-terrorismus</link>
-      <guid isPermaLink="false">urn:srf:article:01a1b68e-125b-e40d-d2d0-aa1181ed6157</guid>
-      <description><![CDATA[Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.]]></description>
-      <pubDate>Mon, 09 Nov 2026 02:37:22 GMT</pubDate>
+      <title>[Tagesschau Wirtschaft] Unionsfraktionschef erteilt Plastiksteuer eine Absage</title>
+      <link>https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html</link>
+      <guid isPermaLink="false">17b93375-0089-4500-9b4f-c07a7a65e84c</guid>
+      <description><![CDATA[Unionsfraktionschef Frei erteilt der geplanten Plastiksteuer eine Absage. Sie sei "wirtschaftlich und ökologisch falsch". Anders klingt das bei SPD-Fraktionschef Miersch, der auf laufende Verhandlungen verweist.]]></description>
+      <pubDate>Sun, 08 Nov 2026 20:38:04 GMT</pubDate>
     </item>
     <item>
       <title>[SRF Schweiz] Essenslieferant – Zürcher Just-Eat-Kuriere legen ihre Arbeit nieder</title>
@@ -167,97 +314,6 @@
       <guid isPermaLink="false">2a8b646f-9887-4f0e-bd3c-a5b2fa6e4832</guid>
       <description><![CDATA[Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden.]]></description>
       <pubDate>Sun, 08 Nov 2026 12:05:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Laudatio vom Bundesrat – «Prix Suisse» für ETH-Professor und Ex-Nasa-Direktor Zurbuchen</title>
-      <link>https://www.srf.ch/news/schweiz/laudatio-vom-bundesrat-prix-suisse-fuer-eth-professor-und-ex-nasa-direktor-zurbuchen</link>
-      <guid isPermaLink="false">urn:srf:article:01a1bae2-79db-e265-14fa-fe501731501d</guid>
-      <description><![CDATA[Der Award ehrt jährlich eine herausragende Persönlichkeit aus Wirtschaft, Wissenschaft, Sport oder Kultur.]]></description>
-      <pubDate>Sun, 08 Nov 2026 11:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Europa] Leiharbeiter: Nordkoreas Geldquelle in Russland</title>
-      <link>https://www.tagesschau.de/ausland/europa/russland-nordkorea-104.html</link>
-      <guid isPermaLink="false">3627488a-842c-4141-b487-b616d4fd82b8</guid>
-      <description><![CDATA[Nordkorea stellt nicht nur Soldaten für den Krieg gegen die Ukraine. In Russland sind auch Zehntausende Leiharbeiter tätig. Sie hoffen auf einen besseren Verdienst als in ihrer Heimat - erfüllt sich dieser Wunsch? Von Norbert Hahn.]]></description>
-      <pubDate>Sun, 08 Nov 2026 10:32:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Proteste in Frankreich – Kein Brutkasten für Gewalt: Tiktok ist besser als sein Ruf</title>
-      <link>https://www.srf.ch/news/dialog/proteste-in-frankreich-kein-brutkasten-fuer-gewalt-tiktok-ist-besser-als-sein-ruf</link>
-      <guid isPermaLink="false">urn:srf:article:01a1a618-d4cc-4d91-66a3-4dc2e17d39f2</guid>
-      <description><![CDATA[Soziale Netzwerke wie Tiktok heizten bei den Protesten in Europa die Gewalt an, heisst es oft. Eine Studie widerspricht.]]></description>
-      <pubDate>Sun, 08 Nov 2026 09:56:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Teilnahme rückläufig – Rund 150'000 demonstrierten in Frankreich</title>
-      <link>https://www.srf.ch/news/international/teilnahme-ruecklaeufig-rund-150-000-demonstrierten-in-frankreich</link>
-      <guid isPermaLink="false">urn:srf:article:01a1ba6e-56a3-78e4-14f1-31bea0e0d46b</guid>
-      <description><![CDATA[Die Versammlungen verliefen mehrheitlich friedlich – nach den Protesten kam es in mehreren Städten zu Ausschreitungen.]]></description>
-      <pubDate>Sun, 08 Nov 2026 09:36:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] «Die Grundstückshärte treibt diese Mieter zum Auszug»</title>
-      <link>https://www.20min.ch/fr/story/geneve-la-durete-fonciere-pousse-ces-locataires-vers-la-sortie-103658345</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-la-durete-fonciere-pousse-ces-locataires-vers-la-sortie-103658345</guid>
-      <description><![CDATA[Staatsrat Nicolas Walder erklärt, warum die Wartelisten für subventionierte Wohnungen nicht kürzer werden, und nennt Zahlen zur genauen Situation.]]></description>
-      <pubDate>Sun, 08 Nov 2026 08:55:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Regierungsbildung in Israel – Eisenkot darf regieren, wenn er seine Versprechen bricht</title>
-      <link>https://www.srf.ch/news/international/nahost/regierungsbildung-in-israel-eisenkot-darf-regieren-wenn-er-seine-versprechen-bricht</link>
-      <guid isPermaLink="false">urn:srf:article:01a1b98b-b43b-7c82-9834-4dda4c739815</guid>
-      <description><![CDATA[Israels Präsident hat Eisenkot mit der Regierungsbildung beauftragt. Ohne Kompromisse wird er kaum an die Macht kommen.]]></description>
-      <pubDate>Sun, 08 Nov 2026 08:42:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] «Mutter aller Strassen» – Route 66: Amerikas Strasse der Freiheit – und zerplatzter Träume</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/mutter-aller-strassen-route-66-amerikas-strasse-der-freiheit-und-zerplatzter-traeume</link>
-      <guid isPermaLink="false">urn:srf:article:01a1a706-a49e-a3a5-ccc6-dde3144a638d</guid>
-      <description><![CDATA[Die Route 66 verkörpert den Traum des Neuanfangs. Seit 100 Jahren führt sie Menschen nach Westen.]]></description>
-      <pubDate>Sun, 08 Nov 2026 08:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Lehren aus den US-Midterms – Mehr als eine Abrechnung mit Trump</title>
-      <link>https://www.srf.ch/news/international/usa/lehren-aus-den-us-midterms-mehr-als-eine-abrechnung-mit-trump</link>
-      <guid isPermaLink="false">urn:srf:article:01a1b743-4c0f-7a9f-1ccf-0ba06a4b883e</guid>
-      <description><![CDATA[Was diese Woche in den USA geschah, ist mehr als die Zurückweisung von Donald Trump. Es ist eine Lehre für die Zukunft.]]></description>
-      <pubDate>Sun, 08 Nov 2026 08:22:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Wo sind die Pilze geblieben?</title>
-      <link>https://journaldemorges.ch/actualite/terroir/mais-ou-sont-passes-les-champignons/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/terroir/mais-ou-sont-passes-les-champignons/</guid>
-      <description><![CDATA[Nach einem von Dürre geprägten Sommer ist die Pilzsaison durcheinandergeraten. Die Ernten in den lokalen Wäldern fallen besonders mager aus.]]></description>
-      <pubDate>Sun, 08 Nov 2026 08:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Wie der Aktienkauf rund um die Uhr funktionieren soll</title>
-      <link>https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html</link>
-      <guid isPermaLink="false">21b8e0d5-f2d4-459e-885b-3199f9ed061b</guid>
-      <description><![CDATA[Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach.]]></description>
-      <pubDate>Sun, 08 Nov 2026 07:35:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Gesellschaft] Störfaktoren im Alltag – Da hört die Toleranz aber auf!</title>
-      <link>https://www.srf.ch/kultur/gesellschaft-religion/stoerfaktoren-im-alltag-da-hoert-die-toleranz-aber-auf</link>
-      <guid isPermaLink="false">urn:srf:article:01a1aac0-8d82-8443-40a2-20b7c2b16411</guid>
-      <description><![CDATA[Schuhe im Haus und fehlende Kommas: Zwei SRF-Redaktorinnen testen die Grenzen ihrer Toleranz – an Kleinigkeiten.]]></description>
-      <pubDate>Sun, 08 Nov 2026 07:25:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Wahlen in Frankreich 2027 – Linksaussen-Kandidat Mélenchon: «Alles muss sich ändern!»</title>
-      <link>https://www.srf.ch/news/international/wahlen-in-frankreich-2027-linksaussen-kandidat-melenchon-alles-muss-sich-aendern</link>
-      <guid isPermaLink="false">urn:srf:article:01a1b8bb-d0f1-b9d4-8073-5dcb73861b9a</guid>
-      <description><![CDATA[Frankreichs Linksaussen-Kandidat Jean-Luc Mélenchon hat seine Wahlkampfkampagne offiziell gestartet.]]></description>
-      <pubDate>Sun, 08 Nov 2026 07:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Umnutzung – Im ältesten Kellerkino Basels rollt nun der Minigolfball</title>
-      <link>https://www.srf.ch/news/schweiz/umnutzung-im-aeltesten-kellerkino-basels-rollt-nun-der-minigolfball</link>
-      <guid isPermaLink="false">urn:srf:article:01a0fc8e-f1cc-933b-28fb-947b891239b4</guid>
-      <description><![CDATA[Die «Rollers Minigolf Bar» expandiert nach Basel. Standorte gibt es bereits in Genf, Lausanne und Bern.]]></description>
-      <pubDate>Sun, 08 Nov 2026 06:59:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
