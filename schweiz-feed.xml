@@ -5,14 +5,91 @@
     <link>https://script.google.com/macros/s/AKfycbz6SvTID90HKEdEWHahliKtZZxXUkzuV6VOIh6OltxPFDQJ-GQH/exec</link>
     <description>KI-gefilterter Newsfeed aus dem Google Sheet Schweiz</description>
     <language>de</language>
-    <lastBuildDate>Sat, 21 Nov 2026 05:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:58:39 GMT</lastBuildDate>
     <ttl>360</ttl>
     <item>
-      <title>[Tagesschau Wirtschaft] US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern</title>
-      <link>https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html</link>
-      <guid isPermaLink="false">2625e01a-e2b5-4e42-9222-bca453953790</guid>
-      <description><![CDATA[Für den Chemiekonzern Bayer könnten die Klagen wegen des Unkraut-Vernichters Roundup in den USA bald der Vergangenheit angehören. Ein US-Gericht hat einen milliardenschweren Vergleich des Konzerns mit Vertretern der Kläger gebilligt.]]></description>
-      <pubDate>Sat, 21 Nov 2026 03:50:50 GMT</pubDate>
+      <title>[20 Min Romandie] «Ich habe zwei Leidenschaften»: Die virale Hymne erobert auch die Schweiz</title>
+      <link>https://www.20min.ch/fr/video/greve-du-20-novembre-j-ai-deux-passions-l-hymne-viral-gagne-aussi-la-suisse-103671157</link>
+      <guid isPermaLink="false">https://www.20min.ch/fr/video/greve-du-20-novembre-j-ai-deux-passions-l-hymne-viral-gagne-aussi-la-suisse-103671157</guid>
+      <description><![CDATA[Am Freitagabend sangen Demonstranten sie in Genf während des Jugendstreiks. Auch Lausanne, Zürich, Bern und Basel mobilisierten sich.<br><br><strong>Wie wurde dieses Video überprüft?<br></strong><em>Die Bilder der Demonstrationen in der Schweiz wurden von Journalisten von 20 Minutes gefilmt. Die Sequenz des Gesangs in Paris stammt vom Instagram-Account des Orchestre du Nouveau]]></description>
+      <pubDate>Sat, 21 Nov 2026 11:15:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Die etwas anderen News – Big Tech ganz klein: Von Honigfallen und Softwarepannen</title>
+      <link>https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-big-tech-ganz-klein-von-honigfallen-und-softwarepannen</link>
+      <guid isPermaLink="false">urn:srf:article:01a1f7ba-8e92-79d9-ec83-58e5c73a5b85</guid>
+      <description><![CDATA[Mächtige Männer und modernste Technik haben eines gemeinsam: Sie sind anfällig für Angriffe von aussen.]]></description>
+      <pubDate>Sat, 21 Nov 2026 10:59:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Tabakfabrik in Dagmersellen – Wo 32 Millionen Zigaretten am Tag vom Band rollen</title>
+      <link>https://www.srf.ch/news/wirtschaft/tabakfabrik-in-dagmersellen-wo-32-millionen-zigaretten-am-tag-vom-band-rollen</link>
+      <guid isPermaLink="false">urn:srf:article:01a1ee33-c979-3df8-e618-1a5c022f38e1</guid>
+      <description><![CDATA[Die Tabakfirma Japan Tobacco International (JTI) produziert unter anderem im Kanton Luzern – aus guten Gründen.]]></description>
+      <pubDate>Sat, 21 Nov 2026 10:44:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Kritik an SVP-Bundesratsticket – Wahl von Aeschi und Graber sorgt parteiübergreifend für Unmut</title>
+      <link>https://www.srf.ch/news/schweiz/kritik-an-svp-bundesratsticket-wahl-von-aeschi-und-graber-sorgt-parteiuebergreifend-fuer-unmut</link>
+      <guid isPermaLink="false">urn:srf:article:01a1fd4f-784a-f563-15f6-1b7bdfb0e62c</guid>
+      <description><![CDATA[Die SVP schickt Thomas Aeschi und Michael Graber ins Rennen. Der Überblick über die Reaktionen.]]></description>
+      <pubDate>Sat, 21 Nov 2026 10:36:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] "Altersvorsorgedepot für nahezu alle Riester-Sparer interessant"</title>
+      <link>https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html</link>
+      <guid isPermaLink="false">3b603afd-ce06-4ca0-a5c8-aa8c300905e1</guid>
+      <description><![CDATA[Die Bundesregierung stellt die Altersvorsorge ab dem kommenden Jahr neu auf. Die staatliche Förderung könnte beim neuen Altersvorsorgedepot für viele lukrativer sein als beim bisherigen "Riestern". Das sollte man beachten. Von P. Sauer.]]></description>
+      <pubDate>Sat, 21 Nov 2026 10:20:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] Altersvorsorgedepot: Staatlich organisierter Fonds nicht startklar</title>
+      <link>https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html</link>
+      <guid isPermaLink="false">c85accd8-bdbc-438b-abc1-7a972ae7c9ab</guid>
+      <description><![CDATA[Zum Jahreswechsel startet das neue Modell der staatlichen Altersvorsorge, das Altersvorsorgedepot. Private Angebote gibt es längst - doch das öffentlich organisierte Basis-Fondsangebot wird dann wohl noch nicht bereit sein.]]></description>
+      <pubDate>Sat, 21 Nov 2026 10:16:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Tagesschau Wirtschaft] GTA VI spielt laut Konzern fast vier Milliarden Dollar am ersten Tag ein</title>
+      <link>https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html</link>
+      <guid isPermaLink="false">1248525f-0b14-4fc0-b044-948517cfc3a0</guid>
+      <description><![CDATA[Lange mussten GTA-Fans auf den sechsten Teil der Videospiel-Reihe warten - jetzt trägt der Hype Früchte. Nach Angaben von Rockstar Games erzielte das Spiel am ersten Verkaufstag einen Rekordumsatz von rund 3,8 Milliarden Dollar.]]></description>
+      <pubDate>Sat, 21 Nov 2026 09:39:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Berufsmesse Zürich – «In der Pflege würde man nie die KI fragen»</title>
+      <link>https://www.srf.ch/news/schweiz/berufsmesse-zuerich-in-der-pflege-wuerde-man-nie-die-ki-fragen</link>
+      <guid isPermaLink="false">urn:srf:article:01a1f3e2-0714-327f-cc5c-500ba1befd49</guid>
+      <description><![CDATA[An der Berufsmesse in Zürich erzählen Jugendliche, wie sie auf die Arbeitswelt von morgen blicken.]]></description>
+      <pubDate>Sat, 21 Nov 2026 08:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Ausstellung über Pino Rauti – Wie viel Faschismus darf man in Italiens Parlament zeigen?</title>
+      <link>https://www.srf.ch/news/international/ausstellung-ueber-pino-rauti-wie-viel-faschismus-darf-man-in-italiens-parlament-zeigen</link>
+      <guid isPermaLink="false">urn:srf:article:01a1f887-bab6-fc7a-75b9-e2ab15fe9faf</guid>
+      <description><![CDATA[Italien hat Mühe, mit seiner dunklen Geschichte umzugehen. Neuestes Beispiel: eine Ausstellung im Parlament in Rom.]]></description>
+      <pubDate>Sat, 21 Nov 2026 08:00:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] UNO-Konferenz in Genf – Regeln für Killerroboter: Gespräche enden mit Minimalkonsens</title>
+      <link>https://www.srf.ch/news/international/uno-konferenz-in-genf-regeln-fuer-killerroboter-gespraeche-enden-mit-minimalkonsens</link>
+      <guid isPermaLink="false">urn:srf:article:01a1fcf4-4d89-7287-ce65-a5d6b59242ff</guid>
+      <description><![CDATA[Die Länder konnten sich bei den Verhandlungen nicht auf ein Verbot einigen. Nun sollen Experten weiter beraten.]]></description>
+      <pubDate>Sat, 21 Nov 2026 07:42:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Ausland] Brandstiftung – Prozess um Palisades-Feuer in LA: Mann schuldig gesprochen</title>
+      <link>https://www.srf.ch/news/international/brandstiftung-prozess-um-palisades-feuer-in-la-mann-schuldig-gesprochen</link>
+      <guid isPermaLink="false">urn:srf:article:01a1fcc3-0bfe-0ba7-8708-81b9577f561d</guid>
+      <description><![CDATA[Geschworene haben den Mann wegen Brandstiftung schuldig gesprochen. Das Strafmass steht noch nicht fest.]]></description>
+      <pubDate>Sat, 21 Nov 2026 06:45:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[SRF Schweiz] Uber Eats und Just Eat – Lieferdienste werden in den meisten Kantonen nicht kontrolliert</title>
+      <link>https://www.srf.ch/news/wirtschaft/uber-eats-und-just-eat-lieferdienste-werden-in-den-meisten-kantonen-nicht-kontrolliert</link>
+      <guid isPermaLink="false">urn:srf:article:01a1f856-77da-9df1-bf6b-c6761d3db37e</guid>
+      <description><![CDATA[Eine SRF-Umfrage zeigt: Trotz teils prekärer Arbeit – die Arbeitsbedingungen von Essenskurieren werden kaum geprüft.]]></description>
+      <pubDate>Sat, 21 Nov 2026 06:40:08 GMT</pubDate>
     </item>
     <item>
       <title>[Tagesschau Europa] Tote und Verletzte bei Raketenangriff auf Krywyj Rih</title>
@@ -85,13 +162,6 @@
       <pubDate>Fri, 20 Nov 2026 20:01:55 GMT</pubDate>
     </item>
     <item>
-      <title>[Tagesschau Wirtschaft] Mehr als 100 Betriebe beteiligt: IG Metall setzt weiter auf ganztätige Warnstreiks</title>
-      <link>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html</link>
-      <guid isPermaLink="false">ee233ed6-ec1d-4570-bfcb-fb2315551f7f</guid>
-      <description><![CDATA[BMW und Audi in Bayern, Werften im Norden: Mehr als Hunderttausend Beschäftigte haben für 24 Stunden die Arbeit niedergelegt. Ein neues Gesprächsangebot hat die Streikwelle vorerst nicht gestoppt. In der kommenden Woche geht es weiter.]]></description>
-      <pubDate>Fri, 20 Nov 2026 19:58:08 GMT</pubDate>
-    </item>
-    <item>
       <title>[SRF Gesellschaft] Weltreligionen im Wandel – Studie: Islam könnte bis 2070 grösste Religion der Welt werden</title>
       <link>https://www.srf.ch/kultur/gesellschaft-religion/weltreligionen-im-wandel-studie-islam-koennte-bis-2070-groesste-religion-der-welt-werden</link>
       <guid isPermaLink="false">urn:srf:article:01a1f90f-e3be-9604-c00f-81b26639bb7d</guid>
@@ -106,7 +176,7 @@
       <pubDate>Fri, 20 Nov 2026 18:28:03 GMT</pubDate>
     </item>
     <item>
-      <title>[Tagesschau Europa] Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurfs</title>
+      <title>[Tagesschau Europa] Vergewaltigungsvorwurf: Anzeige gegen Depardieu und Houellebecq</title>
       <link>https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html</link>
       <guid isPermaLink="false">2a84fc2a-2be1-42cd-8279-49176f351a7b</guid>
       <description><![CDATA[Gegen den Schauspieler Gérard Depardieu und den Schriftsteller Michel Houellebecq liegt eine neue Anzeige vor - es geht um den Vorwurf der Gruppenvergewaltigung. Laut einem Medienbericht geschah diese 2018 bei einem Filmdreh. Von C. Rienäcker.]]></description>
@@ -272,174 +342,6 @@
       <guid isPermaLink="false">https://www.20min.ch/fr/story/g7-a-geneve-crise-de-la-nasse-policiere-en-main-d-un-procureur-extraordinaire-103670668</guid>
       <description><![CDATA[Die Staatsanwaltschaft gibt die Untersuchung über das Sicherheitsdispositiv auf, das am Ende der NoG7-Demo im Juni 500 Personen stundenlang festgehalten hatte.]]></description>
       <pubDate>Fri, 20 Nov 2026 12:28:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Verhindertes Stauseeprojekt – Wie ein Bündner Tal die Stromkonzerne stoppte</title>
-      <link>https://www.srf.ch/news/dialog/verhindertes-stauseeprojekt-wie-ein-buendner-tal-die-stromkonzerne-stoppte</link>
-      <guid isPermaLink="false">urn:srf:article:01a1f855-7bab-4e5c-0365-640dcab9ff7a</guid>
-      <description><![CDATA[Ein gigantischer Stausee sollte das Bündner Rheinwald verschlingen. 1946 scheiterte das Projekt am lokalen Widerstand.]]></description>
-      <pubDate>Fri, 20 Nov 2026 11:53:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Nike, Crocs &amp; Co.: – Güterzüge geplündert: Millionenklau in den USA</title>
-      <link>https://www.srf.ch/news/international/nike-crocs-co-gueterzuege-gepluendert-millionenklau-in-den-usa</link>
-      <guid isPermaLink="false">urn:srf:article:01a1f854-6a2b-3fd4-8a2c-6c9be9c7bc12</guid>
-      <description><![CDATA[Sie sollen Waren aus Güterzügen im Wert von 22 Millionen Dollar gestohlen haben. Nun steht die Bande vor Gericht.]]></description>
-      <pubDate>Fri, 20 Nov 2026 11:14:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Ein Referendum zur Verteidigung günstiger Wohnungen wurde lanciert</title>
-      <link>https://www.20min.ch/fr/story/geneve-un-referendum-lance-pour-defendre-les-logements-bon-marche-103670628</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-un-referendum-lance-pour-defendre-les-logements-bon-marche-103670628</guid>
-      <description><![CDATA[Während die Rechte gerade eine Reduzierung der Anzahl der HBM-Wohnungen in den Entwicklungszonen beschlossen hat, wollen die Linke und der Mieterverband (ASLOCA) das Thema vor das Volk bringen.]]></description>
-      <pubDate>Fri, 20 Nov 2026 10:57:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Geldmaschine Panamakanal – Der Panamakanal: Umworbener Flaschenhals der Weltschifffahrt</title>
-      <link>https://www.srf.ch/news/international/geldmaschine-panamakanal-der-panamakanal-umworbener-flaschenhals-der-weltschifffahrt</link>
-      <guid isPermaLink="false">urn:srf:article:01a1e9ef-5ad2-50ff-2d2b-1ad388d917fb</guid>
-      <description><![CDATA[Fast 14'000 Schiffe passieren pro Jahr den Panamakanal. Das bringt Milliarden ein und Begehrlichkeiten der Grossmächte.]]></description>
-      <pubDate>Fri, 20 Nov 2026 10:38:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] Die Verlängerung von Cornavin könnte durch ein Referendum verzögert werden</title>
-      <link>https://www.20min.ch/fr/story/geneve-l-extension-de-cornavin-pourrait-etre-retardee-par-un-referendum-103670574</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/geneve-l-extension-de-cornavin-pourrait-etre-retardee-par-un-referendum-103670574</guid>
-      <description><![CDATA[Die Entschädigung des Betreibers des Bahnhofsparkplatzes sorgt für Diskussionen. Die MCG ficht die vom Gemeinderat beschlossene Vereinbarung an und will der Bevölkerung das letzte Wort überlassen.]]></description>
-      <pubDate>Fri, 20 Nov 2026 10:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Wunderkind aus Australien – Leihani Zoric schreibt Surf-Geschichte</title>
-      <link>https://www.srf.ch/news/international/wunderkind-aus-australien-leihani-zoric-schreibt-surf-geschichte</link>
-      <guid isPermaLink="false">urn:srf:article:01a1f84a-b237-9072-05d2-b26ace91a93a</guid>
-      <description><![CDATA[Mit 14 wird Leihani Zoric Surfweltmeisterin und stellt die Sportwelt auf den Kopf.]]></description>
-      <pubDate>Fri, 20 Nov 2026 10:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Gender Pay Gap: Frauen arbeiten den Rest des Jahres kostenlos</title>
-      <link>https://www.tagesschau.de/wirtschaft/arbeitsmarkt/gender-pay-gap-140.html</link>
-      <guid isPermaLink="false">9bb6e177-39c1-4300-90b5-9589acb5066e</guid>
-      <description><![CDATA[Von heute bis zum Jahresende arbeiten Frauen in der EU quasi unbezahlt - so groß ist die rechnerische Lohnlücke im Schnitt. Neue Transparenzregeln sollen Veränderung bringen, doch Deutschland hat die Frist der EU verstreichen lassen.]]></description>
-      <pubDate>Fri, 20 Nov 2026 10:09:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Luxusimage beschädigt? – Beckham klagt wegen Parfüms im Ramschregal</title>
-      <link>https://www.srf.ch/news/international/luxusimage-beschaedigt-beckham-klagt-wegen-parfuems-im-ramschregal</link>
-      <guid isPermaLink="false">urn:srf:article:01a1f837-54a3-834c-1e80-3543c25c1629</guid>
-      <description><![CDATA[David Beckham verklagt Kosmetikkonzern Coty: Seine Parfüms sollen in Ramschläden und an Tankstellen gelandet sein.]]></description>
-      <pubDate>Fri, 20 Nov 2026 10:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Was die Volkswagen-Forderungen für Beschäftigte bedeuten könnten</title>
-      <link>https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifstreit-ig-metall-100.html</link>
-      <guid isPermaLink="false">e88cd941-9279-4390-aee1-b4df191ad63b</guid>
-      <description><![CDATA[Kein Lohnplus, mehr Arbeit, weniger Extras: VW hat der IG Metall einen Forderungskatalog vorgelegt, der es in sich hat. Was auf die Beschäftigten zukommen könnte - und warum eine schnelle Einigung kaum möglich ist.]]></description>
-      <pubDate>Fri, 20 Nov 2026 09:55:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] HSG-Seelsorge – Der Beichtvater der Uni St. Gallen geht in Pension</title>
-      <link>https://www.srf.ch/news/schweiz/hsg-seelsorge-der-beichtvater-der-uni-st-gallen-geht-in-pension</link>
-      <guid isPermaLink="false">urn:srf:article:01a1ee88-3ac6-b5d4-c93b-1f0a656b0e68</guid>
-      <description><![CDATA[Seit 25 Jahren begleitet Thomas Reschke HSG-Studierende. Nun geht der Uniseelsorger in Pension.]]></description>
-      <pubDate>Fri, 20 Nov 2026 09:42:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Neue EU-Regeln ab heute: Mehr Schutz vor Verschuldung bei Kleinkrediten</title>
-      <link>https://www.tagesschau.de/wirtschaft/kleinkredite-neue-regeln-verschuldung-100.html</link>
-      <guid isPermaLink="false">0321eb5a-9f0b-49d1-b19f-f3208b895472</guid>
-      <description><![CDATA[Mehr Schutz für Verbraucher, mehr Kontrolle bei Krediten: Von heute an gilt die neue Verbraucherkreditrichtlinie. Selbst kleine Beträge wie bei "Heute kaufen, später zahlen" verlangen von Anbietern nun mehr Aufwand. Von Juri Sonnenholzner.]]></description>
-      <pubDate>Fri, 20 Nov 2026 09:22:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Kinderbetreuung in der Schweiz – Weshalb in Städten und auf dem Land vermehrt Kitas schliessen</title>
-      <link>https://www.srf.ch/news/schweiz/kinderbetreuung-in-der-schweiz-weshalb-in-staedten-und-auf-dem-land-vermehrt-kitas-schliessen</link>
-      <guid isPermaLink="false">urn:srf:article:01a1edd7-8266-6ad3-afde-f37ece8fe62a</guid>
-      <description><![CDATA[Der Kindertagesstätten-Boom scheint vorbei. Derzeit schliessen diverse Kitas, aus unterschiedlichen Gründen.]]></description>
-      <pubDate>Fri, 20 Nov 2026 08:46:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Krankenkassenprämien – Veraltete Prämienregionen: Die Ungerechtigkeit bleibt</title>
-      <link>https://www.srf.ch/sendungen/kassensturz-espresso/espresso/krankenkassenpraemien-veraltete-praemienregionen-die-ungerechtigkeit-bleibt</link>
-      <guid isPermaLink="false">urn:srf:article:01a1ef04-39b4-7e3a-6107-2658c630b305</guid>
-      <description><![CDATA[Die Einteilung der Prämienregionen in den Kantonen ist über 20 Jahre alt. Dennoch wird sie nicht angepasst.]]></description>
-      <pubDate>Fri, 20 Nov 2026 08:36:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[20 Min Romandie] In diesen Regionen ist die Lawinengefahr bereits hoch</title>
-      <link>https://www.20min.ch/fr/story/suissemeteo-dans-ces-regions-le-danger-d-avalanche-est-deja-eleve-103670550</link>
-      <guid isPermaLink="false">https://www.20min.ch/fr/story/suissemeteo-dans-ces-regions-le-danger-d-avalanche-est-deja-eleve-103670550</guid>
-      <description><![CDATA[Lokalerweise ist in den Schweizer Bergen in den letzten Tagen mehr als ein Meter Schnee gefallen. Das Lawinenrisiko ist im Waadtland (Vaud) und im Wallis besonders hoch.]]></description>
-      <pubDate>Fri, 20 Nov 2026 08:07:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Zwei Sitze zu verteidigen für die Grünliberalen</title>
-      <link>https://journaldemorges.ch/actualite/deux-sieges-a-assurer-pour-les-vertliberaux/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/deux-sieges-a-assurer-pour-les-vertliberaux/</guid>
-      <description><![CDATA[Die grünliberale Partei des Bezirks hat ihre Kampagne für die Kantonsratswahlen gestartet. Sechzehn Kandidaten werden versuchen, sich einen Platz im Waadtländer Parlament zu sichern.]]></description>
-      <pubDate>Fri, 20 Nov 2026 08:05:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] EU-Grossbritannien-Gipfel – London und Brüssel: Annäherung mit angezogener Handbremse</title>
-      <link>https://www.srf.ch/news/international/eu-grossbritannien-gipfel-london-und-bruessel-annaeherung-mit-angezogener-handbremse</link>
-      <guid isPermaLink="false">urn:srf:article:01a1f445-b37b-4bc2-9933-c7590ae3ac49</guid>
-      <description><![CDATA[Die EU und Grossbritannien nähern sich wieder an. Doch vor dem Gipfeltreffen in Brüssel zeigt sich: Es bleibt zäh.]]></description>
-      <pubDate>Fri, 20 Nov 2026 08:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Raphael Henry ist der 600. Bürger von Ballens</title>
-      <link>https://journaldemorges.ch/actualite/societe/raphael-henry-est-le-600e-citoyen-de-ballens/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/actualite/societe/raphael-henry-est-le-600e-citoyen-de-ballens/</guid>
-      <description><![CDATA[Das Neugeborene ging bei einer kleinen Feier zu seinen Ehren in Anwesenheit seiner Eltern, seines Bruders und der Behörden in die Geschichte der Gemeinde ein.]]></description>
-      <pubDate>Fri, 20 Nov 2026 07:57:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia</title>
-      <link>https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html</link>
-      <guid isPermaLink="false">6714cdad-1705-446e-b688-197c5bd487a0</guid>
-      <description><![CDATA[Nach dem Rücktritt von Nvidia-Chef Huang kommt der Chiphersteller nicht zur Ruhe. Jetzt wollen kalifornische Behörden untersuchen, ob und wie KI-Chips oder Informationen illegal nach China gelangt sein könnten.]]></description>
-      <pubDate>Fri, 20 Nov 2026 07:47:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Tagesschau Wirtschaft] WG-Mieten steigen stark: Kann sich die Gen Z Wohnen noch leisten?</title>
-      <link>https://www.tagesschau.de/inland/gesellschaft/wg-zimmer-gen-z-proteste-wohnungskrise-100.html</link>
-      <guid isPermaLink="false">4ad702e7-c4e7-4eb9-b0ae-202c9338f351</guid>
-      <description><![CDATA[Heute demonstrieren erneut junge Menschen unter dem Motto "Gen Z regelt". Es geht ihnen auch um ein bezahlbares Leben. Denn inzwischen entscheiden auch Mietpreise darüber, wer wo studieren kann. Von Alexander C. Mühlhausen.]]></description>
-      <pubDate>Fri, 20 Nov 2026 06:48:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Dreiergipfel in China – Expertin: «Für Europa ist das eine bedrohliche Nachricht»</title>
-      <link>https://www.srf.ch/news/international/dreiergipfel-in-china-expertin-fuer-europa-ist-das-eine-bedrohliche-nachricht</link>
-      <guid isPermaLink="false">urn:srf:article:01a1f3ea-8a7d-7a92-36bb-2aeab44211b4</guid>
-      <description><![CDATA[Erstmals trafen sich die Staatschefs von China, den USA und Russland zu dritt. Was das für Europa bedeutet.]]></description>
-      <pubDate>Fri, 20 Nov 2026 06:45:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Ausland] Polizeieinsatz im Krisenstaat – Haitianische Polizei tötet 34 mutmassliche Bandenmitglieder</title>
-      <link>https://www.srf.ch/news/international/polizeieinsatz-im-krisenstaat-haitianische-polizei-toetet-34-mutmassliche-bandenmitglieder</link>
-      <guid isPermaLink="false">urn:srf:article:01a1f75c-9a18-8b28-d6dc-9f99d56ea0c8</guid>
-      <description><![CDATA[Die Sicherheitskräfte gehen rigoros gegen marodierende Banden vor. Nun gab es Dutzende Tote im karibischen Krisenstaat.]]></description>
-      <pubDate>Fri, 20 Nov 2026 06:22:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Bevölkerungsumfrage – Schweizer Bevölkerung akzeptiert Rechenzentren – mit Bedingungen</title>
-      <link>https://www.srf.ch/news/schweiz/bevoelkerungsumfrage-schweizer-bevoelkerung-akzeptiert-rechenzentren-mit-bedingungen</link>
-      <guid isPermaLink="false">urn:srf:article:01a1f2eb-df18-1bb6-a636-b1418179fedf</guid>
-      <description><![CDATA[Dass in der Schweiz neue Rechenzentren entstehen, ist in weiten Teilen der Bevölkerung akzeptiert, zeigt eine Studie.]]></description>
-      <pubDate>Fri, 20 Nov 2026 05:55:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[SRF Schweiz] Bestimmen Sie mit! – Welches ist Ihr «Wort des Jahres» 2026?</title>
-      <link>https://www.srf.ch/radio-srf-1/mundart/bestimmen-sie-mit-welches-ist-ihr-wort-des-jahres-2026</link>
-      <guid isPermaLink="false">urn:srf:article:01a1cf69-3c41-0d5e-bd16-7a32a63d5bc0</guid>
-      <description><![CDATA[Was hat die Schweiz 2026 bewegt? Geben Sie Ihren Vorschlag ab und tragen Sie so zur Wahl des Wortes des Jahres bei.]]></description>
-      <pubDate>Fri, 20 Nov 2026 05:42:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Journal de Morges] Die Bedeutung des lokalen Handelsnetzwerks</title>
-      <link>https://journaldemorges.ch/opinions/limportance-du-tissu-commercial-local/</link>
-      <guid isPermaLink="false">https://journaldemorges.ch/opinions/limportance-du-tissu-commercial-local/</guid>
-      <description><![CDATA[Unser Chefredakteur Cédric Jotterand blickt diese Woche auf die Rolle der lokalen Geschäfte für die Vitalität der Region zurück, oft ohne dass man es sich unbedingt bewusst ist.]]></description>
-      <pubDate>Fri, 20 Nov 2026 05:36:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
